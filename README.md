@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Eram Style Advisor
 
-## Getting Started
+Application web qui recommande des tenues (vêtements + chaussures) du Groupe Eram — marques **Eram, Gemo, TBS, Bocage** — en fonction de l'occasion, de la saison, du genre, du budget, du style et des tailles. La recommandation est composée par l'IA (Claude) parmi un catalogue préfiltré côté serveur.
 
-First, run the development server:
+> ⚠️ **Projet pédagogique d'alternance** — les données produits sont fictives, générées via Faker.js. Aucun lien commercial avec le Groupe Eram.
+
+## Stack
+
+- **Next.js 16** (App Router) + **React 19** + **TypeScript strict** + **Tailwind v4**
+- **Anthropic Claude** (`claude-sonnet-4-6`) pour la génération de tenues
+- **Supabase** (région UE) — Auth + tenues sauvegardées (à venir J1 après-midi)
+- **Plausible Analytics** (UE, sans cookie) — à venir J2
+- **Zod** pour la validation (côté serveur ET côté client)
+- **Vercel** pour l'hébergement (région `cdg1` / `fra1`)
+
+## Démarrage local
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+cp .env.example .env.local       # remplir ANTHROPIC_API_KEY
+npm run catalog:generate          # génère data/catalog.json (100 produits)
+npm run dev                       # http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Prérequis : Node ≥ 20 (testé sous Node 24).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Scripts
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Commande | Effet |
+|---|---|
+| `npm run dev` | serveur de développement Next.js |
+| `npm run build` | build de production |
+| `npm run start` | démarre le build de prod |
+| `npm run lint` | ESLint |
+| `npm run catalog:generate` | régénère `data/catalog.json` (idempotent, seed fixe) |
 
-## Learn More
+## Documentation
 
-To learn more about Next.js, take a look at the following resources:
+La documentation suit le framework [Diátaxis](https://diataxis.fr/). Index complet : [`docs/README.md`](docs/README.md).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Tutoriels** ([`docs/tutorials/`](docs/tutorials/)) — guides pas-à-pas
+- **Guides** ([`docs/how-to/`](docs/how-to/)) — résoudre un problème précis
+- **Référence** ([`docs/reference/`](docs/reference/)) — schéma BDD, registre RGPD, grille RGAA, variables d'environnement
+- **Explication** ([`docs/explanation/`](docs/explanation/)) — ADRs (Architecture Decision Records), stratégies de conformité
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+ADRs déjà rédigés :
 
-## Deploy on Vercel
+- [ADR-001 — Stack EU pour conformité RGPD](docs/explanation/adr-001-stack-eu-rgpd.md)
+- [ADR-002 — Catalogue produits en JSON statique](docs/explanation/adr-002-catalogue-json-statique.md)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Conformité — exigences non-négociables
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Trois axes intégrés dès le départ :
+
+- **RGPD** — minimisation des données (email + tenues seulement), hébergement EU exclusif, endpoints export/suppression conformes art. 17/20.
+- **RGAA 4.1.2** — accessibilité numérique (sémantique HTML5, contrastes AA, navigation clavier, focus visible, alternatives textuelles).
+- **RGESN** — éco-conception (préfiltrage du catalogue avant l'appel IA, cache des recommandations, polices système, ≤ 2 animations par page, pas de carrousel).
+
+Voir [ADR-001](docs/explanation/adr-001-stack-eu-rgpd.md) pour le raisonnement détaillé.
