@@ -1,24 +1,26 @@
 [
   {
-    "id": "6492457c-3890-4921-affc-41a7170e4a48",
+    "id": "92457c38-9092-41ff-bc41-a7170e4a4882",
     "marque": "Gemo",
     "categorie": "accessoire",
     "nom": "Bonnet moderne moutarde",
-    "description": "Bonnet en lin moutarde, coupe moderne. Idéal pour vos sorties quotidien.",
-    "prix_eur": 15.99,
+    "description": "Bonnet en lin moutarde, coupe moderne. Idéal pour vos sorties fête.",
+    "prix_eur": 10.99,
     "genre": "homme",
     "styles": [
+      "sportif",
       "chic",
       "streetwear"
     ],
     "saisons": [
-      "automne"
+      "hiver"
     ],
     "occasions": [
-      "quotidien",
+      "travail",
+      "cérémonie",
       "mariage",
-      "baptême",
-      "cérémonie"
+      "fête",
+      "baptême"
     ],
     "tailles_disponibles": [
       "unique"
@@ -26,1694 +28,253 @@
     "couleurs": [
       "moutarde"
     ],
-    "image_url": "https://loremflickr.com/600/800/beanie?lock=309331",
-    "url_produit": "https://www.gemo.fr/produits/6492457c-3890-4921-affc-41a7170e4a48"
+    "image_url": "https://loremflickr.com/600/800/beanie?lock=29774",
+    "url_produit": "https://www.gemo.fr/produits/92457c38-9092-41ff-bc41-a7170e4a4882"
   },
   {
-    "id": "fc30dbbc-151d-4951-845b-ae71bc8c7860",
+    "id": "c30dbbc1-51d9-4514-85ba-e71bc8c78601",
     "marque": "Bocage",
-    "categorie": "chaussures",
-    "nom": "Boots tendance gris",
-    "description": "Boots en maille gris, coupe tendance. Idéal pour vos sorties mariage.",
-    "prix_eur": 90.99,
-    "genre": "unisexe",
-    "styles": [
-      "streetwear"
-    ],
-    "saisons": [
-      "printemps",
-      "automne"
-    ],
-    "occasions": [
-      "mariage",
-      "travail",
-      "baptême"
-    ],
-    "tailles_disponibles": [
-      "44",
-      "40"
-    ],
-    "couleurs": [
-      "gris"
-    ],
-    "image_url": "https://loremflickr.com/600/800/boots?lock=64643",
-    "url_produit": "https://www.bocage.fr/produits/fc30dbbc-151d-4951-845b-ae71bc8c7860"
-  },
-  {
-    "id": "5136dd08-6315-4f58-8b5f-f474409804e3",
-    "marque": "TBS",
-    "categorie": "bas",
-    "nom": "Chino intemporel écru",
-    "description": "Chino en soie écru, coupe intemporel. Idéal pour vos sorties travail.",
-    "prix_eur": 103.99,
-    "genre": "homme",
-    "styles": [
-      "streetwear",
-      "classique"
-    ],
-    "saisons": [
-      "printemps",
-      "automne"
-    ],
-    "occasions": [
-      "travail",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "44",
-      "48"
-    ],
-    "couleurs": [
-      "écru",
-      "noir",
-      "beige"
-    ],
-    "image_url": "https://loremflickr.com/600/800/chinos?lock=551386",
-    "url_produit": "https://www.tbs.fr/produits/5136dd08-6315-4f58-8b5f-f474409804e3"
-  },
-  {
-    "id": "6e251ee4-ad88-431e-aea5-5beeca12e901",
-    "marque": "Bocage",
-    "categorie": "haut",
-    "nom": "Top intemporel rouge",
-    "description": "Top en cachemire rouge, coupe intemporel. Idéal pour vos sorties anniversaire.",
-    "prix_eur": 81.99,
-    "genre": "homme",
-    "styles": [
-      "sportif"
-    ],
-    "saisons": [
-      "été"
-    ],
-    "occasions": [
-      "anniversaire",
-      "baptême",
-      "travail",
-      "mariage"
-    ],
-    "tailles_disponibles": [
-      "XXL",
-      "S",
-      "XL",
-      "XS"
-    ],
-    "couleurs": [
-      "rouge",
-      "bleu ciel"
-    ],
-    "image_url": "https://loremflickr.com/600/800/top?lock=928347",
-    "url_produit": "https://www.bocage.fr/produits/6e251ee4-ad88-431e-aea5-5beeca12e901"
-  },
-  {
-    "id": "c8973b40-a2ff-4e50-ae6f-fd46d528eb91",
-    "marque": "Eram",
-    "categorie": "robe",
-    "nom": "Robe chemise intemporel marine",
-    "description": "Robe chemise en cachemire marine, coupe intemporel. Idéal pour vos sorties fête.",
-    "prix_eur": 108.99,
-    "genre": "femme",
-    "styles": [
-      "casual"
-    ],
-    "saisons": [
-      "printemps",
-      "été",
-      "automne"
-    ],
-    "occasions": [
-      "anniversaire",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "XS",
-      "S",
-      "M",
-      "XL",
-      "L"
-    ],
-    "couleurs": [
-      "marine"
-    ],
-    "image_url": "https://loremflickr.com/600/800/dress?lock=357669",
-    "url_produit": "https://www.eram.fr/produits/c8973b40-a2ff-4e50-ae6f-fd46d528eb91"
-  },
-  {
-    "id": "4900d528-c391-4088-8abf-85c4710fdb62",
-    "marque": "Eram",
-    "categorie": "robe",
-    "nom": "Combinaison classique vert sauge",
-    "description": "Combinaison en cachemire vert sauge, coupe classique. Idéal pour vos sorties fête.",
-    "prix_eur": 101.99,
-    "genre": "enfant",
-    "styles": [
-      "casual",
-      "classique"
-    ],
-    "saisons": [
-      "hiver"
-    ],
-    "occasions": [
-      "fête",
-      "travail",
-      "mariage"
-    ],
-    "tailles_disponibles": [
-      "10",
-      "4",
-      "12",
-      "6",
-      "8",
-      "16",
-      "14"
-    ],
-    "couleurs": [
-      "vert sauge",
-      "marine"
-    ],
-    "image_url": "https://loremflickr.com/600/800/jumpsuit?lock=792560",
-    "url_produit": "https://www.eram.fr/produits/4900d528-c391-4088-8abf-85c4710fdb62"
-  },
-  {
-    "id": "772669a0-5a8d-4a21-8a09-f96a78f6fe31",
-    "marque": "Gemo",
-    "categorie": "chaussures",
-    "nom": "Bottines fluide kaki",
-    "description": "Bottines en cachemire kaki, coupe fluide. Idéal pour vos sorties quotidien.",
-    "prix_eur": 23.99,
-    "genre": "homme",
-    "styles": [
-      "chic"
-    ],
-    "saisons": [
-      "hiver"
-    ],
-    "occasions": [
-      "quotidien",
-      "cérémonie"
-    ],
-    "tailles_disponibles": [
-      "39",
-      "44",
-      "41"
-    ],
-    "couleurs": [
-      "kaki",
-      "bleu ciel"
-    ],
-    "image_url": "https://loremflickr.com/600/800/boots?lock=8111",
-    "url_produit": "https://www.gemo.fr/produits/772669a0-5a8d-4a21-8a09-f96a78f6fe31"
-  },
-  {
-    "id": "6cc1e8d5-e60e-415f-bf9a-745accc17087",
-    "marque": "Eram",
-    "categorie": "chaussures",
-    "nom": "Bottines raffiné bleu ciel",
-    "description": "Bottines en coton bleu ciel, coupe raffiné. Idéal pour vos sorties quotidien.",
-    "prix_eur": 135.99,
-    "genre": "femme",
-    "styles": [
-      "classique",
-      "streetwear"
-    ],
-    "saisons": [
-      "printemps",
-      "été",
-      "automne"
-    ],
-    "occasions": [
-      "baptême",
-      "quotidien",
-      "anniversaire"
-    ],
-    "tailles_disponibles": [
-      "35",
-      "36",
-      "40",
-      "39",
-      "41"
-    ],
-    "couleurs": [
-      "bleu ciel",
-      "noir",
-      "marine"
-    ],
-    "image_url": "https://loremflickr.com/600/800/boots?lock=649205",
-    "url_produit": "https://www.eram.fr/produits/6cc1e8d5-e60e-415f-bf9a-745accc17087"
-  },
-  {
-    "id": "86e17070-11ab-49f5-a4d3-f0f0e8f18f8a",
-    "marque": "Eram",
-    "categorie": "haut",
-    "nom": "Veste moderne bleu ciel",
-    "description": "Veste en coton bleu ciel, coupe moderne. Idéal pour vos sorties travail.",
-    "prix_eur": 67.99,
-    "genre": "enfant",
-    "styles": [
-      "bohême"
-    ],
-    "saisons": [
-      "printemps"
-    ],
-    "occasions": [
-      "baptême",
-      "travail",
-      "cérémonie",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "14",
-      "2"
-    ],
-    "couleurs": [
-      "bleu ciel",
-      "vert sauge",
-      "noir"
-    ],
-    "image_url": "https://loremflickr.com/600/800/jacket?lock=923590",
-    "url_produit": "https://www.eram.fr/produits/86e17070-11ab-49f5-a4d3-f0f0e8f18f8a"
-  },
-  {
-    "id": "edfb96ed-006c-4f29-b6fd-d7640ddff8cf",
-    "marque": "TBS",
-    "categorie": "robe",
-    "nom": "Robe intemporel beige",
-    "description": "Robe en maille beige, coupe intemporel. Idéal pour vos sorties cérémonie.",
-    "prix_eur": 73.99,
-    "genre": "enfant",
-    "styles": [
-      "classique"
-    ],
-    "saisons": [
-      "automne",
-      "hiver"
-    ],
-    "occasions": [
-      "cérémonie",
-      "baptême",
-      "travail",
-      "quotidien"
-    ],
-    "tailles_disponibles": [
-      "16",
-      "6",
-      "8"
-    ],
-    "couleurs": [
-      "beige",
-      "rouge",
-      "bordeaux"
-    ],
-    "image_url": "https://loremflickr.com/600/800/dress?lock=692357",
-    "url_produit": "https://www.tbs.fr/produits/edfb96ed-006c-4f29-b6fd-d7640ddff8cf"
-  },
-  {
-    "id": "3205966e-58c6-49df-a2e7-47f75a312222",
-    "marque": "Gemo",
-    "categorie": "haut",
-    "nom": "Veste intemporel noir",
-    "description": "Veste en cachemire noir, coupe intemporel. Idéal pour vos sorties quotidien.",
-    "prix_eur": 27.99,
-    "genre": "unisexe",
-    "styles": [
-      "bohême",
-      "classique"
-    ],
-    "saisons": [
-      "printemps",
-      "été"
-    ],
-    "occasions": [
-      "quotidien",
-      "mariage"
-    ],
-    "tailles_disponibles": [
-      "S",
-      "XL",
-      "M",
-      "XXL",
-      "L"
-    ],
-    "couleurs": [
-      "noir",
-      "kaki"
-    ],
-    "image_url": "https://loremflickr.com/600/800/jacket?lock=227829",
-    "url_produit": "https://www.gemo.fr/produits/3205966e-58c6-49df-a2e7-47f75a312222"
-  },
-  {
-    "id": "8b0ca1de-04cb-4235-9795-7b04be881783",
-    "marque": "Gemo",
     "categorie": "accessoire",
-    "nom": "Sac à main moderne gris",
-    "description": "Sac à main en lin gris, coupe moderne. Idéal pour vos sorties anniversaire.",
-    "prix_eur": 12.99,
-    "genre": "femme",
-    "styles": [
-      "casual"
-    ],
-    "saisons": [
-      "été"
-    ],
-    "occasions": [
-      "anniversaire",
-      "mariage"
-    ],
-    "tailles_disponibles": [
-      "unique"
-    ],
-    "couleurs": [
-      "gris"
-    ],
-    "image_url": "https://loremflickr.com/600/800/handbag?lock=863226",
-    "url_produit": "https://www.gemo.fr/produits/8b0ca1de-04cb-4235-9795-7b04be881783"
-  },
-  {
-    "id": "f9312322-42e1-486f-916f-dd42ae894c25",
-    "marque": "Eram",
-    "categorie": "bas",
-    "nom": "Pantalon moderne vert sauge",
-    "description": "Pantalon en maille vert sauge, coupe moderne. Idéal pour vos sorties anniversaire.",
-    "prix_eur": 64.99,
-    "genre": "femme",
-    "styles": [
-      "chic"
-    ],
-    "saisons": [
-      "printemps",
-      "été"
-    ],
-    "occasions": [
-      "travail",
-      "anniversaire"
-    ],
-    "tailles_disponibles": [
-      "42",
-      "38",
-      "40",
-      "34"
-    ],
-    "couleurs": [
-      "vert sauge",
-      "rose poudré"
-    ],
-    "image_url": "https://loremflickr.com/600/800/trousers?lock=751222",
-    "url_produit": "https://www.eram.fr/produits/f9312322-42e1-486f-916f-dd42ae894c25"
-  },
-  {
-    "id": "65edf1bf-21b9-4d2c-a322-da85e6d7674b",
-    "marque": "Eram",
-    "categorie": "haut",
-    "nom": "Blouse tendance blanc",
-    "description": "Blouse en lin blanc, coupe tendance. Idéal pour vos sorties fête.",
-    "prix_eur": 50.99,
-    "genre": "homme",
-    "styles": [
-      "streetwear"
-    ],
-    "saisons": [
-      "printemps",
-      "été"
-    ],
-    "occasions": [
-      "fête",
-      "quotidien"
-    ],
-    "tailles_disponibles": [
-      "L",
-      "XXL",
-      "XS"
-    ],
-    "couleurs": [
-      "blanc",
-      "camel"
-    ],
-    "image_url": "https://loremflickr.com/600/800/blouse?lock=94445",
-    "url_produit": "https://www.eram.fr/produits/65edf1bf-21b9-4d2c-a322-da85e6d7674b"
-  },
-  {
-    "id": "d1d26c23-bbab-4845-b2e9-67f29890de9b",
-    "marque": "Bocage",
-    "categorie": "bas",
-    "nom": "Chino classique noir",
-    "description": "Chino en lin noir, coupe classique. Idéal pour vos sorties travail.",
-    "prix_eur": 77.99,
-    "genre": "homme",
-    "styles": [
-      "streetwear"
-    ],
-    "saisons": [
-      "printemps",
-      "été",
-      "automne"
-    ],
-    "occasions": [
-      "quotidien",
-      "travail"
-    ],
-    "tailles_disponibles": [
-      "40",
-      "36",
-      "46",
-      "48",
-      "42",
-      "44"
-    ],
-    "couleurs": [
-      "noir",
-      "marine",
-      "bleu ciel"
-    ],
-    "image_url": "https://loremflickr.com/600/800/chinos?lock=231907",
-    "url_produit": "https://www.bocage.fr/produits/d1d26c23-bbab-4845-b2e9-67f29890de9b"
-  },
-  {
-    "id": "e55b7372-276e-459a-80a2-f261f891b3e3",
-    "marque": "Eram",
-    "categorie": "robe",
-    "nom": "Robe pull sobre moutarde",
-    "description": "Robe pull en maille moutarde, coupe sobre. Idéal pour vos sorties baptême.",
-    "prix_eur": 100.99,
-    "genre": "femme",
-    "styles": [
-      "chic"
-    ],
-    "saisons": [
-      "hiver"
-    ],
-    "occasions": [
-      "baptême",
-      "mariage",
-      "cérémonie"
-    ],
-    "tailles_disponibles": [
-      "XXL",
-      "M",
-      "S",
-      "L",
-      "XL",
-      "XS"
-    ],
-    "couleurs": [
-      "moutarde",
-      "noir",
-      "bordeaux"
-    ],
-    "image_url": "https://loremflickr.com/600/800/dress?lock=979641",
-    "url_produit": "https://www.eram.fr/produits/e55b7372-276e-459a-80a2-f261f891b3e3"
-  },
-  {
-    "id": "033a01c2-a313-4bdd-96a3-4e0130296ed5",
-    "marque": "Gemo",
-    "categorie": "robe",
-    "nom": "Combinaison chic camel",
-    "description": "Combinaison en denim camel, coupe chic. Idéal pour vos sorties mariage.",
-    "prix_eur": 46.99,
-    "genre": "femme",
-    "styles": [
-      "casual",
-      "bohême"
-    ],
-    "saisons": [
-      "automne",
-      "hiver"
-    ],
-    "occasions": [
-      "cérémonie",
-      "mariage",
-      "anniversaire"
-    ],
-    "tailles_disponibles": [
-      "XL",
-      "S"
-    ],
-    "couleurs": [
-      "camel",
-      "bordeaux"
-    ],
-    "image_url": "https://loremflickr.com/600/800/jumpsuit?lock=133240",
-    "url_produit": "https://www.gemo.fr/produits/033a01c2-a313-4bdd-96a3-4e0130296ed5"
-  },
-  {
-    "id": "8240e194-8ad3-402e-9d99-a2e66802b193",
-    "marque": "TBS",
-    "categorie": "bas",
-    "nom": "Short tendance écru",
-    "description": "Short en soie écru, coupe tendance. Idéal pour vos sorties mariage.",
-    "prix_eur": 108.99,
-    "genre": "homme",
-    "styles": [
-      "casual"
-    ],
-    "saisons": [
-      "printemps",
-      "automne"
-    ],
-    "occasions": [
-      "mariage",
-      "baptême",
-      "quotidien"
-    ],
-    "tailles_disponibles": [
-      "48",
-      "44",
-      "42",
-      "40",
-      "46",
-      "36"
-    ],
-    "couleurs": [
-      "écru"
-    ],
-    "image_url": "https://loremflickr.com/600/800/shorts?lock=292317",
-    "url_produit": "https://www.tbs.fr/produits/8240e194-8ad3-402e-9d99-a2e66802b193"
-  },
-  {
-    "id": "63dcb495-1e2f-4728-adbc-abd373ff0be2",
-    "marque": "Gemo",
-    "categorie": "chaussures",
-    "nom": "Mocassins chic blanc",
-    "description": "Mocassins en velours blanc, coupe chic. Idéal pour vos sorties mariage.",
-    "prix_eur": 44.99,
-    "genre": "femme",
-    "styles": [
-      "sportif",
-      "bohême"
-    ],
-    "saisons": [
-      "hiver"
-    ],
-    "occasions": [
-      "quotidien",
-      "mariage"
-    ],
-    "tailles_disponibles": [
-      "37",
-      "35",
-      "39"
-    ],
-    "couleurs": [
-      "blanc",
-      "beige",
-      "rose poudré"
-    ],
-    "image_url": "https://loremflickr.com/600/800/loafers?lock=410208",
-    "url_produit": "https://www.gemo.fr/produits/63dcb495-1e2f-4728-adbc-abd373ff0be2"
-  },
-  {
-    "id": "58c5ae93-0d0d-48fc-9f5c-67adfc66b315",
-    "marque": "Eram",
-    "categorie": "chaussures",
-    "nom": "Boots fluide vert sauge",
-    "description": "Boots en maille vert sauge, coupe fluide. Idéal pour vos sorties anniversaire.",
-    "prix_eur": 56.99,
-    "genre": "femme",
-    "styles": [
-      "chic"
-    ],
-    "saisons": [
-      "automne",
-      "hiver"
-    ],
-    "occasions": [
-      "anniversaire",
-      "quotidien"
-    ],
-    "tailles_disponibles": [
-      "37",
-      "35",
-      "40"
-    ],
-    "couleurs": [
-      "vert sauge",
-      "moutarde"
-    ],
-    "image_url": "https://loremflickr.com/600/800/boots?lock=351780",
-    "url_produit": "https://www.eram.fr/produits/58c5ae93-0d0d-48fc-9f5c-67adfc66b315"
-  },
-  {
-    "id": "983232c5-0fee-4f26-bcb2-d338991e42ef",
-    "marque": "Eram",
-    "categorie": "haut",
-    "nom": "Polo chic rose poudré",
-    "description": "Polo en soie rose poudré, coupe chic. Idéal pour vos sorties fête.",
-    "prix_eur": 60.99,
-    "genre": "femme",
-    "styles": [
-      "sportif",
-      "bohême"
-    ],
-    "saisons": [
-      "printemps",
-      "été",
-      "automne"
-    ],
-    "occasions": [
-      "baptême",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "XL",
-      "M"
-    ],
-    "couleurs": [
-      "rose poudré",
-      "bleu jean",
-      "beige"
-    ],
-    "image_url": "https://loremflickr.com/600/800/polo?lock=429182",
-    "url_produit": "https://www.eram.fr/produits/983232c5-0fee-4f26-bcb2-d338991e42ef"
-  },
-  {
-    "id": "dbdba9c2-ed0d-425b-a2dd-8049fa4a8c1c",
-    "marque": "TBS",
-    "categorie": "robe",
-    "nom": "Robe pull décontracté gris",
-    "description": "Robe pull en laine gris, coupe décontracté. Idéal pour vos sorties baptême.",
-    "prix_eur": 128.99,
-    "genre": "femme",
-    "styles": [
-      "sportif",
-      "bohême"
-    ],
-    "saisons": [
-      "automne",
-      "hiver"
-    ],
-    "occasions": [
-      "travail",
-      "cérémonie",
-      "baptême"
-    ],
-    "tailles_disponibles": [
-      "M",
-      "L",
-      "S",
-      "XL",
-      "XS"
-    ],
-    "couleurs": [
-      "gris",
-      "noir",
-      "camel"
-    ],
-    "image_url": "https://loremflickr.com/600/800/dress?lock=609834",
-    "url_produit": "https://www.tbs.fr/produits/dbdba9c2-ed0d-425b-a2dd-8049fa4a8c1c"
-  },
-  {
-    "id": "7ca74f67-2cb3-41aa-a4f2-6f6a64f6e330",
-    "marque": "Gemo",
-    "categorie": "chaussures",
-    "nom": "Baskets fluide marine",
-    "description": "Baskets en cachemire marine, coupe fluide. Idéal pour vos sorties mariage.",
-    "prix_eur": 31.99,
-    "genre": "unisexe",
-    "styles": [
-      "sportif",
-      "classique"
-    ],
-    "saisons": [
-      "printemps"
-    ],
-    "occasions": [
-      "mariage",
-      "cérémonie"
-    ],
-    "tailles_disponibles": [
-      "42",
-      "44",
-      "40",
-      "39",
-      "41",
-      "38"
-    ],
-    "couleurs": [
-      "marine"
-    ],
-    "image_url": "https://loremflickr.com/600/800/sneakers?lock=341714",
-    "url_produit": "https://www.gemo.fr/produits/7ca74f67-2cb3-41aa-a4f2-6f6a64f6e330"
-  },
-  {
-    "id": "7194c470-1679-44bd-9c07-13f279b80581",
-    "marque": "Bocage",
-    "categorie": "robe",
-    "nom": "Robe longue raffiné rouge",
-    "description": "Robe longue en cachemire rouge, coupe raffiné. Idéal pour vos sorties quotidien.",
-    "prix_eur": 88.99,
-    "genre": "unisexe",
-    "styles": [
-      "bohême",
-      "streetwear"
-    ],
-    "saisons": [
-      "hiver"
-    ],
-    "occasions": [
-      "quotidien",
-      "mariage"
-    ],
-    "tailles_disponibles": [
-      "XL",
-      "XS"
-    ],
-    "couleurs": [
-      "rouge",
-      "rose poudré",
-      "moutarde"
-    ],
-    "image_url": "https://loremflickr.com/600/800/dress?lock=576929",
-    "url_produit": "https://www.bocage.fr/produits/7194c470-1679-44bd-9c07-13f279b80581"
-  },
-  {
-    "id": "c5d1e8d7-a8b1-4032-ad3f-52ca78b3ffa3",
-    "marque": "Eram",
-    "categorie": "bas",
-    "nom": "Jupe classique gris",
-    "description": "Jupe en viscose gris, coupe classique. Idéal pour vos sorties quotidien.",
+    "nom": "Casquette élégant marine",
+    "description": "Casquette en lin marine, coupe élégant. Idéal pour vos sorties travail.",
     "prix_eur": 89.99,
     "genre": "femme",
     "styles": [
-      "classique"
-    ],
-    "saisons": [
-      "printemps",
-      "automne"
-    ],
-    "occasions": [
-      "quotidien",
-      "travail"
-    ],
-    "tailles_disponibles": [
-      "46",
-      "42"
-    ],
-    "couleurs": [
-      "gris"
-    ],
-    "image_url": "https://loremflickr.com/600/800/skirt?lock=871501",
-    "url_produit": "https://www.eram.fr/produits/c5d1e8d7-a8b1-4032-ad3f-52ca78b3ffa3"
-  },
-  {
-    "id": "ab2be23f-2d73-4d78-a592-6f4a5c2f7312",
-    "marque": "Eram",
-    "categorie": "bas",
-    "nom": "Chino sobre écru",
-    "description": "Chino en cachemire écru, coupe sobre. Idéal pour vos sorties cérémonie.",
-    "prix_eur": 83.99,
-    "genre": "homme",
-    "styles": [
-      "bohême",
-      "classique"
-    ],
-    "saisons": [
-      "été"
-    ],
-    "occasions": [
-      "cérémonie",
-      "quotidien"
-    ],
-    "tailles_disponibles": [
-      "42",
-      "48",
-      "44",
-      "38",
-      "40",
-      "46",
-      "36"
-    ],
-    "couleurs": [
-      "écru",
-      "kaki"
-    ],
-    "image_url": "https://loremflickr.com/600/800/chinos?lock=782774",
-    "url_produit": "https://www.eram.fr/produits/ab2be23f-2d73-4d78-a592-6f4a5c2f7312"
-  },
-  {
-    "id": "17e5802f-f0fa-4d78-b7a2-04b3af1a7d2b",
-    "marque": "Bocage",
-    "categorie": "bas",
-    "nom": "Jupe sobre blanc",
-    "description": "Jupe en lin blanc, coupe sobre. Idéal pour vos sorties mariage.",
-    "prix_eur": 53.99,
-    "genre": "femme",
-    "styles": [
-      "chic"
-    ],
-    "saisons": [
-      "printemps",
-      "été",
-      "automne"
-    ],
-    "occasions": [
-      "travail",
-      "mariage"
-    ],
-    "tailles_disponibles": [
-      "44",
-      "36",
-      "40",
-      "46",
-      "38",
-      "42"
-    ],
-    "couleurs": [
-      "blanc"
-    ],
-    "image_url": "https://loremflickr.com/600/800/skirt?lock=916927",
-    "url_produit": "https://www.bocage.fr/produits/17e5802f-f0fa-4d78-b7a2-04b3af1a7d2b"
-  },
-  {
-    "id": "65accc6d-1805-456b-9673-5319a976d870",
-    "marque": "TBS",
-    "categorie": "robe",
-    "nom": "Robe portefeuille tendance gris",
-    "description": "Robe portefeuille en coton gris, coupe tendance. Idéal pour vos sorties quotidien.",
-    "prix_eur": 130.99,
-    "genre": "femme",
-    "styles": [
-      "classique"
-    ],
-    "saisons": [
-      "automne",
-      "hiver"
-    ],
-    "occasions": [
-      "anniversaire",
-      "quotidien",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "XXL",
-      "S",
-      "XS",
-      "L",
-      "M"
-    ],
-    "couleurs": [
-      "gris",
-      "bleu ciel",
-      "rose poudré"
-    ],
-    "image_url": "https://loremflickr.com/600/800/dress?lock=825046",
-    "url_produit": "https://www.tbs.fr/produits/65accc6d-1805-456b-9673-5319a976d870"
-  },
-  {
-    "id": "444c849b-4612-4a28-8b19-4f7c80af9de3",
-    "marque": "Gemo",
-    "categorie": "robe",
-    "nom": "Robe chemise sobre gris",
-    "description": "Robe chemise en viscose gris, coupe sobre. Idéal pour vos sorties fête.",
-    "prix_eur": 39.99,
-    "genre": "femme",
-    "styles": [
-      "classique"
+      "streetwear",
+      "casual"
     ],
     "saisons": [
       "printemps"
     ],
     "occasions": [
-      "anniversaire",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "XL",
-      "L"
-    ],
-    "couleurs": [
-      "gris",
-      "blanc",
-      "écru"
-    ],
-    "image_url": "https://loremflickr.com/600/800/dress?lock=866516",
-    "url_produit": "https://www.gemo.fr/produits/444c849b-4612-4a28-8b19-4f7c80af9de3"
-  },
-  {
-    "id": "3697f2b6-6bbf-421b-b941-1e3535181c38",
-    "marque": "Gemo",
-    "categorie": "chaussures",
-    "nom": "Bottines intemporel moutarde",
-    "description": "Bottines en viscose moutarde, coupe intemporel. Idéal pour vos sorties mariage.",
-    "prix_eur": 39.99,
-    "genre": "unisexe",
-    "styles": [
-      "sportif",
-      "casual"
-    ],
-    "saisons": [
-      "printemps",
-      "été"
-    ],
-    "occasions": [
-      "anniversaire",
       "cérémonie",
       "mariage",
+      "travail",
       "baptême"
-    ],
-    "tailles_disponibles": [
-      "39",
-      "41",
-      "38",
-      "42"
-    ],
-    "couleurs": [
-      "moutarde"
-    ],
-    "image_url": "https://loremflickr.com/600/800/boots?lock=928649",
-    "url_produit": "https://www.gemo.fr/produits/3697f2b6-6bbf-421b-b941-1e3535181c38"
-  },
-  {
-    "id": "5ace362f-e8d8-491c-a2dc-b04451e84679",
-    "marque": "Gemo",
-    "categorie": "bas",
-    "nom": "Bermuda fluide bordeaux",
-    "description": "Bermuda en velours bordeaux, coupe fluide. Idéal pour vos sorties travail.",
-    "prix_eur": 37.99,
-    "genre": "femme",
-    "styles": [
-      "streetwear"
-    ],
-    "saisons": [
-      "hiver"
-    ],
-    "occasions": [
-      "mariage",
-      "travail"
-    ],
-    "tailles_disponibles": [
-      "44",
-      "40"
-    ],
-    "couleurs": [
-      "bordeaux",
-      "rose poudré"
-    ],
-    "image_url": "https://loremflickr.com/600/800/shorts?lock=465250",
-    "url_produit": "https://www.gemo.fr/produits/5ace362f-e8d8-491c-a2dc-b04451e84679"
-  },
-  {
-    "id": "fad2de79-c286-4251-802f-8f64871a39a2",
-    "marque": "Gemo",
-    "categorie": "accessoire",
-    "nom": "Ceinture fluide vert sauge",
-    "description": "Ceinture en lin vert sauge, coupe fluide. Idéal pour vos sorties anniversaire.",
-    "prix_eur": 11.99,
-    "genre": "homme",
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "saisons": [
-      "automne",
-      "hiver"
-    ],
-    "occasions": [
-      "baptême",
-      "anniversaire"
     ],
     "tailles_disponibles": [
       "unique"
     ],
     "couleurs": [
-      "vert sauge",
-      "moutarde",
-      "kaki"
-    ],
-    "image_url": "https://loremflickr.com/600/800/belt?lock=127721",
-    "url_produit": "https://www.gemo.fr/produits/fad2de79-c286-4251-802f-8f64871a39a2"
-  },
-  {
-    "id": "2e7356db-c067-404c-8283-03fcf7187d17",
-    "marque": "Gemo",
-    "categorie": "haut",
-    "nom": "T-shirt classique gris",
-    "description": "T-shirt en maille gris, coupe classique. Idéal pour vos sorties baptême.",
-    "prix_eur": 20.99,
-    "genre": "unisexe",
-    "styles": [
-      "bohême",
-      "chic"
-    ],
-    "saisons": [
-      "printemps",
-      "été"
-    ],
-    "occasions": [
-      "anniversaire",
-      "baptême",
-      "travail",
-      "cérémonie"
-    ],
-    "tailles_disponibles": [
-      "XS",
-      "S"
-    ],
-    "couleurs": [
-      "gris"
-    ],
-    "image_url": "https://loremflickr.com/600/800/tshirt?lock=311590",
-    "url_produit": "https://www.gemo.fr/produits/2e7356db-c067-404c-8283-03fcf7187d17"
-  },
-  {
-    "id": "2b8a01b1-10fb-4545-8ca2-21ac401f4c96",
-    "marque": "TBS",
-    "categorie": "robe",
-    "nom": "Robe pull chic marine",
-    "description": "Robe pull en viscose marine, coupe chic. Idéal pour vos sorties cérémonie.",
-    "prix_eur": 101.99,
-    "genre": "femme",
-    "styles": [
-      "sportif"
-    ],
-    "saisons": [
-      "printemps"
-    ],
-    "occasions": [
-      "cérémonie",
-      "travail",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "XL",
-      "XS",
-      "L",
-      "S",
-      "M"
-    ],
-    "couleurs": [
-      "marine",
-      "vert sauge",
-      "écru"
-    ],
-    "image_url": "https://loremflickr.com/600/800/dress?lock=465419",
-    "url_produit": "https://www.tbs.fr/produits/2b8a01b1-10fb-4545-8ca2-21ac401f4c96"
-  },
-  {
-    "id": "3ea4ddde-4c7d-4bca-a28f-e022bd38db89",
-    "marque": "TBS",
-    "categorie": "chaussures",
-    "nom": "Mocassins élégant camel",
-    "description": "Mocassins en maille camel, coupe élégant. Idéal pour vos sorties quotidien.",
-    "prix_eur": 74.99,
-    "genre": "homme",
-    "styles": [
-      "bohême"
-    ],
-    "saisons": [
-      "été"
-    ],
-    "occasions": [
-      "quotidien",
-      "fête",
-      "travail"
-    ],
-    "tailles_disponibles": [
-      "41",
-      "40",
-      "39",
-      "42",
-      "46",
-      "44"
-    ],
-    "couleurs": [
-      "camel",
-      "bleu jean",
       "marine"
     ],
-    "image_url": "https://loremflickr.com/600/800/loafers?lock=993144",
-    "url_produit": "https://www.tbs.fr/produits/3ea4ddde-4c7d-4bca-a28f-e022bd38db89"
+    "image_url": "https://loremflickr.com/600/800/cap?lock=460425",
+    "url_produit": "https://www.bocage.fr/produits/c30dbbc1-51d9-4514-85ba-e71bc8c78601"
   },
   {
-    "id": "f5524ef5-7be9-466b-9095-c197a19889ac",
-    "marque": "TBS",
-    "categorie": "chaussures",
-    "nom": "Escarpins sobre beige",
-    "description": "Escarpins en lin beige, coupe sobre. Idéal pour vos sorties travail.",
-    "prix_eur": 84.99,
-    "genre": "enfant",
-    "styles": [
-      "classique",
-      "casual"
-    ],
-    "saisons": [
-      "automne",
-      "hiver"
-    ],
-    "occasions": [
-      "cérémonie",
-      "fête",
-      "mariage",
-      "travail"
-    ],
-    "tailles_disponibles": [
-      "30",
-      "22",
-      "32",
-      "28",
-      "24",
-      "20",
-      "34"
-    ],
-    "couleurs": [
-      "beige",
-      "blanc"
-    ],
-    "image_url": "https://loremflickr.com/600/800/heels?lock=816200",
-    "url_produit": "https://www.tbs.fr/produits/f5524ef5-7be9-466b-9095-c197a19889ac"
-  },
-  {
-    "id": "d6992550-0d48-44f4-a6dd-2c7721b76bc2",
+    "id": "dd086315-f58b-45ff-a474-409804e327f3",
     "marque": "Gemo",
-    "categorie": "haut",
-    "nom": "Pull sobre noir",
-    "description": "Pull en cachemire noir, coupe sobre. Idéal pour vos sorties fête.",
-    "prix_eur": 20.99,
-    "genre": "femme",
-    "styles": [
-      "classique",
-      "streetwear"
-    ],
-    "saisons": [
-      "printemps"
-    ],
-    "occasions": [
-      "fête",
-      "travail",
-      "anniversaire",
-      "quotidien"
-    ],
-    "tailles_disponibles": [
-      "XL",
-      "XS",
-      "M"
-    ],
-    "couleurs": [
-      "noir",
-      "bordeaux",
-      "camel"
-    ],
-    "image_url": "https://loremflickr.com/600/800/sweater?lock=364384",
-    "url_produit": "https://www.gemo.fr/produits/d6992550-0d48-44f4-a6dd-2c7721b76bc2"
-  },
-  {
-    "id": "5e0af8e0-64bf-44a3-897f-951234d881db",
-    "marque": "TBS",
-    "categorie": "chaussures",
-    "nom": "Baskets élégant beige",
-    "description": "Baskets en laine beige, coupe élégant. Idéal pour vos sorties fête.",
-    "prix_eur": 109.99,
-    "genre": "unisexe",
-    "styles": [
-      "chic"
-    ],
-    "saisons": [
-      "printemps",
-      "été"
-    ],
-    "occasions": [
-      "mariage",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "42",
-      "38",
-      "40",
-      "43",
-      "41",
-      "44",
-      "39"
-    ],
-    "couleurs": [
-      "beige"
-    ],
-    "image_url": "https://loremflickr.com/600/800/sneakers?lock=778953",
-    "url_produit": "https://www.tbs.fr/produits/5e0af8e0-64bf-44a3-897f-951234d881db"
-  },
-  {
-    "id": "83eed37f-c017-4e87-a1ad-6cf384c9ac6e",
-    "marque": "Gemo",
-    "categorie": "haut",
-    "nom": "Cardigan moderne kaki",
-    "description": "Cardigan en maille kaki, coupe moderne. Idéal pour vos sorties mariage.",
-    "prix_eur": 28.99,
-    "genre": "homme",
-    "styles": [
-      "streetwear"
-    ],
-    "saisons": [
-      "automne"
-    ],
-    "occasions": [
-      "mariage",
-      "baptême"
-    ],
-    "tailles_disponibles": [
-      "XL",
-      "XXL",
-      "M",
-      "XS",
-      "L"
-    ],
-    "couleurs": [
-      "kaki",
-      "bordeaux",
-      "rose poudré"
-    ],
-    "image_url": "https://loremflickr.com/600/800/cardigan?lock=469220",
-    "url_produit": "https://www.gemo.fr/produits/83eed37f-c017-4e87-a1ad-6cf384c9ac6e"
-  },
-  {
-    "id": "62088be1-b2dd-48b5-a7d7-57d52bd13257",
-    "marque": "TBS",
-    "categorie": "chaussures",
-    "nom": "Derbies fluide bleu jean",
-    "description": "Derbies en laine bleu jean, coupe fluide. Idéal pour vos sorties quotidien.",
-    "prix_eur": 165.99,
-    "genre": "femme",
-    "styles": [
-      "streetwear",
-      "sportif"
-    ],
-    "saisons": [
-      "été"
-    ],
-    "occasions": [
-      "travail",
-      "quotidien",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "38",
-      "36",
-      "40",
-      "41",
-      "37",
-      "35",
-      "39"
-    ],
-    "couleurs": [
-      "bleu jean",
-      "écru",
-      "gris"
-    ],
-    "image_url": "https://loremflickr.com/600/800/derby?lock=728909",
-    "url_produit": "https://www.tbs.fr/produits/62088be1-b2dd-48b5-a7d7-57d52bd13257"
-  },
-  {
-    "id": "304afdcc-a4ea-4817-b7d8-6f160be4d4ec",
-    "marque": "TBS",
-    "categorie": "bas",
-    "nom": "Short fluide rose poudré",
-    "description": "Short en velours rose poudré, coupe fluide. Idéal pour vos sorties fête.",
-    "prix_eur": 64.99,
-    "genre": "enfant",
-    "styles": [
-      "classique"
-    ],
-    "saisons": [
-      "printemps",
-      "été"
-    ],
-    "occasions": [
-      "fête",
-      "quotidien"
-    ],
-    "tailles_disponibles": [
-      "10",
-      "4",
-      "2",
-      "12"
-    ],
-    "couleurs": [
-      "rose poudré"
-    ],
-    "image_url": "https://loremflickr.com/600/800/shorts?lock=221814",
-    "url_produit": "https://www.tbs.fr/produits/304afdcc-a4ea-4817-b7d8-6f160be4d4ec"
-  },
-  {
-    "id": "213c09fd-81d9-411e-aade-98656c9e79a9",
-    "marque": "Bocage",
-    "categorie": "chaussures",
-    "nom": "Derbies intemporel rose poudré",
-    "description": "Derbies en viscose rose poudré, coupe intemporel. Idéal pour vos sorties anniversaire.",
-    "prix_eur": 204.99,
-    "genre": "femme",
-    "styles": [
-      "classique",
-      "casual"
-    ],
-    "saisons": [
-      "printemps",
-      "été"
-    ],
-    "occasions": [
-      "anniversaire",
-      "quotidien",
-      "cérémonie",
-      "mariage"
-    ],
-    "tailles_disponibles": [
-      "39",
-      "40",
-      "41",
-      "36",
-      "35"
-    ],
-    "couleurs": [
-      "rose poudré"
-    ],
-    "image_url": "https://loremflickr.com/600/800/derby?lock=583402",
-    "url_produit": "https://www.bocage.fr/produits/213c09fd-81d9-411e-aade-98656c9e79a9"
-  },
-  {
-    "id": "8003015c-984e-4619-9158-d7bf24666eb9",
-    "marque": "Gemo",
-    "categorie": "haut",
-    "nom": "Cardigan classique camel",
-    "description": "Cardigan en maille camel, coupe classique. Idéal pour vos sorties anniversaire.",
-    "prix_eur": 15.99,
-    "genre": "femme",
-    "styles": [
-      "casual"
-    ],
-    "saisons": [
-      "automne"
-    ],
-    "occasions": [
-      "cérémonie",
-      "mariage",
-      "fête",
-      "anniversaire"
-    ],
-    "tailles_disponibles": [
-      "XXL",
-      "L",
-      "XL",
-      "S",
-      "XS"
-    ],
-    "couleurs": [
-      "camel",
-      "vert sauge"
-    ],
-    "image_url": "https://loremflickr.com/600/800/cardigan?lock=682751",
-    "url_produit": "https://www.gemo.fr/produits/8003015c-984e-4619-9158-d7bf24666eb9"
-  },
-  {
-    "id": "0ae9db1e-1820-4647-b901-85badb6a44c7",
-    "marque": "Bocage",
-    "categorie": "chaussures",
-    "nom": "Escarpins élégant bleu ciel",
-    "description": "Escarpins en laine bleu ciel, coupe élégant. Idéal pour vos sorties fête.",
-    "prix_eur": 163.99,
-    "genre": "femme",
-    "styles": [
-      "classique",
-      "chic"
-    ],
-    "saisons": [
-      "automne"
-    ],
-    "occasions": [
-      "travail",
-      "quotidien",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "39",
-      "41",
-      "36",
-      "40",
-      "37",
-      "35"
-    ],
-    "couleurs": [
-      "bleu ciel"
-    ],
-    "image_url": "https://loremflickr.com/600/800/heels?lock=98325",
-    "url_produit": "https://www.bocage.fr/produits/0ae9db1e-1820-4647-b901-85badb6a44c7"
-  },
-  {
-    "id": "aa5164a9-53f7-4b27-908f-600620c74e1f",
-    "marque": "Bocage",
-    "categorie": "accessoire",
-    "nom": "Foulard tendance bleu ciel",
-    "description": "Foulard en soie bleu ciel, coupe tendance. Idéal pour vos sorties mariage.",
-    "prix_eur": 26.99,
-    "genre": "femme",
-    "styles": [
-      "casual"
-    ],
-    "saisons": [
-      "été"
-    ],
-    "occasions": [
-      "baptême",
-      "cérémonie",
-      "mariage"
-    ],
-    "tailles_disponibles": [
-      "unique"
-    ],
-    "couleurs": [
-      "bleu ciel",
-      "rose poudré"
-    ],
-    "image_url": "https://loremflickr.com/600/800/scarf?lock=463762",
-    "url_produit": "https://www.bocage.fr/produits/aa5164a9-53f7-4b27-908f-600620c74e1f"
-  },
-  {
-    "id": "4f85927a-76fe-4999-9360-783feb8d2c1c",
-    "marque": "TBS",
-    "categorie": "chaussures",
-    "nom": "Bottines fluide camel",
-    "description": "Bottines en soie camel, coupe fluide. Idéal pour vos sorties baptême.",
-    "prix_eur": 101.99,
-    "genre": "unisexe",
-    "styles": [
-      "bohême",
-      "classique"
-    ],
-    "saisons": [
-      "printemps"
-    ],
-    "occasions": [
-      "fête",
-      "baptême"
-    ],
-    "tailles_disponibles": [
-      "44",
-      "41"
-    ],
-    "couleurs": [
-      "camel",
-      "kaki"
-    ],
-    "image_url": "https://loremflickr.com/600/800/boots?lock=155184",
-    "url_produit": "https://www.tbs.fr/produits/4f85927a-76fe-4999-9360-783feb8d2c1c"
-  },
-  {
-    "id": "31d7de0e-78ae-407b-abb2-45c43f0fad40",
-    "marque": "Bocage",
-    "categorie": "haut",
-    "nom": "Polo chic marine",
-    "description": "Polo en viscose marine, coupe chic. Idéal pour vos sorties fête.",
-    "prix_eur": 97.99,
-    "genre": "homme",
-    "styles": [
-      "sportif"
-    ],
-    "saisons": [
-      "printemps",
-      "été"
-    ],
-    "occasions": [
-      "travail",
-      "quotidien",
-      "anniversaire",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "M",
-      "S",
-      "XL"
-    ],
-    "couleurs": [
-      "marine",
-      "kaki"
-    ],
-    "image_url": "https://loremflickr.com/600/800/polo?lock=231506",
-    "url_produit": "https://www.bocage.fr/produits/31d7de0e-78ae-407b-abb2-45c43f0fad40"
-  },
-  {
-    "id": "8418cb01-6434-4ce6-8e57-3af95a1e8799",
-    "marque": "TBS",
-    "categorie": "haut",
-    "nom": "Top classique bordeaux",
-    "description": "Top en cachemire bordeaux, coupe classique. Idéal pour vos sorties cérémonie.",
-    "prix_eur": 87.99,
-    "genre": "enfant",
-    "styles": [
-      "bohême"
-    ],
-    "saisons": [
-      "printemps"
-    ],
-    "occasions": [
-      "fête",
-      "cérémonie"
-    ],
-    "tailles_disponibles": [
-      "6",
-      "8"
-    ],
-    "couleurs": [
-      "bordeaux",
-      "noir",
-      "bleu ciel"
-    ],
-    "image_url": "https://loremflickr.com/600/800/top?lock=219561",
-    "url_produit": "https://www.tbs.fr/produits/8418cb01-6434-4ce6-8e57-3af95a1e8799"
-  },
-  {
-    "id": "b1d03b51-54d5-4ce6-be6f-1a76ab02bafc",
-    "marque": "Eram",
-    "categorie": "chaussures",
-    "nom": "Derbies tendance vert sauge",
-    "description": "Derbies en denim vert sauge, coupe tendance. Idéal pour vos sorties mariage.",
-    "prix_eur": 77.99,
+    "categorie": "robe",
+    "nom": "Robe longue chic noir",
+    "description": "Robe longue en cachemire noir, coupe chic. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 37.99,
     "genre": "enfant",
     "styles": [
       "sportif",
-      "chic"
-    ],
-    "saisons": [
-      "printemps"
-    ],
-    "occasions": [
-      "travail",
-      "mariage"
-    ],
-    "tailles_disponibles": [
-      "20",
-      "22",
-      "26"
-    ],
-    "couleurs": [
-      "vert sauge"
-    ],
-    "image_url": "https://loremflickr.com/600/800/derby?lock=216888",
-    "url_produit": "https://www.eram.fr/produits/b1d03b51-54d5-4ce6-be6f-1a76ab02bafc"
-  },
-  {
-    "id": "942ab5a6-b3e4-4501-b84d-065016768907",
-    "marque": "Eram",
-    "categorie": "haut",
-    "nom": "Veste élégant kaki",
-    "description": "Veste en soie kaki, coupe élégant. Idéal pour vos sorties travail.",
-    "prix_eur": 62.99,
-    "genre": "enfant",
-    "styles": [
-      "streetwear",
-      "bohême"
+      "chic",
+      "streetwear"
     ],
     "saisons": [
       "été"
     ],
     "occasions": [
-      "cérémonie",
-      "anniversaire",
-      "travail",
-      "baptême"
-    ],
-    "tailles_disponibles": [
-      "2",
-      "16",
-      "6"
-    ],
-    "couleurs": [
-      "kaki",
-      "bordeaux",
-      "camel"
-    ],
-    "image_url": "https://loremflickr.com/600/800/jacket?lock=829467",
-    "url_produit": "https://www.eram.fr/produits/942ab5a6-b3e4-4501-b84d-065016768907"
-  },
-  {
-    "id": "0ecc7641-337b-470f-afcf-8f153329c92c",
-    "marque": "TBS",
-    "categorie": "bas",
-    "nom": "Bermuda tendance blanc",
-    "description": "Bermuda en maille blanc, coupe tendance. Idéal pour vos sorties travail.",
-    "prix_eur": 100.99,
-    "genre": "enfant",
-    "styles": [
-      "bohême"
-    ],
-    "saisons": [
-      "printemps",
-      "été",
-      "automne"
-    ],
-    "occasions": [
-      "travail",
-      "anniversaire"
+      "mariage",
+      "baptême",
+      "fête",
+      "cérémonie"
     ],
     "tailles_disponibles": [
       "8",
-      "6",
-      "12",
-      "16",
-      "4",
-      "2",
-      "14"
+      "10",
+      "14",
+      "4"
     ],
     "couleurs": [
-      "blanc"
+      "noir"
     ],
-    "image_url": "https://loremflickr.com/600/800/shorts?lock=280889",
-    "url_produit": "https://www.tbs.fr/produits/0ecc7641-337b-470f-afcf-8f153329c92c"
+    "image_url": "https://loremflickr.com/600/800/dress?lock=318097",
+    "url_produit": "https://www.gemo.fr/produits/dd086315-f58b-45ff-a474-409804e327f3"
   },
   {
-    "id": "c7860273-0dfc-4d3f-b3ff-bf946919f3ce",
-    "marque": "TBS",
-    "categorie": "bas",
-    "nom": "Chino intemporel noir",
-    "description": "Chino en denim noir, coupe intemporel. Idéal pour vos sorties baptême.",
-    "prix_eur": 62.99,
+    "id": "1ee4ad88-31ee-4a55-abee-ca12e901a028",
+    "marque": "Eram",
+    "categorie": "chaussures",
+    "nom": "Escarpins classique moutarde",
+    "description": "Escarpins en denim moutarde, coupe classique. Idéal pour vos sorties quotidien.",
+    "prix_eur": 84.99,
     "genre": "femme",
     "styles": [
-      "classique"
+      "classique",
+      "bohême",
+      "chic"
+    ],
+    "saisons": [
+      "été"
+    ],
+    "occasions": [
+      "travail",
+      "fête",
+      "quotidien",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "37",
+      "35",
+      "36"
+    ],
+    "couleurs": [
+      "moutarde"
+    ],
+    "image_url": "https://loremflickr.com/600/800/heels?lock=303630",
+    "url_produit": "https://www.eram.fr/produits/1ee4ad88-31ee-4a55-abee-ca12e901a028"
+  },
+  {
+    "id": "2ffe50e6-ffd4-46d5-928e-b919f28ebbb5",
+    "marque": "Eram",
+    "categorie": "chaussures",
+    "nom": "Bottines sobre noir",
+    "description": "Bottines en velours noir, coupe sobre. Idéal pour vos sorties travail.",
+    "prix_eur": 114.99,
+    "genre": "femme",
+    "styles": [
+      "bohême",
+      "classique",
+      "sportif"
     ],
     "saisons": [
       "printemps"
     ],
     "occasions": [
       "cérémonie",
-      "travail",
-      "baptême"
+      "fête",
+      "baptême",
+      "travail"
     ],
     "tailles_disponibles": [
-      "38",
-      "42"
+      "40",
+      "39",
+      "41",
+      "36"
     ],
     "couleurs": [
       "noir",
-      "blanc",
-      "rose poudré"
+      "camel",
+      "bleu ciel"
     ],
-    "image_url": "https://loremflickr.com/600/800/chinos?lock=451782",
-    "url_produit": "https://www.tbs.fr/produits/c7860273-0dfc-4d3f-b3ff-bf946919f3ce"
+    "image_url": "https://loremflickr.com/600/800/boots?lock=196811",
+    "url_produit": "https://www.eram.fr/produits/2ffe50e6-ffd4-46d5-928e-b919f28ebbb5"
   },
   {
-    "id": "a35db160-7a14-46ef-80c5-6cef95c495a3",
-    "marque": "Gemo",
+    "id": "0d528c39-1088-4abf-a85c-4710fdb62248",
+    "marque": "Bocage",
     "categorie": "accessoire",
-    "nom": "Ceinture chic bleu ciel",
-    "description": "Ceinture en cachemire bleu ciel, coupe chic. Idéal pour vos sorties travail.",
-    "prix_eur": 9.99,
+    "nom": "Écharpe tendance vert sauge",
+    "description": "Écharpe en viscose vert sauge, coupe tendance. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 26.99,
+    "genre": "enfant",
+    "styles": [
+      "chic",
+      "casual",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "baptême",
+      "cérémonie",
+      "anniversaire",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "vert sauge",
+      "rose poudré"
+    ],
+    "image_url": "https://loremflickr.com/600/800/scarf?lock=513880",
+    "url_produit": "https://www.bocage.fr/produits/0d528c39-1088-4abf-a85c-4710fdb62248"
+  },
+  {
+    "id": "72669a05-a8da-421a-809f-96a78f6fe311",
+    "marque": "Eram",
+    "categorie": "accessoire",
+    "nom": "Écharpe classique kaki",
+    "description": "Écharpe en soie kaki, coupe classique. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 37.99,
     "genre": "homme",
     "styles": [
-      "bohême",
+      "streetwear",
+      "classique",
       "chic"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "anniversaire",
+      "quotidien",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "kaki"
+    ],
+    "image_url": "https://loremflickr.com/600/800/scarf?lock=328644",
+    "url_produit": "https://www.eram.fr/produits/72669a05-a8da-421a-809f-96a78f6fe311"
+  },
+  {
+    "id": "cc1e8d5e-60e1-45ff-99a7-45accc17087e",
+    "marque": "TBS",
+    "categorie": "haut",
+    "nom": "Tunique élégant noir",
+    "description": "Tunique en viscose noir, coupe élégant. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 58.99,
+    "genre": "femme",
+    "styles": [
+      "classique",
+      "streetwear"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "cérémonie",
+      "baptême",
+      "travail",
+      "fête",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "XS",
+      "XXL",
+      "M",
+      "XL",
+      "L"
+    ],
+    "couleurs": [
+      "noir"
+    ],
+    "image_url": "https://loremflickr.com/600/800/tunic?lock=557758",
+    "url_produit": "https://www.tbs.fr/produits/cc1e8d5e-60e1-45ff-99a7-45accc17087e"
+  },
+  {
+    "id": "707011ab-9f54-4d3f-b0f0-e8f18f8ab7a9",
+    "marque": "Eram",
+    "categorie": "chaussures",
+    "nom": "Baskets élégant moutarde",
+    "description": "Baskets en cachemire moutarde, coupe élégant. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 61.99,
+    "genre": "homme",
+    "styles": [
+      "casual",
+      "sportif",
+      "classique"
     ],
     "saisons": [
       "printemps",
@@ -1721,601 +282,478 @@
       "automne"
     ],
     "occasions": [
-      "baptême",
-      "cérémonie",
-      "mariage",
-      "travail"
-    ],
-    "tailles_disponibles": [
-      "unique"
-    ],
-    "couleurs": [
-      "bleu ciel"
-    ],
-    "image_url": "https://loremflickr.com/600/800/belt?lock=829204",
-    "url_produit": "https://www.gemo.fr/produits/a35db160-7a14-46ef-80c5-6cef95c495a3"
-  },
-  {
-    "id": "925d311f-86cd-45bc-9a2e-84602c0680f3",
-    "marque": "Eram",
-    "categorie": "robe",
-    "nom": "Robe élégant camel",
-    "description": "Robe en lin camel, coupe élégant. Idéal pour vos sorties travail.",
-    "prix_eur": 72.99,
-    "genre": "femme",
-    "styles": [
-      "classique"
-    ],
-    "saisons": [
-      "hiver"
-    ],
-    "occasions": [
-      "baptême",
+      "anniversaire",
       "travail",
-      "anniversaire",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "XS",
-      "XXL",
-      "M",
-      "L"
-    ],
-    "couleurs": [
-      "camel",
-      "bleu jean",
-      "marine"
-    ],
-    "image_url": "https://loremflickr.com/600/800/dress?lock=583414",
-    "url_produit": "https://www.eram.fr/produits/925d311f-86cd-45bc-9a2e-84602c0680f3"
-  },
-  {
-    "id": "8b2c9f04-94bc-4188-b5ed-bb7ebbd4c355",
-    "marque": "Eram",
-    "categorie": "haut",
-    "nom": "Polo intemporel beige",
-    "description": "Polo en velours beige, coupe intemporel. Idéal pour vos sorties fête.",
-    "prix_eur": 29.99,
-    "genre": "homme",
-    "styles": [
-      "classique"
-    ],
-    "saisons": [
-      "automne",
-      "hiver"
-    ],
-    "occasions": [
-      "anniversaire",
-      "baptême",
-      "quotidien",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "XS",
-      "XXL",
-      "XL"
-    ],
-    "couleurs": [
-      "beige",
-      "kaki",
-      "moutarde"
-    ],
-    "image_url": "https://loremflickr.com/600/800/polo?lock=959650",
-    "url_produit": "https://www.eram.fr/produits/8b2c9f04-94bc-4188-b5ed-bb7ebbd4c355"
-  },
-  {
-    "id": "2c862d24-4dac-4499-9de0-a0844595b61c",
-    "marque": "TBS",
-    "categorie": "chaussures",
-    "nom": "Boots chic vert sauge",
-    "description": "Boots en soie vert sauge, coupe chic. Idéal pour vos sorties mariage.",
-    "prix_eur": 163.99,
-    "genre": "homme",
-    "styles": [
-      "streetwear"
-    ],
-    "saisons": [
-      "automne",
-      "hiver"
-    ],
-    "occasions": [
-      "anniversaire",
-      "mariage",
-      "cérémonie",
-      "travail"
-    ],
-    "tailles_disponibles": [
-      "43",
-      "46",
-      "41",
-      "45",
-      "44",
-      "39",
-      "42"
-    ],
-    "couleurs": [
-      "vert sauge"
-    ],
-    "image_url": "https://loremflickr.com/600/800/boots?lock=991630",
-    "url_produit": "https://www.tbs.fr/produits/2c862d24-4dac-4499-9de0-a0844595b61c"
-  },
-  {
-    "id": "5643744a-f911-4f41-899a-40f4ab9549df",
-    "marque": "TBS",
-    "categorie": "bas",
-    "nom": "Short fluide kaki",
-    "description": "Short en velours kaki, coupe fluide. Idéal pour vos sorties quotidien.",
-    "prix_eur": 72.99,
-    "genre": "femme",
-    "styles": [
-      "streetwear",
-      "casual"
-    ],
-    "saisons": [
-      "automne",
-      "hiver"
-    ],
-    "occasions": [
-      "quotidien",
-      "anniversaire"
-    ],
-    "tailles_disponibles": [
-      "46",
-      "38",
-      "42",
-      "44",
-      "36",
-      "34"
-    ],
-    "couleurs": [
-      "kaki",
-      "gris",
-      "bleu ciel"
-    ],
-    "image_url": "https://loremflickr.com/600/800/shorts?lock=262705",
-    "url_produit": "https://www.tbs.fr/produits/5643744a-f911-4f41-899a-40f4ab9549df"
-  },
-  {
-    "id": "646b099a-3b13-4eb0-a334-317b9a1fdcde",
-    "marque": "Bocage",
-    "categorie": "chaussures",
-    "nom": "Sandales tendance camel",
-    "description": "Sandales en cachemire camel, coupe tendance. Idéal pour vos sorties cérémonie.",
-    "prix_eur": 208.99,
-    "genre": "enfant",
-    "styles": [
-      "sportif",
-      "casual"
-    ],
-    "saisons": [
-      "automne",
-      "hiver"
-    ],
-    "occasions": [
-      "cérémonie",
-      "anniversaire",
-      "fête",
-      "mariage"
-    ],
-    "tailles_disponibles": [
-      "24",
-      "32",
-      "26"
-    ],
-    "couleurs": [
-      "camel",
-      "blanc",
-      "bordeaux"
-    ],
-    "image_url": "https://loremflickr.com/600/800/sandals?lock=738094",
-    "url_produit": "https://www.bocage.fr/produits/646b099a-3b13-4eb0-a334-317b9a1fdcde"
-  },
-  {
-    "id": "4704807e-1c6a-4422-b12a-eda14438855d",
-    "marque": "TBS",
-    "categorie": "chaussures",
-    "nom": "Mocassins élégant beige",
-    "description": "Mocassins en soie beige, coupe élégant. Idéal pour vos sorties quotidien.",
-    "prix_eur": 158.99,
-    "genre": "homme",
-    "styles": [
-      "sportif",
-      "casual"
-    ],
-    "saisons": [
-      "printemps"
-    ],
-    "occasions": [
-      "quotidien",
-      "fête",
-      "travail"
-    ],
-    "tailles_disponibles": [
-      "41",
-      "45",
-      "43",
-      "46"
-    ],
-    "couleurs": [
-      "beige",
-      "camel",
-      "rouge"
-    ],
-    "image_url": "https://loremflickr.com/600/800/loafers?lock=478565",
-    "url_produit": "https://www.tbs.fr/produits/4704807e-1c6a-4422-b12a-eda14438855d"
-  },
-  {
-    "id": "a2b3120b-b821-402e-9351-38930633f986",
-    "marque": "Bocage",
-    "categorie": "accessoire",
-    "nom": "Chapeau tendance camel",
-    "description": "Chapeau en maille camel, coupe tendance. Idéal pour vos sorties fête.",
-    "prix_eur": 35.99,
-    "genre": "unisexe",
-    "styles": [
-      "streetwear",
-      "casual"
-    ],
-    "saisons": [
-      "printemps",
-      "été"
-    ],
-    "occasions": [
-      "baptême",
-      "travail",
-      "fête",
       "cérémonie"
     ],
     "tailles_disponibles": [
-      "unique"
-    ],
-    "couleurs": [
-      "camel",
-      "kaki",
-      "noir"
-    ],
-    "image_url": "https://loremflickr.com/600/800/hat?lock=647284",
-    "url_produit": "https://www.bocage.fr/produits/a2b3120b-b821-402e-9351-38930633f986"
-  },
-  {
-    "id": "178ab40b-8ddd-475c-872d-e716ce31e68f",
-    "marque": "TBS",
-    "categorie": "chaussures",
-    "nom": "Mocassins chic noir",
-    "description": "Mocassins en viscose noir, coupe chic. Idéal pour vos sorties travail.",
-    "prix_eur": 155.99,
-    "genre": "femme",
-    "styles": [
-      "classique"
-    ],
-    "saisons": [
-      "printemps"
-    ],
-    "occasions": [
-      "anniversaire",
-      "travail"
-    ],
-    "tailles_disponibles": [
-      "39",
-      "40",
       "41",
-      "37",
-      "35"
+      "43",
+      "40",
+      "44",
+      "46",
+      "39"
     ],
     "couleurs": [
-      "noir",
-      "camel"
+      "moutarde"
     ],
-    "image_url": "https://loremflickr.com/600/800/loafers?lock=966421",
-    "url_produit": "https://www.tbs.fr/produits/178ab40b-8ddd-475c-872d-e716ce31e68f"
+    "image_url": "https://loremflickr.com/600/800/sneakers?lock=394633",
+    "url_produit": "https://www.eram.fr/produits/707011ab-9f54-4d3f-b0f0-e8f18f8ab7a9"
   },
   {
-    "id": "cc81c9cc-c82a-49b2-93eb-ec9ae9a27b43",
+    "id": "edfb96ed-006c-4f29-b6fd-d7640ddff8cf",
     "marque": "Eram",
-    "categorie": "bas",
-    "nom": "Short fluide beige",
-    "description": "Short en velours beige, coupe fluide. Idéal pour vos sorties travail.",
-    "prix_eur": 40.99,
-    "genre": "enfant",
-    "styles": [
-      "classique",
-      "sportif"
-    ],
-    "saisons": [
-      "hiver"
-    ],
-    "occasions": [
-      "travail",
-      "baptême"
-    ],
-    "tailles_disponibles": [
-      "12",
-      "16",
-      "2",
-      "6"
-    ],
-    "couleurs": [
-      "beige"
-    ],
-    "image_url": "https://loremflickr.com/600/800/shorts?lock=61299",
-    "url_produit": "https://www.eram.fr/produits/cc81c9cc-c82a-49b2-93eb-ec9ae9a27b43"
-  },
-  {
-    "id": "adcc31b5-6040-4e38-90a5-ee5efdd3911f",
-    "marque": "Eram",
-    "categorie": "bas",
-    "nom": "Jupe moderne rouge",
-    "description": "Jupe en coton rouge, coupe moderne. Idéal pour vos sorties quotidien.",
-    "prix_eur": 58.99,
-    "genre": "unisexe",
-    "styles": [
-      "casual"
-    ],
-    "saisons": [
-      "printemps",
-      "été"
-    ],
-    "occasions": [
-      "baptême",
-      "quotidien"
-    ],
-    "tailles_disponibles": [
-      "XL",
-      "M",
-      "XXL",
-      "L",
-      "S"
-    ],
-    "couleurs": [
-      "rouge",
-      "vert sauge",
-      "kaki"
-    ],
-    "image_url": "https://loremflickr.com/600/800/skirt?lock=843352",
-    "url_produit": "https://www.eram.fr/produits/adcc31b5-6040-4e38-90a5-ee5efdd3911f"
-  },
-  {
-    "id": "9c0d999d-99fc-47b6-a39e-e583ffacb907",
-    "marque": "Bocage",
     "categorie": "accessoire",
-    "nom": "Foulard élégant blanc",
-    "description": "Foulard en soie blanc, coupe élégant. Idéal pour vos sorties anniversaire.",
-    "prix_eur": 74.99,
-    "genre": "enfant",
-    "styles": [
-      "streetwear"
-    ],
-    "saisons": [
-      "printemps"
-    ],
-    "occasions": [
-      "baptême",
-      "travail",
-      "anniversaire"
-    ],
-    "tailles_disponibles": [
-      "unique"
-    ],
-    "couleurs": [
-      "blanc"
-    ],
-    "image_url": "https://loremflickr.com/600/800/scarf?lock=139607",
-    "url_produit": "https://www.bocage.fr/produits/9c0d999d-99fc-47b6-a39e-e583ffacb907"
-  },
-  {
-    "id": "9bdcf876-294e-4995-b006-19eea3de3b4c",
-    "marque": "Gemo",
-    "categorie": "accessoire",
-    "nom": "Écharpe classique gris",
-    "description": "Écharpe en cachemire gris, coupe classique. Idéal pour vos sorties mariage.",
-    "prix_eur": 20.99,
-    "genre": "unisexe",
+    "nom": "Écharpe classique bordeaux",
+    "description": "Écharpe en laine bordeaux, coupe classique. Idéal pour vos sorties baptême.",
+    "prix_eur": 22.99,
+    "genre": "homme",
     "styles": [
       "chic",
       "sportif"
     ],
     "saisons": [
-      "printemps"
+      "automne",
+      "hiver"
     ],
     "occasions": [
-      "mariage",
       "cérémonie",
+      "baptême",
+      "anniversaire",
       "quotidien",
-      "travail"
+      "fête"
     ],
     "tailles_disponibles": [
       "unique"
     ],
     "couleurs": [
-      "gris",
-      "marine"
+      "bordeaux"
     ],
-    "image_url": "https://loremflickr.com/600/800/scarf?lock=952620",
-    "url_produit": "https://www.gemo.fr/produits/9bdcf876-294e-4995-b006-19eea3de3b4c"
+    "image_url": "https://loremflickr.com/600/800/scarf?lock=692357",
+    "url_produit": "https://www.eram.fr/produits/edfb96ed-006c-4f29-b6fd-d7640ddff8cf"
   },
   {
-    "id": "cf74c543-245a-413c-925d-21749c298294",
-    "marque": "Bocage",
-    "categorie": "chaussures",
-    "nom": "Ballerines raffiné bleu jean",
-    "description": "Ballerines en coton bleu jean, coupe raffiné. Idéal pour vos sorties baptême.",
-    "prix_eur": 216.99,
+    "id": "05966e58-c69d-4f2e-9747-f75a312222a2",
+    "marque": "Gemo",
+    "categorie": "haut",
+    "nom": "Veste intemporel noir",
+    "description": "Veste en cachemire noir, coupe intemporel. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 13.99,
     "genre": "unisexe",
     "styles": [
-      "bohême"
+      "chic",
+      "bohême",
+      "classique"
     ],
     "saisons": [
       "été"
     ],
     "occasions": [
-      "baptême",
-      "mariage"
-    ],
-    "tailles_disponibles": [
-      "40",
-      "42",
-      "39",
-      "38",
-      "44",
-      "43"
-    ],
-    "couleurs": [
-      "bleu jean",
-      "noir"
-    ],
-    "image_url": "https://loremflickr.com/600/800/flats?lock=539867",
-    "url_produit": "https://www.bocage.fr/produits/cf74c543-245a-413c-925d-21749c298294"
-  },
-  {
-    "id": "57c23f29-97a3-485a-8292-432d4ef925c5",
-    "marque": "Gemo",
-    "categorie": "bas",
-    "nom": "Jean chic rose poudré",
-    "description": "Jean en denim rose poudré, coupe chic. Idéal pour vos sorties cérémonie.",
-    "prix_eur": 27.99,
-    "genre": "enfant",
-    "styles": [
-      "streetwear"
-    ],
-    "saisons": [
-      "printemps",
-      "automne"
-    ],
-    "occasions": [
-      "baptême",
-      "cérémonie",
-      "travail"
-    ],
-    "tailles_disponibles": [
-      "16",
-      "2",
-      "4",
-      "14",
-      "10",
-      "12",
-      "8",
-      "6"
-    ],
-    "couleurs": [
-      "rose poudré",
-      "bleu ciel",
-      "rouge"
-    ],
-    "image_url": "https://loremflickr.com/600/800/jeans?lock=349417",
-    "url_produit": "https://www.gemo.fr/produits/57c23f29-97a3-485a-8292-432d4ef925c5"
-  },
-  {
-    "id": "7c2769fc-6d20-4358-89e8-80087d20730b",
-    "marque": "Bocage",
-    "categorie": "chaussures",
-    "nom": "Escarpins intemporel blanc",
-    "description": "Escarpins en lin blanc, coupe intemporel. Idéal pour vos sorties baptême.",
-    "prix_eur": 145.99,
-    "genre": "femme",
-    "styles": [
-      "bohême"
-    ],
-    "saisons": [
-      "printemps",
-      "été",
-      "automne"
-    ],
-    "occasions": [
       "fête",
-      "cérémonie",
-      "baptême",
-      "mariage"
-    ],
-    "tailles_disponibles": [
-      "37",
-      "39",
-      "36",
-      "35",
-      "41",
-      "38",
-      "40"
-    ],
-    "couleurs": [
-      "blanc",
-      "écru",
-      "beige"
-    ],
-    "image_url": "https://loremflickr.com/600/800/heels?lock=959902",
-    "url_produit": "https://www.bocage.fr/produits/7c2769fc-6d20-4358-89e8-80087d20730b"
-  },
-  {
-    "id": "50fae49a-5dfe-4b44-9f0b-b9f451745de2",
-    "marque": "Eram",
-    "categorie": "haut",
-    "nom": "Tunique décontracté vert sauge",
-    "description": "Tunique en cachemire vert sauge, coupe décontracté. Idéal pour vos sorties cérémonie.",
-    "prix_eur": 37.99,
-    "genre": "femme",
-    "styles": [
-      "chic"
-    ],
-    "saisons": [
-      "printemps",
-      "automne"
-    ],
-    "occasions": [
       "travail",
       "cérémonie"
     ],
     "tailles_disponibles": [
-      "L",
-      "M",
-      "XL"
-    ],
-    "couleurs": [
-      "vert sauge"
-    ],
-    "image_url": "https://loremflickr.com/600/800/tunic?lock=621160",
-    "url_produit": "https://www.eram.fr/produits/50fae49a-5dfe-4b44-9f0b-b9f451745de2"
-  },
-  {
-    "id": "6eee5b43-256d-41b8-a474-96218e5baed9",
-    "marque": "Eram",
-    "categorie": "haut",
-    "nom": "Sweat moderne beige",
-    "description": "Sweat en maille beige, coupe moderne. Idéal pour vos sorties mariage.",
-    "prix_eur": 47.99,
-    "genre": "femme",
-    "styles": [
-      "sportif",
-      "streetwear"
-    ],
-    "saisons": [
-      "automne",
-      "hiver"
-    ],
-    "occasions": [
-      "baptême",
-      "mariage"
-    ],
-    "tailles_disponibles": [
       "S",
       "XL",
+      "M",
       "XXL",
       "L"
     ],
     "couleurs": [
-      "beige",
-      "camel"
+      "noir",
+      "kaki"
     ],
-    "image_url": "https://loremflickr.com/600/800/sweatshirt?lock=116552",
-    "url_produit": "https://www.eram.fr/produits/6eee5b43-256d-41b8-a474-96218e5baed9"
+    "image_url": "https://loremflickr.com/600/800/jacket?lock=744821",
+    "url_produit": "https://www.gemo.fr/produits/05966e58-c69d-4f2e-9747-f75a312222a2"
   },
   {
-    "id": "f6500b73-9495-4dd7-955c-53177d36cd67",
+    "id": "4cb23579-57b0-44be-a881-7834605351e9",
     "marque": "Gemo",
-    "categorie": "bas",
-    "nom": "Bermuda raffiné noir",
-    "description": "Bermuda en coton noir, coupe raffiné. Idéal pour vos sorties anniversaire.",
+    "categorie": "chaussures",
+    "nom": "Sandales élégant gris",
+    "description": "Sandales en lin gris, coupe élégant. Idéal pour vos sorties quotidien.",
     "prix_eur": 22.99,
     "genre": "femme",
     "styles": [
       "classique",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "anniversaire",
+      "fête",
+      "travail",
+      "quotidien",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "37",
+      "35"
+    ],
+    "couleurs": [
+      "gris"
+    ],
+    "image_url": "https://loremflickr.com/600/800/sandals?lock=748799",
+    "url_produit": "https://www.gemo.fr/produits/4cb23579-57b0-44be-a881-7834605351e9"
+  },
+  {
+    "id": "e186f16f-dd42-4ae8-894c-256831949278",
+    "marque": "Gemo",
+    "categorie": "haut",
+    "nom": "Sweat sobre marine",
+    "description": "Sweat en soie marine, coupe sobre. Idéal pour vos sorties mariage.",
+    "prix_eur": 14.99,
+    "genre": "homme",
+    "styles": [
+      "chic",
+      "casual",
+      "sportif"
+    ],
+    "saisons": [
+      "automne"
+    ],
+    "occasions": [
+      "cérémonie",
+      "mariage",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "S",
+      "M",
+      "L"
+    ],
+    "couleurs": [
+      "marine"
+    ],
+    "image_url": "https://loremflickr.com/600/800/sweatshirt?lock=721014",
+    "url_produit": "https://www.gemo.fr/produits/e186f16f-dd42-4ae8-894c-256831949278"
+  },
+  {
+    "id": "c322da85-e6d7-4674-ab83-e68e91fa52c9",
+    "marque": "Eram",
+    "categorie": "haut",
+    "nom": "Pull raffiné bordeaux",
+    "description": "Pull en laine bordeaux, coupe raffiné. Idéal pour vos sorties mariage.",
+    "prix_eur": 32.99,
+    "genre": "unisexe",
+    "styles": [
+      "classique",
+      "streetwear"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "anniversaire",
+      "quotidien",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "XXL",
+      "L",
+      "XL",
+      "M"
+    ],
+    "couleurs": [
+      "bordeaux",
+      "rouge",
+      "vert sauge"
+    ],
+    "image_url": "https://loremflickr.com/600/800/sweater?lock=844558",
+    "url_produit": "https://www.eram.fr/produits/c322da85-e6d7-4674-ab83-e68e91fa52c9"
+  },
+  {
+    "id": "8452e967-f298-490d-be9b-eb2996bee71f",
+    "marque": "TBS",
+    "categorie": "haut",
+    "nom": "Blouse sobre moutarde",
+    "description": "Blouse en coton moutarde, coupe sobre. Idéal pour vos sorties travail.",
+    "prix_eur": 73.99,
+    "genre": "femme",
+    "styles": [
+      "sportif",
+      "bohême"
+    ],
+    "saisons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "travail",
+      "quotidien",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "L",
+      "XS",
+      "XL"
+    ],
+    "couleurs": [
+      "moutarde",
+      "vert sauge"
+    ],
+    "image_url": "https://loremflickr.com/600/800/blouse?lock=28435",
+    "url_produit": "https://www.tbs.fr/produits/8452e967-f298-490d-be9b-eb2996bee71f"
+  },
+  {
+    "id": "276e59a0-a2f2-461f-9891-b3e330791c78",
+    "marque": "Bocage",
+    "categorie": "accessoire",
+    "nom": "Bonnet décontracté blanc",
+    "description": "Bonnet en coton blanc, coupe décontracté. Idéal pour vos sorties travail.",
+    "prix_eur": 34.99,
+    "genre": "femme",
+    "styles": [
+      "classique",
+      "bohême"
+    ],
+    "saisons": [
+      "hiver"
+    ],
+    "occasions": [
+      "mariage",
+      "baptême",
+      "travail",
+      "fête",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "blanc",
+      "moutarde"
+    ],
+    "image_url": "https://loremflickr.com/600/800/beanie?lock=543989",
+    "url_produit": "https://www.bocage.fr/produits/276e59a0-a2f2-461f-9891-b3e330791c78"
+  },
+  {
+    "id": "3bdd6a34-e013-4029-86ed-5469496864fc",
+    "marque": "TBS",
+    "categorie": "haut",
+    "nom": "Tunique fluide bleu ciel",
+    "description": "Tunique en soie bleu ciel, coupe fluide. Idéal pour vos sorties mariage.",
+    "prix_eur": 40.99,
+    "genre": "femme",
+    "styles": [
+      "classique",
+      "casual"
+    ],
+    "saisons": [
+      "été"
+    ],
+    "occasions": [
+      "baptême",
+      "cérémonie",
+      "travail",
+      "fête",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "S",
+      "M",
+      "XXL",
+      "XS"
+    ],
+    "couleurs": [
+      "bleu ciel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/tunic?lock=367392",
+    "url_produit": "https://www.tbs.fr/produits/3bdd6a34-e013-4029-86ed-5469496864fc"
+  },
+  {
+    "id": "48ad302e-d99a-42e6-a680-2b193645b497",
+    "marque": "Gemo",
+    "categorie": "accessoire",
+    "nom": "Chapeau élégant beige",
+    "description": "Chapeau en laine beige, coupe élégant. Idéal pour vos sorties baptême.",
+    "prix_eur": 16.99,
+    "genre": "homme",
+    "styles": [
+      "streetwear",
+      "classique"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "travail",
+      "mariage",
+      "fête",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "beige",
+      "bleu ciel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/hat?lock=310833",
+    "url_produit": "https://www.gemo.fr/produits/48ad302e-d99a-42e6-a680-2b193645b497"
+  },
+  {
+    "id": "f728dbca-bd37-43ff-90be-29e0b4eff7dd",
+    "marque": "TBS",
+    "categorie": "haut",
+    "nom": "Blouse tendance marine",
+    "description": "Blouse en coton marine, coupe tendance. Idéal pour vos sorties quotidien.",
+    "prix_eur": 42.99,
+    "genre": "femme",
+    "styles": [
+      "streetwear",
+      "casual"
+    ],
+    "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "mariage",
+      "cérémonie",
+      "anniversaire",
+      "baptême",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "L",
+      "S",
+      "M",
+      "XXL",
+      "XS"
+    ],
+    "couleurs": [
+      "marine",
+      "rouge"
+    ],
+    "image_url": "https://loremflickr.com/600/800/blouse?lock=654204",
+    "url_produit": "https://www.tbs.fr/produits/f728dbca-bd37-43ff-90be-29e0b4eff7dd"
+  },
+  {
+    "id": "cf5c67ad-fc66-4b31-b544-300f66a3fc16",
+    "marque": "Eram",
+    "categorie": "robe",
+    "nom": "Robe élégant blanc",
+    "description": "Robe en cachemire blanc, coupe élégant. Idéal pour vos sorties fête.",
+    "prix_eur": 134.99,
+    "genre": "femme",
+    "styles": [
+      "chic",
+      "sportif",
+      "classique"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "quotidien",
+      "mariage",
+      "fête"
+    ],
+    "tailles_disponibles": [
+      "S",
+      "XXL",
+      "L"
+    ],
+    "couleurs": [
+      "blanc",
+      "rose poudré"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=943043",
+    "url_produit": "https://www.eram.fr/produits/cf5c67ad-fc66-4b31-b544-300f66a3fc16"
+  },
+  {
+    "id": "d338991e-42ef-4dca-b816-54b713a1d779",
+    "marque": "Gemo",
+    "categorie": "chaussures",
+    "nom": "Boots intemporel camel",
+    "description": "Boots en maille camel, coupe intemporel. Idéal pour vos sorties baptême.",
+    "prix_eur": 25.99,
+    "genre": "femme",
+    "styles": [
+      "sportif",
+      "chic",
+      "bohême"
+    ],
+    "saisons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "anniversaire",
+      "baptême",
+      "mariage",
+      "cérémonie",
+      "fête"
+    ],
+    "tailles_disponibles": [
+      "35",
+      "41",
+      "36"
+    ],
+    "couleurs": [
+      "camel",
+      "bleu ciel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/boots?lock=705333",
+    "url_produit": "https://www.gemo.fr/produits/d338991e-42ef-4dca-b816-54b713a1d779"
+  },
+  {
+    "id": "49fa4a8c-1c8f-45ae-81eb-14b19590dffb",
+    "marque": "TBS",
+    "categorie": "robe",
+    "nom": "Robe portefeuille sobre rose poudré",
+    "description": "Robe portefeuille en velours rose poudré, coupe sobre. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 60.99,
+    "genre": "femme",
+    "styles": [
+      "classique",
+      "streetwear",
+      "chic"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "travail",
+      "quotidien",
+      "mariage",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "S",
+      "XS",
+      "XXL",
+      "L",
+      "XL"
+    ],
+    "couleurs": [
+      "rose poudré",
+      "bleu ciel",
+      "bleu jean"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=141093",
+    "url_produit": "https://www.tbs.fr/produits/49fa4a8c-1c8f-45ae-81eb-14b19590dffb"
+  },
+  {
+    "id": "a64f6e33-0a5d-47f2-9dcc-dca20e9c712a",
+    "marque": "Eram",
+    "categorie": "haut",
+    "nom": "Cardigan sobre bleu jean",
+    "description": "Cardigan en cachemire bleu jean, coupe sobre. Idéal pour vos sorties fête.",
+    "prix_eur": 48.99,
+    "genre": "femme",
+    "styles": [
+      "sportif",
       "chic"
     ],
     "saisons": [
@@ -2324,261 +762,102 @@
       "automne"
     ],
     "occasions": [
-      "quotidien",
-      "cérémonie",
-      "anniversaire"
-    ],
-    "tailles_disponibles": [
-      "40",
-      "46",
-      "44",
-      "42",
-      "38",
-      "34",
-      "36"
-    ],
-    "couleurs": [
-      "noir",
-      "bordeaux"
-    ],
-    "image_url": "https://loremflickr.com/600/800/shorts?lock=445079",
-    "url_produit": "https://www.gemo.fr/produits/f6500b73-9495-4dd7-955c-53177d36cd67"
-  },
-  {
-    "id": "a1586dd9-5415-46aa-b162-2d062e838bf3",
-    "marque": "Eram",
-    "categorie": "accessoire",
-    "nom": "Écharpe élégant bleu ciel",
-    "description": "Écharpe en denim bleu ciel, coupe élégant. Idéal pour vos sorties anniversaire.",
-    "prix_eur": 57.99,
-    "genre": "femme",
-    "styles": [
-      "classique",
-      "sportif"
-    ],
-    "saisons": [
-      "printemps",
-      "été"
-    ],
-    "occasions": [
+      "fête",
       "mariage",
-      "anniversaire"
-    ],
-    "tailles_disponibles": [
-      "unique"
-    ],
-    "couleurs": [
-      "bleu ciel",
-      "gris"
-    ],
-    "image_url": "https://loremflickr.com/600/800/scarf?lock=929771",
-    "url_produit": "https://www.eram.fr/produits/a1586dd9-5415-46aa-b162-2d062e838bf3"
-  },
-  {
-    "id": "5040ff6b-5acf-46c4-9f09-ab1f29348622",
-    "marque": "Bocage",
-    "categorie": "chaussures",
-    "nom": "Ballerines sobre bleu jean",
-    "description": "Ballerines en denim bleu jean, coupe sobre. Idéal pour vos sorties baptême.",
-    "prix_eur": 160.99,
-    "genre": "homme",
-    "styles": [
-      "bohême"
-    ],
-    "saisons": [
-      "automne"
-    ],
-    "occasions": [
-      "quotidien",
-      "anniversaire",
       "cérémonie",
       "baptême"
     ],
     "tailles_disponibles": [
-      "44",
-      "42",
-      "45"
+      "XXL",
+      "L",
+      "XS",
+      "M"
     ],
     "couleurs": [
       "bleu jean",
-      "rose poudré",
-      "bordeaux"
+      "marine"
     ],
-    "image_url": "https://loremflickr.com/600/800/flats?lock=438317",
-    "url_produit": "https://www.bocage.fr/produits/5040ff6b-5acf-46c4-9f09-ab1f29348622"
+    "image_url": "https://loremflickr.com/600/800/cardigan?lock=226201",
+    "url_produit": "https://www.eram.fr/produits/a64f6e33-0a5d-47f2-9dcc-dca20e9c712a"
   },
   {
-    "id": "090c4096-f84b-44e5-b806-dc33de175d13",
-    "marque": "Bocage",
-    "categorie": "haut",
-    "nom": "Chemise élégant beige",
-    "description": "Chemise en velours beige, coupe élégant. Idéal pour vos sorties quotidien.",
-    "prix_eur": 63.99,
-    "genre": "femme",
-    "styles": [
-      "casual"
-    ],
-    "saisons": [
-      "printemps",
-      "été"
-    ],
-    "occasions": [
-      "quotidien",
-      "mariage",
-      "anniversaire",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "XL",
-      "XXL"
-    ],
-    "couleurs": [
-      "beige",
-      "gris"
-    ],
-    "image_url": "https://loremflickr.com/600/800/shirt?lock=798061",
-    "url_produit": "https://www.bocage.fr/produits/090c4096-f84b-44e5-b806-dc33de175d13"
-  },
-  {
-    "id": "4ee4363a-dad6-42b5-9a41-f2ffca9d4796",
+    "id": "b8058150-1629-4bc3-b21a-b0e08bdbc5d1",
     "marque": "Gemo",
-    "categorie": "bas",
-    "nom": "Short tendance rose poudré",
-    "description": "Short en lin rose poudré, coupe tendance. Idéal pour vos sorties baptême.",
-    "prix_eur": 34.99,
-    "genre": "femme",
+    "categorie": "haut",
+    "nom": "Blouse sobre noir",
+    "description": "Blouse en laine noir, coupe sobre. Idéal pour vos sorties baptême.",
+    "prix_eur": 25.99,
+    "genre": "homme",
     "styles": [
-      "bohême"
+      "chic",
+      "sportif",
+      "classique"
     ],
     "saisons": [
-      "été"
+      "hiver"
     ],
     "occasions": [
-      "anniversaire",
-      "baptême",
       "fête",
+      "quotidien",
+      "baptême",
       "mariage"
     ],
     "tailles_disponibles": [
-      "46",
-      "36"
-    ],
-    "couleurs": [
-      "rose poudré",
-      "moutarde"
-    ],
-    "image_url": "https://loremflickr.com/600/800/shorts?lock=580261",
-    "url_produit": "https://www.gemo.fr/produits/4ee4363a-dad6-42b5-9a41-f2ffca9d4796"
-  },
-  {
-    "id": "2fad5a99-a964-4c3b-83ab-3029d0b57e57",
-    "marque": "TBS",
-    "categorie": "accessoire",
-    "nom": "Casquette classique blanc",
-    "description": "Casquette en viscose blanc, coupe classique. Idéal pour vos sorties cérémonie.",
-    "prix_eur": 25.99,
-    "genre": "unisexe",
-    "styles": [
-      "streetwear",
-      "chic"
-    ],
-    "saisons": [
-      "printemps",
-      "automne"
-    ],
-    "occasions": [
-      "cérémonie",
-      "travail",
-      "baptême",
-      "anniversaire"
-    ],
-    "tailles_disponibles": [
-      "unique"
-    ],
-    "couleurs": [
-      "blanc",
-      "vert sauge"
-    ],
-    "image_url": "https://loremflickr.com/600/800/cap?lock=890872",
-    "url_produit": "https://www.tbs.fr/produits/2fad5a99-a964-4c3b-83ab-3029d0b57e57"
-  },
-  {
-    "id": "48becaaf-4043-4aa9-80b5-a8521dea16bc",
-    "marque": "Eram",
-    "categorie": "haut",
-    "nom": "Cardigan tendance bleu ciel",
-    "description": "Cardigan en lin bleu ciel, coupe tendance. Idéal pour vos sorties fête.",
-    "prix_eur": 64.99,
-    "genre": "homme",
-    "styles": [
-      "chic"
-    ],
-    "saisons": [
-      "été"
-    ],
-    "occasions": [
-      "fête",
-      "cérémonie",
-      "anniversaire"
-    ],
-    "tailles_disponibles": [
-      "XXL",
-      "L",
       "S",
-      "M",
-      "XL",
-      "XS"
-    ],
-    "couleurs": [
-      "bleu ciel"
-    ],
-    "image_url": "https://loremflickr.com/600/800/cardigan?lock=464499",
-    "url_produit": "https://www.eram.fr/produits/48becaaf-4043-4aa9-80b5-a8521dea16bc"
-  },
-  {
-    "id": "f9c546aa-52a2-49bb-9cd7-b920479d32f1",
-    "marque": "TBS",
-    "categorie": "bas",
-    "nom": "Jean tendance noir",
-    "description": "Jean en viscose noir, coupe tendance. Idéal pour vos sorties fête.",
-    "prix_eur": 101.99,
-    "genre": "femme",
-    "styles": [
-      "chic"
-    ],
-    "saisons": [
-      "printemps",
-      "été"
-    ],
-    "occasions": [
-      "anniversaire",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "44",
-      "34",
-      "36",
-      "40",
-      "38"
+      "L",
+      "M"
     ],
     "couleurs": [
       "noir",
-      "camel",
-      "rouge"
+      "blanc"
     ],
-    "image_url": "https://loremflickr.com/600/800/jeans?lock=459656",
-    "url_produit": "https://www.tbs.fr/produits/f9c546aa-52a2-49bb-9cd7-b920479d32f1"
+    "image_url": "https://loremflickr.com/600/800/blouse?lock=371615",
+    "url_produit": "https://www.gemo.fr/produits/b8058150-1629-4bc3-b21a-b0e08bdbc5d1"
   },
   {
-    "id": "b85e050c-b5a6-4c76-8e41-9f60582af756",
-    "marque": "Gemo",
-    "categorie": "haut",
-    "nom": "Chemise tendance bleu ciel",
-    "description": "Chemise en denim bleu ciel, coupe tendance. Idéal pour vos sorties cérémonie.",
-    "prix_eur": 14.99,
+    "id": "a3a1047d-bb65-45f0-8d97-b7de649e39ab",
+    "marque": "Bocage",
+    "categorie": "robe",
+    "nom": "Robe chemise sobre beige",
+    "description": "Robe chemise en coton beige, coupe sobre. Idéal pour vos sorties fête.",
+    "prix_eur": 157.99,
     "genre": "femme",
     "styles": [
-      "streetwear",
+      "sportif",
+      "chic",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "mariage",
+      "cérémonie",
+      "fête",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "S",
+      "XXL"
+    ],
+    "couleurs": [
+      "beige"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=241398",
+    "url_produit": "https://www.bocage.fr/produits/a3a1047d-bb65-45f0-8d97-b7de649e39ab"
+  },
+  {
+    "id": "1285d639-b220-4ba7-adc9-d31408e017e5",
+    "marque": "Bocage",
+    "categorie": "haut",
+    "nom": "Polo moderne moutarde",
+    "description": "Polo en viscose moutarde, coupe moderne. Idéal pour vos sorties travail.",
+    "prix_eur": 54.99,
+    "genre": "femme",
+    "styles": [
+      "casual",
       "classique"
     ],
     "saisons": [
@@ -2586,32 +865,1071 @@
     ],
     "occasions": [
       "travail",
-      "anniversaire",
-      "cérémonie"
+      "mariage",
+      "quotidien",
+      "anniversaire"
     ],
     "tailles_disponibles": [
-      "S",
-      "L",
-      "XXL",
-      "XL",
+      "XS",
       "M",
-      "XS"
+      "S",
+      "L"
+    ],
+    "couleurs": [
+      "moutarde",
+      "beige"
+    ],
+    "image_url": "https://loremflickr.com/600/800/polo?lock=761327",
+    "url_produit": "https://www.bocage.fr/produits/1285d639-b220-4ba7-adc9-d31408e017e5"
+  },
+  {
+    "id": "2bdfa79d-90eb-4a3a-a6a1-af0f6dc9be65",
+    "marque": "Eram",
+    "categorie": "accessoire",
+    "nom": "Sac fluide écru",
+    "description": "Sac en velours écru, coupe fluide. Idéal pour vos sorties baptême.",
+    "prix_eur": 54.99,
+    "genre": "enfant",
+    "styles": [
+      "casual",
+      "classique",
+      "chic"
+    ],
+    "saisons": [
+      "hiver"
+    ],
+    "occasions": [
+      "anniversaire",
+      "mariage",
+      "cérémonie",
+      "quotidien",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "écru",
+      "camel",
+      "bordeaux"
+    ],
+    "image_url": "https://loremflickr.com/600/800/handbag?lock=78461",
+    "url_produit": "https://www.eram.fr/produits/2bdfa79d-90eb-4a3a-a6a1-af0f6dc9be65"
+  },
+  {
+    "id": "d8705669-89cd-4bf0-a30a-e3e0e517444c",
+    "marque": "TBS",
+    "categorie": "chaussures",
+    "nom": "Derbies moderne marine",
+    "description": "Derbies en denim marine, coupe moderne. Idéal pour vos sorties travail.",
+    "prix_eur": 105.99,
+    "genre": "femme",
+    "styles": [
+      "casual",
+      "bohême"
+    ],
+    "saisons": [
+      "hiver"
+    ],
+    "occasions": [
+      "travail",
+      "fête",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "40",
+      "36",
+      "39",
+      "37"
+    ],
+    "couleurs": [
+      "marine"
+    ],
+    "image_url": "https://loremflickr.com/600/800/derby?lock=244440",
+    "url_produit": "https://www.tbs.fr/produits/d8705669-89cd-4bf0-a30a-e3e0e517444c"
+  },
+  {
+    "id": "3396de53-c4d6-4a19-b792-bd310a983697",
+    "marque": "TBS",
+    "categorie": "chaussures",
+    "nom": "Ballerines moderne bleu ciel",
+    "description": "Ballerines en lin bleu ciel, coupe moderne. Idéal pour vos sorties travail.",
+    "prix_eur": 166.99,
+    "genre": "femme",
+    "styles": [
+      "classique",
+      "streetwear",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "travail",
+      "cérémonie",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "36",
+      "38"
+    ],
+    "couleurs": [
+      "bleu ciel",
+      "camel",
+      "gris"
+    ],
+    "image_url": "https://loremflickr.com/600/800/flats?lock=526196",
+    "url_produit": "https://www.tbs.fr/produits/3396de53-c4d6-4a19-b792-bd310a983697"
+  },
+  {
+    "id": "ea855afa-8b70-48f2-ab38-17c5ace362fe",
+    "marque": "TBS",
+    "categorie": "bas",
+    "nom": "Bermuda classique noir",
+    "description": "Bermuda en maille noir, coupe classique. Idéal pour vos sorties travail.",
+    "prix_eur": 80.99,
+    "genre": "femme",
+    "styles": [
+      "classique",
+      "casual"
+    ],
+    "saisons": [
+      "été"
+    ],
+    "occasions": [
+      "quotidien",
+      "mariage",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "40",
+      "38",
+      "46",
+      "34",
+      "36",
+      "42"
+    ],
+    "couleurs": [
+      "noir"
+    ],
+    "image_url": "https://loremflickr.com/600/800/shorts?lock=612056",
+    "url_produit": "https://www.tbs.fr/produits/ea855afa-8b70-48f2-ab38-17c5ace362fe"
+  },
+  {
+    "id": "e1d6edcc-4162-4b5f-8ad2-de79c2862510",
+    "marque": "Gemo",
+    "categorie": "chaussures",
+    "nom": "Derbies moderne beige",
+    "description": "Derbies en viscose beige, coupe moderne. Idéal pour vos sorties travail.",
+    "prix_eur": 27.99,
+    "genre": "femme",
+    "styles": [
+      "streetwear",
+      "classique",
+      "casual"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "fête",
+      "anniversaire",
+      "cérémonie",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "39",
+      "35",
+      "37"
+    ],
+    "couleurs": [
+      "beige",
+      "blanc",
+      "rose poudré"
+    ],
+    "image_url": "https://loremflickr.com/600/800/derby?lock=962968",
+    "url_produit": "https://www.gemo.fr/produits/e1d6edcc-4162-4b5f-8ad2-de79c2862510"
+  },
+  {
+    "id": "0bf32141-b08f-4d94-8986-2e7356dbc067",
+    "marque": "Gemo",
+    "categorie": "accessoire",
+    "nom": "Foulard tendance bleu ciel",
+    "description": "Foulard en soie bleu ciel, coupe tendance. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 24.99,
+    "genre": "femme",
+    "styles": [
+      "classique",
+      "sportif"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "anniversaire",
+      "quotidien",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "unique"
     ],
     "couleurs": [
       "bleu ciel"
     ],
-    "image_url": "https://loremflickr.com/600/800/shirt?lock=172513",
-    "url_produit": "https://www.gemo.fr/produits/b85e050c-b5a6-4c76-8e41-9f60582af756"
+    "image_url": "https://loremflickr.com/600/800/scarf?lock=483337",
+    "url_produit": "https://www.gemo.fr/produits/0bf32141-b08f-4d94-8986-2e7356dbc067"
   },
   {
-    "id": "089d95c8-19e6-4422-b691-fc9d17adc4f1",
-    "marque": "Gemo",
-    "categorie": "bas",
-    "nom": "Short classique moutarde",
-    "description": "Short en coton moutarde, coupe classique. Idéal pour vos sorties anniversaire.",
-    "prix_eur": 21.99,
+    "id": "cefc5b74-d0e7-4aae-aa91-82b8a01b110f",
+    "marque": "TBS",
+    "categorie": "haut",
+    "nom": "Blouse élégant bordeaux",
+    "description": "Blouse en laine bordeaux, coupe élégant. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 60.99,
     "genre": "homme",
     "styles": [
+      "classique",
+      "bohême",
+      "chic"
+    ],
+    "saisons": [
+      "hiver"
+    ],
+    "occasions": [
+      "baptême",
+      "anniversaire",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "M",
+      "L"
+    ],
+    "couleurs": [
+      "bordeaux",
+      "bleu jean",
+      "moutarde"
+    ],
+    "image_url": "https://loremflickr.com/600/800/blouse?lock=648452",
+    "url_produit": "https://www.tbs.fr/produits/cefc5b74-d0e7-4aae-aa91-82b8a01b110f"
+  },
+  {
+    "id": "4f99bca2-5e35-4679-af31-3ea4ddde4c7d",
+    "marque": "Eram",
+    "categorie": "bas",
+    "nom": "Jupe moderne bleu ciel",
+    "description": "Jupe en lin bleu ciel, coupe moderne. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 95.99,
+    "genre": "enfant",
+    "styles": [
+      "chic",
+      "casual"
+    ],
+    "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "mariage",
+      "anniversaire",
+      "travail",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "8",
+      "16",
+      "4",
+      "10",
+      "14",
+      "2",
+      "6"
+    ],
+    "couleurs": [
+      "bleu ciel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/skirt?lock=476697",
+    "url_produit": "https://www.eram.fr/produits/4f99bca2-5e35-4679-af31-3ea4ddde4c7d"
+  },
+  {
+    "id": "03bf16c3-8b93-45c8-b0c0-b3f5524ef57b",
+    "marque": "TBS",
+    "categorie": "haut",
+    "nom": "Polo fluide noir",
+    "description": "Polo en coton noir, coupe fluide. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 60.99,
+    "genre": "homme",
+    "styles": [
+      "casual",
+      "bohême",
+      "sportif"
+    ],
+    "saisons": [
+      "été"
+    ],
+    "occasions": [
+      "fête",
+      "travail",
+      "cérémonie",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "XXL",
+      "L",
+      "M",
+      "S",
+      "XL"
+    ],
+    "couleurs": [
+      "noir"
+    ],
+    "image_url": "https://loremflickr.com/600/800/polo?lock=854913",
+    "url_produit": "https://www.tbs.fr/produits/03bf16c3-8b93-45c8-b0c0-b3f5524ef57b"
+  },
+  {
+    "id": "87256139-bfea-46ac-b16d-69925500d484",
+    "marque": "Gemo",
+    "categorie": "bas",
+    "nom": "Jean classique bordeaux",
+    "description": "Jean en soie bordeaux, coupe classique. Idéal pour vos sorties baptême.",
+    "prix_eur": 38.99,
+    "genre": "homme",
+    "styles": [
+      "sportif",
+      "casual",
+      "streetwear"
+    ],
+    "saisons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "travail",
+      "baptême",
+      "fête",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "38",
+      "44",
+      "40",
+      "42",
+      "36"
+    ],
+    "couleurs": [
+      "bordeaux",
+      "rouge",
+      "noir"
+    ],
+    "image_url": "https://loremflickr.com/600/800/jeans?lock=376148",
+    "url_produit": "https://www.gemo.fr/produits/87256139-bfea-46ac-b16d-69925500d484"
+  },
+  {
+    "id": "0443e34c-7c17-401e-9286-5e0af8e064bf",
+    "marque": "Gemo",
+    "categorie": "accessoire",
+    "nom": "Ceinture raffiné noir",
+    "description": "Ceinture en denim noir, coupe raffiné. Idéal pour vos sorties travail.",
+    "prix_eur": 6.99,
+    "genre": "homme",
+    "styles": [
+      "streetwear",
+      "classique",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "fête",
+      "cérémonie",
+      "mariage",
+      "travail",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "noir",
+      "gris"
+    ],
+    "image_url": "https://loremflickr.com/600/800/belt?lock=558035",
+    "url_produit": "https://www.gemo.fr/produits/0443e34c-7c17-401e-9286-5e0af8e064bf"
+  },
+  {
+    "id": "2fda76a8-08c7-40c3-9425-c83eed37fc01",
+    "marque": "Eram",
+    "categorie": "robe",
+    "nom": "Robe portefeuille classique gris",
+    "description": "Robe portefeuille en soie gris, coupe classique. Idéal pour vos sorties quotidien.",
+    "prix_eur": 96.99,
+    "genre": "femme",
+    "styles": [
+      "bohême",
+      "streetwear",
+      "chic"
+    ],
+    "saisons": [
+      "hiver"
+    ],
+    "occasions": [
+      "mariage",
+      "travail",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "M",
+      "XL",
+      "S"
+    ],
+    "couleurs": [
+      "gris"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=847178",
+    "url_produit": "https://www.eram.fr/produits/2fda76a8-08c7-40c3-9425-c83eed37fc01"
+  },
+  {
+    "id": "4f232ea2-791e-4c8f-86fa-a2e62088be1b",
+    "marque": "Gemo",
+    "categorie": "robe",
+    "nom": "Robe chemise raffiné bordeaux",
+    "description": "Robe chemise en soie bordeaux, coupe raffiné. Idéal pour vos sorties quotidien.",
+    "prix_eur": 56.99,
+    "genre": "femme",
+    "styles": [
+      "classique",
+      "streetwear",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "baptême",
+      "fête",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "XXL",
+      "M",
+      "XL"
+    ],
+    "couleurs": [
+      "bordeaux",
+      "gris",
+      "écru"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=707089",
+    "url_produit": "https://www.gemo.fr/produits/4f232ea2-791e-4c8f-86fa-a2e62088be1b"
+  },
+  {
+    "id": "2a5a12d3-d4ab-4843-b04a-fdcca4ea8177",
+    "marque": "Bocage",
+    "categorie": "robe",
+    "nom": "Robe longue chic bordeaux",
+    "description": "Robe longue en viscose bordeaux, coupe chic. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 127.99,
+    "genre": "enfant",
+    "styles": [
+      "sportif",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "baptême",
+      "fête",
+      "anniversaire",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "16",
+      "8",
+      "2",
+      "12",
+      "10",
+      "4",
+      "6"
+    ],
+    "couleurs": [
+      "bordeaux",
+      "kaki"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=546841",
+    "url_produit": "https://www.bocage.fr/produits/2a5a12d3-d4ab-4843-b04a-fdcca4ea8177"
+  },
+  {
+    "id": "81307494-4b0e-4da9-be21-3c09fd81d911",
+    "marque": "Gemo",
+    "categorie": "accessoire",
+    "nom": "Chapeau élégant beige",
+    "description": "Chapeau en cachemire beige, coupe élégant. Idéal pour vos sorties baptême.",
+    "prix_eur": 19.99,
+    "genre": "unisexe",
+    "styles": [
+      "chic",
+      "classique",
+      "streetwear"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "anniversaire",
+      "fête",
+      "quotidien",
+      "baptême",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "beige",
+      "moutarde",
+      "marine"
+    ],
+    "image_url": "https://loremflickr.com/600/800/hat?lock=438603",
+    "url_produit": "https://www.gemo.fr/produits/81307494-4b0e-4da9-be21-3c09fd81d911"
+  },
+  {
+    "id": "af9b8a14-5702-44f5-9739-438003015c98",
+    "marque": "Bocage",
+    "categorie": "accessoire",
+    "nom": "Écharpe chic rouge",
+    "description": "Écharpe en laine rouge, coupe chic. Idéal pour vos sorties quotidien.",
+    "prix_eur": 56.99,
+    "genre": "femme",
+    "styles": [
+      "classique",
+      "sportif",
+      "bohême"
+    ],
+    "saisons": [
+      "hiver"
+    ],
+    "occasions": [
+      "mariage",
+      "anniversaire",
+      "baptême",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "rouge",
+      "vert sauge"
+    ],
+    "image_url": "https://loremflickr.com/600/800/scarf?lock=209174",
+    "url_produit": "https://www.bocage.fr/produits/af9b8a14-5702-44f5-9739-438003015c98"
+  },
+  {
+    "id": "0409a167-516c-4115-8faa-590ae9db1e18",
+    "marque": "Gemo",
+    "categorie": "haut",
+    "nom": "Chemise décontracté moutarde",
+    "description": "Chemise en denim moutarde, coupe décontracté. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 25.99,
+    "genre": "homme",
+    "styles": [
+      "streetwear",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "anniversaire",
+      "travail",
+      "fête",
+      "baptême",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "XXL",
+      "S"
+    ],
+    "couleurs": [
+      "moutarde",
+      "bleu ciel",
+      "camel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/shirt?lock=740074",
+    "url_produit": "https://www.gemo.fr/produits/0409a167-516c-4115-8faa-590ae9db1e18"
+  },
+  {
+    "id": "9bb5262e-520a-4a51-864a-953f7b2708f6",
+    "marque": "Gemo",
+    "categorie": "bas",
+    "nom": "Jupe élégant rose poudré",
+    "description": "Jupe en lin rose poudré, coupe élégant. Idéal pour vos sorties mariage.",
+    "prix_eur": 26.99,
+    "genre": "homme",
+    "styles": [
+      "bohême",
+      "streetwear"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "mariage",
+      "baptême",
+      "quotidien",
+      "fête",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "36",
+      "48",
+      "40",
+      "44",
+      "46"
+    ],
+    "couleurs": [
+      "rose poudré",
+      "kaki"
+    ],
+    "image_url": "https://loremflickr.com/600/800/skirt?lock=342882",
+    "url_produit": "https://www.gemo.fr/produits/9bb5262e-520a-4a51-864a-953f7b2708f6"
+  },
+  {
+    "id": "443054f8-5927-4a76-bfe9-99360783feb8",
+    "marque": "Gemo",
+    "categorie": "haut",
+    "nom": "Top chic marine",
+    "description": "Top en laine marine, coupe chic. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 21.99,
+    "genre": "femme",
+    "styles": [
+      "casual",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "cérémonie",
+      "anniversaire",
+      "travail",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "M",
+      "S",
+      "XS",
+      "XXL",
+      "XL",
+      "L"
+    ],
+    "couleurs": [
+      "marine",
+      "bleu jean",
+      "noir"
+    ],
+    "image_url": "https://loremflickr.com/600/800/top?lock=19312",
+    "url_produit": "https://www.gemo.fr/produits/443054f8-5927-4a76-bfe9-99360783feb8"
+  },
+  {
+    "id": "f31d7de0-e78a-4e07-8bbb-245c43f0fad4",
+    "marque": "TBS",
+    "categorie": "haut",
+    "nom": "Blouse raffiné bordeaux",
+    "description": "Blouse en maille bordeaux, coupe raffiné. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 66.99,
+    "genre": "enfant",
+    "styles": [
+      "bohême",
+      "sportif"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "travail",
+      "anniversaire",
+      "cérémonie",
+      "fête"
+    ],
+    "tailles_disponibles": [
+      "6",
+      "12",
+      "2",
+      "10",
+      "4",
+      "16",
+      "14",
+      "8"
+    ],
+    "couleurs": [
+      "bordeaux"
+    ],
+    "image_url": "https://loremflickr.com/600/800/blouse?lock=800334",
+    "url_produit": "https://www.tbs.fr/produits/f31d7de0-e78a-4e07-8bbb-245c43f0fad4"
+  },
+  {
+    "id": "b016434c-e6e5-473a-bf95-a1e87991a3bd",
+    "marque": "Bocage",
+    "categorie": "chaussures",
+    "nom": "Derbies sobre noir",
+    "description": "Derbies en velours noir, coupe sobre. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 191.99,
+    "genre": "femme",
+    "styles": [
+      "streetwear",
+      "chic"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "fête",
+      "baptême",
+      "anniversaire",
+      "cérémonie",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "41",
+      "40",
+      "37",
+      "35"
+    ],
+    "couleurs": [
+      "noir",
+      "rouge",
+      "moutarde"
+    ],
+    "image_url": "https://loremflickr.com/600/800/derby?lock=251990",
+    "url_produit": "https://www.bocage.fr/produits/b016434c-e6e5-473a-bf95-a1e87991a3bd"
+  },
+  {
+    "id": "b5154d5c-e6e6-4f1a-a76a-b02bafcfb41c",
+    "marque": "Gemo",
+    "categorie": "haut",
+    "nom": "Blouse chic bleu ciel",
+    "description": "Blouse en laine bleu ciel, coupe chic. Idéal pour vos sorties fête.",
+    "prix_eur": 16.99,
+    "genre": "enfant",
+    "styles": [
+      "chic",
+      "sportif"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "fête",
+      "mariage",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "6",
+      "12"
+    ],
+    "couleurs": [
+      "bleu ciel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/blouse?lock=75194",
+    "url_produit": "https://www.gemo.fr/produits/b5154d5c-e6e6-4f1a-a76a-b02bafcfb41c"
+  },
+  {
+    "id": "942ab5a6-b3e4-4501-b84d-065016768907",
+    "marque": "Gemo",
+    "categorie": "accessoire",
+    "nom": "Chapeau chic blanc",
+    "description": "Chapeau en lin blanc, coupe chic. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 18.99,
+    "genre": "femme",
+    "styles": [
+      "sportif",
+      "streetwear",
+      "bohême"
+    ],
+    "saisons": [
+      "été"
+    ],
+    "occasions": [
+      "fête",
+      "anniversaire",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "blanc",
+      "kaki"
+    ],
+    "image_url": "https://loremflickr.com/600/800/hat?lock=829467",
+    "url_produit": "https://www.gemo.fr/produits/942ab5a6-b3e4-4501-b84d-065016768907"
+  },
+  {
+    "id": "cc764133-7b70-4ffc-af8f-153329c92ca6",
+    "marque": "TBS",
+    "categorie": "bas",
+    "nom": "Bermuda tendance blanc",
+    "description": "Bermuda en maille blanc, coupe tendance. Idéal pour vos sorties fête.",
+    "prix_eur": 103.99,
+    "genre": "enfant",
+    "styles": [
+      "chic",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "fête",
+      "cérémonie",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "8",
+      "6",
+      "12",
+      "16",
+      "4",
+      "2",
+      "14"
+    ],
+    "couleurs": [
+      "blanc"
+    ],
+    "image_url": "https://loremflickr.com/600/800/shorts?lock=305433",
+    "url_produit": "https://www.tbs.fr/produits/cc764133-7b70-4ffc-af8f-153329c92ca6"
+  },
+  {
+    "id": "14c78602-730d-4fcd-b3f3-ffbf946919f3",
+    "marque": "Gemo",
+    "categorie": "accessoire",
+    "nom": "Écharpe raffiné gris",
+    "description": "Écharpe en cachemire gris, coupe raffiné. Idéal pour vos sorties fête.",
+    "prix_eur": 18.99,
+    "genre": "unisexe",
+    "styles": [
+      "bohême",
+      "sportif"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "baptême",
+      "travail",
+      "fête"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "gris"
+    ],
+    "image_url": "https://loremflickr.com/600/800/scarf?lock=620638",
+    "url_produit": "https://www.gemo.fr/produits/14c78602-730d-4fcd-b3f3-ffbf946919f3"
+  },
+  {
+    "id": "35db1607-a146-4ef0-bc56-cef95c495a33",
+    "marque": "Bocage",
+    "categorie": "accessoire",
+    "nom": "Casquette sobre beige",
+    "description": "Casquette en lin beige, coupe sobre. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 66.99,
+    "genre": "femme",
+    "styles": [
+      "bohême",
+      "chic",
+      "sportif"
+    ],
+    "saisons": [
+      "été"
+    ],
+    "occasions": [
+      "anniversaire",
+      "baptême",
+      "cérémonie",
+      "mariage",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "beige",
+      "rose poudré"
+    ],
+    "image_url": "https://loremflickr.com/600/800/cap?lock=551374",
+    "url_produit": "https://www.bocage.fr/produits/35db1607-a146-4ef0-bc56-cef95c495a33"
+  },
+  {
+    "id": "25d311f8-6cd5-4bca-92e8-4602c0680f34",
+    "marque": "Gemo",
+    "categorie": "haut",
+    "nom": "T-shirt moderne écru",
+    "description": "T-shirt en viscose écru, coupe moderne. Idéal pour vos sorties baptême.",
+    "prix_eur": 24.99,
+    "genre": "femme",
+    "styles": [
+      "streetwear",
+      "bohême"
+    ],
+    "saisons": [
+      "été"
+    ],
+    "occasions": [
+      "quotidien",
+      "baptême",
+      "travail",
+      "anniversaire",
+      "fête"
+    ],
+    "tailles_disponibles": [
+      "L",
+      "XL",
+      "XXL",
+      "M"
+    ],
+    "couleurs": [
+      "écru"
+    ],
+    "image_url": "https://loremflickr.com/600/800/tshirt?lock=590322",
+    "url_produit": "https://www.gemo.fr/produits/25d311f8-6cd5-4bca-92e8-4602c0680f34"
+  },
+  {
+    "id": "f0494bc1-885e-4dbb-b7eb-bd4c355fdbb8",
+    "marque": "Eram",
+    "categorie": "chaussures",
+    "nom": "Sandales classique bleu jean",
+    "description": "Sandales en cachemire bleu jean, coupe classique. Idéal pour vos sorties quotidien.",
+    "prix_eur": 108.99,
+    "genre": "unisexe",
+    "styles": [
+      "streetwear",
+      "classique",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "mariage",
+      "quotidien",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "42",
+      "40",
+      "41",
+      "44",
+      "39",
+      "43"
+    ],
+    "couleurs": [
+      "bleu jean",
+      "marine",
+      "bordeaux"
+    ],
+    "image_url": "https://loremflickr.com/600/800/sandals?lock=339392",
+    "url_produit": "https://www.eram.fr/produits/f0494bc1-885e-4dbb-b7eb-bd4c355fdbb8"
+  },
+  {
+    "id": "44dac499-de0a-4084-a459-5b61c46a505f",
+    "marque": "Gemo",
+    "categorie": "haut",
+    "nom": "Top décontracté moutarde",
+    "description": "Top en coton moutarde, coupe décontracté. Idéal pour vos sorties quotidien.",
+    "prix_eur": 13.99,
+    "genre": "enfant",
+    "styles": [
+      "classique",
+      "sportif"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "mariage",
+      "fête",
+      "anniversaire",
+      "quotidien",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "8",
+      "6",
+      "14",
+      "10",
+      "4"
+    ],
+    "couleurs": [
+      "moutarde",
+      "bleu ciel",
+      "blanc"
+    ],
+    "image_url": "https://loremflickr.com/600/800/top?lock=189020",
+    "url_produit": "https://www.gemo.fr/produits/44dac499-de0a-4084-a459-5b61c46a505f"
+  },
+  {
+    "id": "4af911f4-199a-440f-a4ab-9549df12fbe3",
+    "marque": "TBS",
+    "categorie": "haut",
+    "nom": "Top moderne bordeaux",
+    "description": "Top en laine bordeaux, coupe moderne. Idéal pour vos sorties fête.",
+    "prix_eur": 49.99,
+    "genre": "femme",
+    "styles": [
+      "sportif",
+      "streetwear"
+    ],
+    "saisons": [
+      "hiver"
+    ],
+    "occasions": [
+      "mariage",
+      "baptême",
+      "fête",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "S",
+      "L",
+      "XL",
+      "XXL",
+      "M",
+      "XS"
+    ],
+    "couleurs": [
+      "bordeaux"
+    ],
+    "image_url": "https://loremflickr.com/600/800/top?lock=838301",
+    "url_produit": "https://www.tbs.fr/produits/4af911f4-199a-440f-a4ab-9549df12fbe3"
+  },
+  {
+    "id": "3eb03343-17b9-4a1f-9dcd-e839bb815e98",
+    "marque": "TBS",
+    "categorie": "bas",
+    "nom": "Jupe intemporel gris",
+    "description": "Jupe en denim gris, coupe intemporel. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 50.99,
+    "genre": "femme",
+    "styles": [
+      "streetwear",
       "casual",
       "bohême"
     ],
@@ -2620,34 +1938,1014 @@
       "hiver"
     ],
     "occasions": [
-      "mariage",
-      "anniversaire"
+      "fête",
+      "anniversaire",
+      "cérémonie",
+      "travail",
+      "mariage"
     ],
     "tailles_disponibles": [
-      "48",
-      "42"
+      "40",
+      "42",
+      "36",
+      "44",
+      "34",
+      "46"
     ],
     "couleurs": [
-      "moutarde",
-      "bleu ciel",
-      "écru"
+      "gris",
+      "vert sauge",
+      "kaki"
     ],
-    "image_url": "https://loremflickr.com/600/800/shorts?lock=545368",
-    "url_produit": "https://www.gemo.fr/produits/089d95c8-19e6-4422-b691-fc9d17adc4f1"
+    "image_url": "https://loremflickr.com/600/800/skirt?lock=735902",
+    "url_produit": "https://www.tbs.fr/produits/3eb03343-17b9-4a1f-9dcd-e839bb815e98"
   },
   {
-    "id": "70dd95c8-dac9-46f8-893a-9209c83a1722",
-    "marque": "Eram",
+    "id": "212aeda1-4438-4855-bdc4-ef558fe16883",
+    "marque": "Bocage",
     "categorie": "chaussures",
-    "nom": "Ballerines tendance écru",
-    "description": "Ballerines en velours écru, coupe tendance. Idéal pour vos sorties travail.",
-    "prix_eur": 71.99,
+    "nom": "Ballerines classique rouge",
+    "description": "Ballerines en laine rouge, coupe classique. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 102.99,
+    "genre": "enfant",
+    "styles": [
+      "streetwear",
+      "bohême"
+    ],
+    "saisons": [
+      "automne"
+    ],
+    "occasions": [
+      "travail",
+      "anniversaire",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "28",
+      "32",
+      "26",
+      "34",
+      "24",
+      "22",
+      "30",
+      "20"
+    ],
+    "couleurs": [
+      "rouge",
+      "écru",
+      "bordeaux"
+    ],
+    "image_url": "https://loremflickr.com/600/800/flats?lock=462029",
+    "url_produit": "https://www.bocage.fr/produits/212aeda1-4438-4855-bdc4-ef558fe16883"
+  },
+  {
+    "id": "35138930-633f-4986-a68b-b286da819152",
+    "marque": "Bocage",
+    "categorie": "accessoire",
+    "nom": "Chapeau classique écru",
+    "description": "Chapeau en lin écru, coupe classique. Idéal pour vos sorties quotidien.",
+    "prix_eur": 82.99,
+    "genre": "homme",
+    "styles": [
+      "classique",
+      "chic"
+    ],
+    "saisons": [
+      "été"
+    ],
+    "occasions": [
+      "fête",
+      "quotidien",
+      "mariage",
+      "travail",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "écru",
+      "bleu ciel",
+      "gris"
+    ],
+    "image_url": "https://loremflickr.com/600/800/hat?lock=473642",
+    "url_produit": "https://www.bocage.fr/produits/35138930-633f-4986-a68b-b286da819152"
+  },
+  {
+    "id": "72de716c-e31e-468f-a1a1-6c6f85355157",
+    "marque": "Gemo",
+    "categorie": "accessoire",
+    "nom": "Écharpe chic camel",
+    "description": "Écharpe en coton camel, coupe chic. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 20.99,
+    "genre": "unisexe",
+    "styles": [
+      "chic",
+      "casual",
+      "streetwear"
+    ],
+    "saisons": [
+      "automne"
+    ],
+    "occasions": [
+      "baptême",
+      "fête",
+      "quotidien",
+      "cérémonie",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "camel",
+      "bordeaux",
+      "noir"
+    ],
+    "image_url": "https://loremflickr.com/600/800/scarf?lock=182579",
+    "url_produit": "https://www.gemo.fr/produits/72de716c-e31e-468f-a1a1-6c6f85355157"
+  },
+  {
+    "id": "ae9a27b4-3533-46e8-a31b-6dac4b4fa543",
+    "marque": "TBS",
+    "categorie": "haut",
+    "nom": "Veste chic blanc",
+    "description": "Veste en coton blanc, coupe chic. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 67.99,
     "genre": "femme",
     "styles": [
+      "sportif",
+      "streetwear"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "travail",
+      "anniversaire",
+      "quotidien",
+      "fête",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "S",
+      "M",
+      "XL",
+      "XXL",
+      "L"
+    ],
+    "couleurs": [
+      "blanc",
+      "camel",
+      "vert sauge"
+    ],
+    "image_url": "https://loremflickr.com/600/800/jacket?lock=341221",
+    "url_produit": "https://www.tbs.fr/produits/ae9a27b4-3533-46e8-a31b-6dac4b4fa543"
+  },
+  {
+    "id": "d3911f5b-cdf3-4062-a05c-95a30c9c0d99",
+    "marque": "TBS",
+    "categorie": "bas",
+    "nom": "Bermuda sobre noir",
+    "description": "Bermuda en cachemire noir, coupe sobre. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 98.99,
+    "genre": "homme",
+    "styles": [
+      "chic",
       "sportif"
     ],
     "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "fête",
+      "baptême",
+      "quotidien",
+      "cérémonie",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "42",
+      "44",
+      "38",
+      "36",
+      "48",
+      "40"
+    ],
+    "couleurs": [
+      "noir"
+    ],
+    "image_url": "https://loremflickr.com/600/800/shorts?lock=506872",
+    "url_produit": "https://www.tbs.fr/produits/d3911f5b-cdf3-4062-a05c-95a30c9c0d99"
+  },
+  {
+    "id": "28bba42a-92b7-4ad2-a0c9-bdcf876294e9",
+    "marque": "TBS",
+    "categorie": "robe",
+    "nom": "Combinaison chic rouge",
+    "description": "Combinaison en cachemire rouge, coupe chic. Idéal pour vos sorties travail.",
+    "prix_eur": 135.99,
+    "genre": "unisexe",
+    "styles": [
+      "bohême",
+      "streetwear",
+      "sportif"
+    ],
+    "saisons": [
+      "automne"
+    ],
+    "occasions": [
+      "cérémonie",
+      "travail",
+      "anniversaire",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "L",
+      "XL",
+      "XS",
+      "M",
+      "S",
+      "XXL"
+    ],
+    "couleurs": [
+      "rouge",
+      "beige"
+    ],
+    "image_url": "https://loremflickr.com/600/800/jumpsuit?lock=386581",
+    "url_produit": "https://www.tbs.fr/produits/28bba42a-92b7-4ad2-a0c9-bdcf876294e9"
+  },
+  {
+    "id": "df161337-4122-4fcf-b74c-543245a13c25",
+    "marque": "Eram",
+    "categorie": "haut",
+    "nom": "T-shirt classique vert sauge",
+    "description": "T-shirt en viscose vert sauge, coupe classique. Idéal pour vos sorties quotidien.",
+    "prix_eur": 69.99,
+    "genre": "femme",
+    "styles": [
+      "sportif",
+      "classique"
+    ],
+    "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "baptême",
+      "mariage",
+      "cérémonie",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "XS",
+      "XL",
+      "M",
+      "XXL",
+      "L",
+      "S"
+    ],
+    "couleurs": [
+      "vert sauge",
+      "gris",
+      "bleu ciel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/tshirt?lock=769621",
+    "url_produit": "https://www.eram.fr/produits/df161337-4122-4fcf-b74c-543245a13c25"
+  },
+  {
+    "id": "fe537b77-d5d6-457c-923f-2997a385a292",
+    "marque": "Eram",
+    "categorie": "robe",
+    "nom": "Robe chemise raffiné gris",
+    "description": "Robe chemise en lin gris, coupe raffiné. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 126.99,
+    "genre": "femme",
+    "styles": [
+      "casual",
+      "bohême",
+      "chic"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "mariage",
+      "cérémonie",
+      "travail",
+      "fête",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "L",
+      "XXL",
+      "XS",
+      "M",
+      "S"
+    ],
+    "couleurs": [
+      "gris",
+      "camel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=888225",
+    "url_produit": "https://www.eram.fr/produits/fe537b77-d5d6-457c-923f-2997a385a292"
+  },
+  {
+    "id": "c27517e0-433e-477c-a276-9fc6d203589e",
+    "marque": "Eram",
+    "categorie": "chaussures",
+    "nom": "Boots fluide kaki",
+    "description": "Boots en velours kaki, coupe fluide. Idéal pour vos sorties mariage.",
+    "prix_eur": 112.99,
+    "genre": "femme",
+    "styles": [
+      "sportif",
+      "classique",
+      "casual"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "mariage",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "40",
+      "39",
+      "38",
+      "41",
+      "35",
+      "37"
+    ],
+    "couleurs": [
+      "kaki"
+    ],
+    "image_url": "https://loremflickr.com/600/800/boots?lock=456990",
+    "url_produit": "https://www.eram.fr/produits/c27517e0-433e-477c-a276-9fc6d203589e"
+  },
+  {
+    "id": "e610d8c3-50fa-4e49-9a5d-feb44f0bb9f4",
+    "marque": "Eram",
+    "categorie": "haut",
+    "nom": "Cardigan raffiné bordeaux",
+    "description": "Cardigan en lin bordeaux, coupe raffiné. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 56.99,
+    "genre": "homme",
+    "styles": [
+      "classique",
+      "chic",
+      "casual"
+    ],
+    "saisons": [
+      "automne",
       "hiver"
+    ],
+    "occasions": [
+      "cérémonie",
+      "travail",
+      "mariage",
+      "quotidien",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "XXL",
+      "L",
+      "XS"
+    ],
+    "couleurs": [
+      "bordeaux"
+    ],
+    "image_url": "https://loremflickr.com/600/800/cardigan?lock=867606",
+    "url_produit": "https://www.eram.fr/produits/e610d8c3-50fa-4e49-9a5d-feb44f0bb9f4"
+  },
+  {
+    "id": "edc003a6-6eee-45b4-a325-6d1b84749621",
+    "marque": "Gemo",
+    "categorie": "bas",
+    "nom": "Chino fluide blanc",
+    "description": "Chino en lin blanc, coupe fluide. Idéal pour vos sorties baptême.",
+    "prix_eur": 32.99,
+    "genre": "femme",
+    "styles": [
+      "bohême",
+      "classique"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "travail",
+      "anniversaire",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "40",
+      "36"
+    ],
+    "couleurs": [
+      "blanc",
+      "bleu jean"
+    ],
+    "image_url": "https://loremflickr.com/600/800/chinos?lock=788026",
+    "url_produit": "https://www.gemo.fr/produits/edc003a6-6eee-45b4-a325-6d1b84749621"
+  },
+  {
+    "id": "81294fdf-4f65-400b-9739-495dd755c531",
+    "marque": "Gemo",
+    "categorie": "chaussures",
+    "nom": "Boots raffiné kaki",
+    "description": "Boots en velours kaki, coupe raffiné. Idéal pour vos sorties travail.",
+    "prix_eur": 43.99,
+    "genre": "homme",
+    "styles": [
+      "sportif",
+      "chic",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "cérémonie",
+      "travail",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "46",
+      "43",
+      "44",
+      "39"
+    ],
+    "couleurs": [
+      "kaki",
+      "bleu jean"
+    ],
+    "image_url": "https://loremflickr.com/600/800/boots?lock=970453",
+    "url_produit": "https://www.gemo.fr/produits/81294fdf-4f65-400b-9739-495dd755c531"
+  },
+  {
+    "id": "619fa158-6dd9-4541-a56a-a1622d062e83",
+    "marque": "Bocage",
+    "categorie": "haut",
+    "nom": "Tunique raffiné bleu jean",
+    "description": "Tunique en soie bleu jean, coupe raffiné. Idéal pour vos sorties quotidien.",
+    "prix_eur": 44.99,
+    "genre": "femme",
+    "styles": [
+      "casual",
+      "bohême",
+      "chic"
+    ],
+    "saisons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "anniversaire",
+      "cérémonie",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "L",
+      "XXL"
+    ],
+    "couleurs": [
+      "bleu jean",
+      "marine"
+    ],
+    "image_url": "https://loremflickr.com/600/800/tunic?lock=853117",
+    "url_produit": "https://www.bocage.fr/produits/619fa158-6dd9-4541-a56a-a1622d062e83"
+  },
+  {
+    "id": "95040ff6-b5ac-4f6c-84f0-9ab1f2934862",
+    "marque": "Bocage",
+    "categorie": "haut",
+    "nom": "Polo fluide rose poudré",
+    "description": "Polo en velours rose poudré, coupe fluide. Idéal pour vos sorties quotidien.",
+    "prix_eur": 58.99,
+    "genre": "enfant",
+    "styles": [
+      "casual",
+      "streetwear",
+      "sportif"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "cérémonie",
+      "quotidien",
+      "baptême",
+      "fête"
+    ],
+    "tailles_disponibles": [
+      "2",
+      "16",
+      "10",
+      "6",
+      "12"
+    ],
+    "couleurs": [
+      "rose poudré",
+      "bordeaux"
+    ],
+    "image_url": "https://loremflickr.com/600/800/polo?lock=73914",
+    "url_produit": "https://www.bocage.fr/produits/95040ff6-b5ac-4f6c-84f0-9ab1f2934862"
+  },
+  {
+    "id": "96090c40-96f8-44b4-8e58-06dc33de175d",
+    "marque": "TBS",
+    "categorie": "accessoire",
+    "nom": "Chapeau moderne gris",
+    "description": "Chapeau en coton gris, coupe moderne. Idéal pour vos sorties travail.",
+    "prix_eur": 21.99,
+    "genre": "unisexe",
+    "styles": [
+      "streetwear",
+      "chic"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "cérémonie",
+      "travail",
+      "quotidien",
+      "baptême",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "gris",
+      "bleu ciel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/hat?lock=177877",
+    "url_produit": "https://www.tbs.fr/produits/96090c40-96f8-44b4-8e58-06dc33de175d"
+  },
+  {
+    "id": "ee4363ad-ad62-4b5a-941f-2ffca9d47966",
+    "marque": "TBS",
+    "categorie": "haut",
+    "nom": "Cardigan décontracté rouge",
+    "description": "Cardigan en soie rouge, coupe décontracté. Idéal pour vos sorties quotidien.",
+    "prix_eur": 49.99,
+    "genre": "homme",
+    "styles": [
+      "chic",
+      "streetwear"
+    ],
+    "saisons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "mariage",
+      "quotidien",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "S",
+      "M",
+      "L",
+      "XXL",
+      "XS",
+      "XL"
+    ],
+    "couleurs": [
+      "rouge",
+      "gris"
+    ],
+    "image_url": "https://loremflickr.com/600/800/cardigan?lock=397834",
+    "url_produit": "https://www.tbs.fr/produits/ee4363ad-ad62-4b5a-941f-2ffca9d47966"
+  },
+  {
+    "id": "64c3b3ab-3029-4d0b-b57e-570140a6824a",
+    "marque": "Bocage",
+    "categorie": "haut",
+    "nom": "Veste raffiné écru",
+    "description": "Veste en velours écru, coupe raffiné. Idéal pour vos sorties fête.",
+    "prix_eur": 74.99,
+    "genre": "unisexe",
+    "styles": [
+      "sportif",
+      "classique",
+      "chic"
+    ],
+    "saisons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "fête",
+      "anniversaire",
+      "travail",
+      "baptême",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "XL",
+      "L",
+      "M",
+      "XS",
+      "S",
+      "XXL"
+    ],
+    "couleurs": [
+      "écru",
+      "vert sauge",
+      "blanc"
+    ],
+    "image_url": "https://loremflickr.com/600/800/jacket?lock=548805",
+    "url_produit": "https://www.bocage.fr/produits/64c3b3ab-3029-4d0b-b57e-570140a6824a"
+  },
+  {
+    "id": "90b5a852-1dea-416b-ac10-b5408df98186",
+    "marque": "Bocage",
+    "categorie": "robe",
+    "nom": "Robe chemise élégant moutarde",
+    "description": "Robe chemise en coton moutarde, coupe élégant. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 127.99,
+    "genre": "femme",
+    "styles": [
+      "bohême",
+      "sportif",
+      "classique"
+    ],
+    "saisons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "cérémonie",
+      "mariage",
+      "baptême",
+      "fête"
+    ],
+    "tailles_disponibles": [
+      "XL",
+      "S",
+      "L",
+      "XS"
+    ],
+    "couleurs": [
+      "moutarde",
+      "kaki"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=826637",
+    "url_produit": "https://www.bocage.fr/produits/90b5a852-1dea-416b-ac10-b5408df98186"
+  },
+  {
+    "id": "7b920479-d32f-4179-b810-1983ad07b449",
+    "marque": "Eram",
+    "categorie": "haut",
+    "nom": "T-shirt moderne moutarde",
+    "description": "T-shirt en maille moutarde, coupe moderne. Idéal pour vos sorties mariage.",
+    "prix_eur": 73.99,
+    "genre": "femme",
+    "styles": [
+      "chic",
+      "casual",
+      "streetwear"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "anniversaire",
+      "cérémonie",
+      "travail",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "XXL",
+      "M",
+      "XS",
+      "S",
+      "XL",
+      "L"
+    ],
+    "couleurs": [
+      "moutarde",
+      "camel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/tshirt?lock=169042",
+    "url_produit": "https://www.eram.fr/produits/7b920479-d32f-4179-b810-1983ad07b449"
+  },
+  {
+    "id": "9f60582a-f756-41e6-86a7-a0dfaf279965",
+    "marque": "TBS",
+    "categorie": "chaussures",
+    "nom": "Escarpins chic vert sauge",
+    "description": "Escarpins en lin vert sauge, coupe chic. Idéal pour vos sorties fête.",
+    "prix_eur": 74.99,
+    "genre": "femme",
+    "styles": [
+      "bohême",
+      "casual",
+      "streetwear"
+    ],
+    "saisons": [
+      "automne"
+    ],
+    "occasions": [
+      "travail",
+      "fête",
+      "anniversaire",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "35",
+      "37"
+    ],
+    "couleurs": [
+      "vert sauge",
+      "kaki",
+      "rouge"
+    ],
+    "image_url": "https://loremflickr.com/600/800/heels?lock=894043",
+    "url_produit": "https://www.tbs.fr/produits/9f60582a-f756-41e6-86a7-a0dfaf279965"
+  },
+  {
+    "id": "7adc4f1e-f2b0-4689-aea7-cf0f1d427a60",
+    "marque": "Eram",
+    "categorie": "chaussures",
+    "nom": "Baskets tendance rose poudré",
+    "description": "Baskets en velours rose poudré, coupe tendance. Idéal pour vos sorties mariage.",
+    "prix_eur": 58.99,
+    "genre": "femme",
+    "styles": [
+      "bohême",
+      "chic"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "anniversaire",
+      "travail",
+      "cérémonie",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "41",
+      "36",
+      "39",
+      "38",
+      "35"
+    ],
+    "couleurs": [
+      "rose poudré",
+      "marine",
+      "rouge"
+    ],
+    "image_url": "https://loremflickr.com/600/800/sneakers?lock=260587",
+    "url_produit": "https://www.eram.fr/produits/7adc4f1e-f2b0-4689-aea7-cf0f1d427a60"
+  },
+  {
+    "id": "c83a1722-3606-4876-ad28-0199e8f01028",
+    "marque": "Gemo",
+    "categorie": "haut",
+    "nom": "T-shirt raffiné vert sauge",
+    "description": "T-shirt en viscose vert sauge, coupe raffiné. Idéal pour vos sorties mariage.",
+    "prix_eur": 25.99,
+    "genre": "femme",
+    "styles": [
+      "bohême",
+      "classique"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "mariage",
+      "anniversaire",
+      "travail",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "S",
+      "XXL",
+      "L",
+      "XL"
+    ],
+    "couleurs": [
+      "vert sauge",
+      "kaki"
+    ],
+    "image_url": "https://loremflickr.com/600/800/tshirt?lock=253569",
+    "url_produit": "https://www.gemo.fr/produits/c83a1722-3606-4876-ad28-0199e8f01028"
+  },
+  {
+    "id": "60521f9b-5631-42ca-887e-145cf3dd366f",
+    "marque": "Bocage",
+    "categorie": "chaussures",
+    "nom": "Baskets moderne camel",
+    "description": "Baskets en lin camel, coupe moderne. Idéal pour vos sorties mariage.",
+    "prix_eur": 148.99,
+    "genre": "femme",
+    "styles": [
+      "bohême",
+      "casual",
+      "chic"
+    ],
+    "saisons": [
+      "hiver"
+    ],
+    "occasions": [
+      "travail",
+      "quotidien",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "38",
+      "40",
+      "37"
+    ],
+    "couleurs": [
+      "camel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/sneakers?lock=996394",
+    "url_produit": "https://www.bocage.fr/produits/60521f9b-5631-42ca-887e-145cf3dd366f"
+  },
+  {
+    "id": "35a76599-2789-43b0-95c9-4b9cb9724698",
+    "marque": "Gemo",
+    "categorie": "chaussures",
+    "nom": "Mocassins raffiné noir",
+    "description": "Mocassins en viscose noir, coupe raffiné. Idéal pour vos sorties quotidien.",
+    "prix_eur": 54.99,
+    "genre": "femme",
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "cérémonie",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "41",
+      "40",
+      "37",
+      "38"
+    ],
+    "couleurs": [
+      "noir",
+      "bleu ciel",
+      "blanc"
+    ],
+    "image_url": "https://loremflickr.com/600/800/loafers?lock=163869",
+    "url_produit": "https://www.gemo.fr/produits/35a76599-2789-43b0-95c9-4b9cb9724698"
+  },
+  {
+    "id": "c6be9243-3489-4691-9128-346c0aace02e",
+    "marque": "Gemo",
+    "categorie": "bas",
+    "nom": "Jean tendance camel",
+    "description": "Jean en maille camel, coupe tendance. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 32.99,
+    "genre": "homme",
+    "styles": [
+      "streetwear",
+      "sportif"
+    ],
+    "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "anniversaire",
+      "cérémonie",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "42",
+      "44"
+    ],
+    "couleurs": [
+      "camel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/jeans?lock=381385",
+    "url_produit": "https://www.gemo.fr/produits/c6be9243-3489-4691-9128-346c0aace02e"
+  },
+  {
+    "id": "ccbf62ab-9384-46ab-9364-3ce5ced2f650",
+    "marque": "TBS",
+    "categorie": "chaussures",
+    "nom": "Boots sobre vert sauge",
+    "description": "Boots en laine vert sauge, coupe sobre. Idéal pour vos sorties quotidien.",
+    "prix_eur": 96.99,
+    "genre": "unisexe",
+    "styles": [
+      "sportif",
+      "casual",
+      "streetwear"
+    ],
+    "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "travail",
+      "baptême",
+      "fête",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "42",
+      "38",
+      "39"
+    ],
+    "couleurs": [
+      "vert sauge",
+      "beige",
+      "blanc"
+    ],
+    "image_url": "https://loremflickr.com/600/800/boots?lock=98134",
+    "url_produit": "https://www.tbs.fr/produits/ccbf62ab-9384-46ab-9364-3ce5ced2f650"
+  },
+  {
+    "id": "d2bba4d2-0b7d-462d-a83b-897ddb1dab5e",
+    "marque": "Eram",
+    "categorie": "bas",
+    "nom": "Chino décontracté rouge",
+    "description": "Chino en viscose rouge, coupe décontracté. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 61.99,
+    "genre": "enfant",
+    "styles": [
+      "sportif",
+      "chic",
+      "classique"
+    ],
+    "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "cérémonie",
+      "fête",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "4",
+      "10",
+      "2",
+      "14",
+      "16",
+      "8",
+      "6",
+      "12"
+    ],
+    "couleurs": [
+      "rouge",
+      "gris",
+      "vert sauge"
+    ],
+    "image_url": "https://loremflickr.com/600/800/chinos?lock=516321",
+    "url_produit": "https://www.eram.fr/produits/d2bba4d2-0b7d-462d-a83b-897ddb1dab5e"
+  },
+  {
+    "id": "587e882f-31a9-466c-83da-674c859f6e50",
+    "marque": "Gemo",
+    "categorie": "accessoire",
+    "nom": "Casquette classique beige",
+    "description": "Casquette en velours beige, coupe classique. Idéal pour vos sorties travail.",
+    "prix_eur": 12.99,
+    "genre": "unisexe",
+    "styles": [
+      "classique",
+      "sportif",
+      "casual"
+    ],
+    "saisons": [
+      "automne"
     ],
     "occasions": [
       "quotidien",
@@ -2655,132 +2953,125 @@
       "mariage"
     ],
     "tailles_disponibles": [
-      "36",
-      "37",
-      "39",
-      "38",
-      "41",
-      "40",
-      "35"
+      "unique"
     ],
     "couleurs": [
-      "écru",
-      "bordeaux",
-      "rose poudré"
+      "beige"
     ],
-    "image_url": "https://loremflickr.com/600/800/flats?lock=571885",
-    "url_produit": "https://www.eram.fr/produits/70dd95c8-dac9-46f8-893a-9209c83a1722"
+    "image_url": "https://loremflickr.com/600/800/cap?lock=688891",
+    "url_produit": "https://www.gemo.fr/produits/587e882f-31a9-466c-83da-674c859f6e50"
   },
   {
-    "id": "0fd41221-835f-4af2-a681-0aa6760521f9",
+    "id": "06c57a8d-d0c7-4f7f-9c38-fd1b5063d5d0",
     "marque": "Eram",
-    "categorie": "bas",
-    "nom": "Short décontracté camel",
-    "description": "Short en viscose camel, coupe décontracté. Idéal pour vos sorties cérémonie.",
-    "prix_eur": 85.99,
-    "genre": "homme",
+    "categorie": "haut",
+    "nom": "Tunique sobre noir",
+    "description": "Tunique en lin noir, coupe sobre. Idéal pour vos sorties baptême.",
+    "prix_eur": 35.99,
+    "genre": "unisexe",
     "styles": [
-      "bohême",
-      "classique"
+      "classique",
+      "sportif"
     ],
     "saisons": [
-      "printemps",
-      "été"
+      "printemps"
     ],
     "occasions": [
-      "quotidien",
+      "baptême",
       "cérémonie",
-      "fête",
       "mariage"
     ],
     "tailles_disponibles": [
-      "42",
-      "36"
+      "L",
+      "S",
+      "XS",
+      "M",
+      "XXL"
     ],
     "couleurs": [
-      "camel"
+      "noir"
     ],
-    "image_url": "https://loremflickr.com/600/800/shorts?lock=556778",
-    "url_produit": "https://www.eram.fr/produits/0fd41221-835f-4af2-a681-0aa6760521f9"
+    "image_url": "https://loremflickr.com/600/800/tunic?lock=605374",
+    "url_produit": "https://www.eram.fr/produits/06c57a8d-d0c7-4f7f-9c38-fd1b5063d5d0"
   },
   {
-    "id": "c5b69dcd-0b26-4868-9f2a-622feef35a76",
-    "marque": "Gemo",
+    "id": "e3d81f3d-2d08-4cee-ade3-446682b248cb",
+    "marque": "Eram",
     "categorie": "haut",
-    "nom": "Chemise sobre moutarde",
-    "description": "Chemise en cachemire moutarde, coupe sobre. Idéal pour vos sorties baptême.",
-    "prix_eur": 14.99,
+    "nom": "Sweat intemporel moutarde",
+    "description": "Sweat en soie moutarde, coupe intemporel. Idéal pour vos sorties travail.",
+    "prix_eur": 28.99,
     "genre": "femme",
     "styles": [
-      "casual",
-      "classique"
+      "classique",
+      "casual"
     ],
     "saisons": [
-      "printemps",
-      "été",
-      "automne"
+      "printemps"
     ],
     "occasions": [
-      "quotidien",
-      "fête",
-      "baptême",
+      "travail",
+      "mariage",
       "cérémonie"
     ],
     "tailles_disponibles": [
-      "XXL",
+      "XL",
+      "L",
+      "XS",
       "S"
     ],
     "couleurs": [
       "moutarde",
-      "camel"
+      "bleu jean"
     ],
-    "image_url": "https://loremflickr.com/600/800/shirt?lock=82818",
-    "url_produit": "https://www.gemo.fr/produits/c5b69dcd-0b26-4868-9f2a-622feef35a76"
+    "image_url": "https://loremflickr.com/600/800/sweatshirt?lock=595627",
+    "url_produit": "https://www.eram.fr/produits/e3d81f3d-2d08-4cee-ade3-446682b248cb"
   },
   {
-    "id": "4074b09f-271a-4868-8e30-d9e9c6be9243",
-    "marque": "TBS",
+    "id": "eeac155a-529d-4623-834a-9b5d37c21e5a",
+    "marque": "Gemo",
     "categorie": "haut",
-    "nom": "Sweat tendance rose poudré",
-    "description": "Sweat en lin rose poudré, coupe tendance. Idéal pour vos sorties anniversaire.",
-    "prix_eur": 63.99,
-    "genre": "homme",
+    "nom": "Cardigan élégant blanc",
+    "description": "Cardigan en laine blanc, coupe élégant. Idéal pour vos sorties quotidien.",
+    "prix_eur": 33.99,
+    "genre": "femme",
     "styles": [
-      "bohême",
-      "sportif"
+      "chic",
+      "streetwear"
     ],
     "saisons": [
-      "printemps",
       "été"
     ],
     "occasions": [
-      "anniversaire",
-      "baptême"
+      "mariage",
+      "fête",
+      "baptême",
+      "quotidien",
+      "anniversaire"
     ],
     "tailles_disponibles": [
       "XL",
-      "M",
-      "L",
-      "S"
+      "M"
     ],
     "couleurs": [
-      "rose poudré",
+      "blanc",
       "marine",
-      "blanc"
+      "écru"
     ],
-    "image_url": "https://loremflickr.com/600/800/sweatshirt?lock=390296",
-    "url_produit": "https://www.tbs.fr/produits/4074b09f-271a-4868-8e30-d9e9c6be9243"
+    "image_url": "https://loremflickr.com/600/800/cardigan?lock=259070",
+    "url_produit": "https://www.gemo.fr/produits/eeac155a-529d-4623-834a-9b5d37c21e5a"
   },
   {
-    "id": "9aaefb4e-03e4-432d-b8a3-cc563fae4ccb",
-    "marque": "TBS",
-    "categorie": "robe",
-    "nom": "Robe chemise élégant camel",
-    "description": "Robe chemise en coton camel, coupe élégant. Idéal pour vos sorties mariage.",
-    "prix_eur": 96.99,
-    "genre": "femme",
+    "id": "832e55c5-fb9e-4047-b3be-65f775e9cc56",
+    "marque": "Gemo",
+    "categorie": "haut",
+    "nom": "Blouse décontracté marine",
+    "description": "Blouse en coton marine, coupe décontracté. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 23.99,
+    "genre": "homme",
     "styles": [
-      "sportif"
+      "casual",
+      "chic"
     ],
     "saisons": [
       "printemps",
@@ -2789,30 +3080,31 @@
     ],
     "occasions": [
       "quotidien",
-      "mariage",
+      "anniversaire",
       "fête",
-      "cérémonie"
+      "cérémonie",
+      "baptême"
     ],
     "tailles_disponibles": [
-      "L",
-      "M",
-      "S"
+      "XS",
+      "XXL"
     ],
     "couleurs": [
-      "camel"
+      "marine"
     ],
-    "image_url": "https://loremflickr.com/600/800/dress?lock=161457",
-    "url_produit": "https://www.tbs.fr/produits/9aaefb4e-03e4-432d-b8a3-cc563fae4ccb"
+    "image_url": "https://loremflickr.com/600/800/blouse?lock=854109",
+    "url_produit": "https://www.gemo.fr/produits/832e55c5-fb9e-4047-b3be-65f775e9cc56"
   },
   {
-    "id": "7135ce4d-dc2b-4fa5-b8a8-14cd2f5accf5",
-    "marque": "Eram",
-    "categorie": "chaussures",
-    "nom": "Mocassins intemporel bordeaux",
-    "description": "Mocassins en denim bordeaux, coupe intemporel. Idéal pour vos sorties fête.",
-    "prix_eur": 56.99,
-    "genre": "homme",
+    "id": "73fbf67e-8b47-4130-80f3-ad82b9bcf95a",
+    "marque": "TBS",
+    "categorie": "accessoire",
+    "nom": "Sac à main raffiné kaki",
+    "description": "Sac à main en viscose kaki, coupe raffiné. Idéal pour vos sorties baptême.",
+    "prix_eur": 57.99,
+    "genre": "femme",
     "styles": [
+      "casual",
       "sportif",
       "bohême"
     ],
@@ -2820,129 +3112,68 @@
       "automne"
     ],
     "occasions": [
-      "fête",
-      "quotidien",
-      "baptême",
-      "cérémonie"
-    ],
-    "tailles_disponibles": [
-      "46",
-      "39",
-      "45",
-      "41",
-      "40",
-      "44"
-    ],
-    "couleurs": [
-      "bordeaux"
-    ],
-    "image_url": "https://loremflickr.com/600/800/loafers?lock=353528",
-    "url_produit": "https://www.eram.fr/produits/7135ce4d-dc2b-4fa5-b8a8-14cd2f5accf5"
-  },
-  {
-    "id": "1dab5eb1-6e0f-4aa4-a3f4-c6208f55587e",
-    "marque": "TBS",
-    "categorie": "chaussures",
-    "nom": "Bottines raffiné rose poudré",
-    "description": "Bottines en lin rose poudré, coupe raffiné. Idéal pour vos sorties anniversaire.",
-    "prix_eur": 145.99,
-    "genre": "homme",
-    "styles": [
-      "streetwear"
-    ],
-    "saisons": [
-      "printemps",
-      "automne"
-    ],
-    "occasions": [
-      "fête",
+      "mariage",
       "anniversaire",
-      "quotidien"
-    ],
-    "tailles_disponibles": [
-      "46",
-      "43",
-      "40",
-      "41",
-      "45"
-    ],
-    "couleurs": [
-      "rose poudré"
-    ],
-    "image_url": "https://loremflickr.com/600/800/boots?lock=770658",
-    "url_produit": "https://www.tbs.fr/produits/1dab5eb1-6e0f-4aa4-a3f4-c6208f55587e"
-  },
-  {
-    "id": "59f6e503-630e-4db2-811b-e618559b10f3",
-    "marque": "Eram",
-    "categorie": "accessoire",
-    "nom": "Sac classique rose poudré",
-    "description": "Sac en velours rose poudré, coupe classique. Idéal pour vos sorties baptême.",
-    "prix_eur": 38.99,
-    "genre": "unisexe",
-    "styles": [
-      "streetwear"
-    ],
-    "saisons": [
-      "printemps",
-      "automne"
-    ],
-    "occasions": [
-      "baptême",
-      "fête",
-      "anniversaire"
+      "quotidien",
+      "baptême"
     ],
     "tailles_disponibles": [
       "unique"
     ],
     "couleurs": [
-      "rose poudré",
-      "bordeaux"
+      "kaki",
+      "blanc"
     ],
-    "image_url": "https://loremflickr.com/600/800/handbag?lock=354216",
-    "url_produit": "https://www.eram.fr/produits/59f6e503-630e-4db2-811b-e618559b10f3"
+    "image_url": "https://loremflickr.com/600/800/handbag?lock=894423",
+    "url_produit": "https://www.tbs.fr/produits/73fbf67e-8b47-4130-80f3-ad82b9bcf95a"
   },
   {
-    "id": "5063d5d0-4331-4284-a66e-e751f04452c1",
+    "id": "be840b14-8992-469f-8bec-93a9978583c2",
     "marque": "Eram",
     "categorie": "bas",
-    "nom": "Short chic écru",
-    "description": "Short en cachemire écru, coupe chic. Idéal pour vos sorties cérémonie.",
-    "prix_eur": 89.99,
+    "nom": "Jupe décontracté noir",
+    "description": "Jupe en denim noir, coupe décontracté. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 106.99,
     "genre": "enfant",
     "styles": [
-      "streetwear",
-      "bohême"
+      "chic",
+      "casual"
     ],
     "saisons": [
-      "printemps"
+      "hiver"
     ],
     "occasions": [
+      "fête",
       "cérémonie",
-      "quotidien",
-      "travail",
-      "baptême"
+      "travail"
     ],
     "tailles_disponibles": [
       "8",
+      "16",
+      "12",
+      "2",
+      "6",
+      "4",
       "14"
     ],
     "couleurs": [
-      "écru",
-      "moutarde"
+      "noir",
+      "moutarde",
+      "kaki"
     ],
-    "image_url": "https://loremflickr.com/600/800/shorts?lock=721428",
-    "url_produit": "https://www.eram.fr/produits/5063d5d0-4331-4284-a66e-e751f04452c1"
+    "image_url": "https://loremflickr.com/600/800/skirt?lock=327824",
+    "url_produit": "https://www.eram.fr/produits/be840b14-8992-469f-8bec-93a9978583c2"
   },
   {
-    "id": "46682b24-8cba-4281-9660-4ff5026f2c1f",
-    "marque": "Eram",
-    "categorie": "accessoire",
-    "nom": "Pochette tendance gris",
-    "description": "Pochette en coton gris, coupe tendance. Idéal pour vos sorties fête.",
-    "prix_eur": 27.99,
-    "genre": "unisexe",
+    "id": "611d338c-0910-40d1-b07d-46079955151c",
+    "marque": "TBS",
+    "categorie": "bas",
+    "nom": "Jupe décontracté bleu ciel",
+    "description": "Jupe en maille bleu ciel, coupe décontracté. Idéal pour vos sorties mariage.",
+    "prix_eur": 76.99,
+    "genre": "femme",
     "styles": [
+      "streetwear",
       "bohême",
       "chic"
     ],
@@ -2950,341 +3181,324 @@
       "été"
     ],
     "occasions": [
-      "travail",
       "quotidien",
-      "cérémonie",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "unique"
-    ],
-    "couleurs": [
-      "gris",
-      "moutarde",
-      "beige"
-    ],
-    "image_url": "https://loremflickr.com/600/800/clutch?lock=233089",
-    "url_produit": "https://www.eram.fr/produits/46682b24-8cba-4281-9660-4ff5026f2c1f"
-  },
-  {
-    "id": "9b5d37c2-1e5a-40b5-b093-61241e0714e2",
-    "marque": "Gemo",
-    "categorie": "chaussures",
-    "nom": "Sandales fluide blanc",
-    "description": "Sandales en maille blanc, coupe fluide. Idéal pour vos sorties fête.",
-    "prix_eur": 42.99,
-    "genre": "femme",
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "saisons": [
-      "automne"
-    ],
-    "occasions": [
-      "fête",
-      "baptême"
-    ],
-    "tailles_disponibles": [
-      "35",
-      "36",
-      "38",
-      "37"
-    ],
-    "couleurs": [
-      "blanc",
-      "vert sauge",
-      "bleu ciel"
-    ],
-    "image_url": "https://loremflickr.com/600/800/sandals?lock=580208",
-    "url_produit": "https://www.gemo.fr/produits/9b5d37c2-1e5a-40b5-b093-61241e0714e2"
-  },
-  {
-    "id": "e65f775e-9cc5-46d5-acf9-bcd606a7b5a2",
-    "marque": "TBS",
-    "categorie": "robe",
-    "nom": "Robe chemise tendance bleu jean",
-    "description": "Robe chemise en lin bleu jean, coupe tendance. Idéal pour vos sorties baptême.",
-    "prix_eur": 119.99,
-    "genre": "enfant",
-    "styles": [
-      "streetwear",
-      "sportif"
-    ],
-    "saisons": [
-      "été"
-    ],
-    "occasions": [
-      "anniversaire",
-      "baptême"
-    ],
-    "tailles_disponibles": [
-      "10",
-      "16",
-      "12",
-      "6"
-    ],
-    "couleurs": [
-      "bleu jean"
-    ],
-    "image_url": "https://loremflickr.com/600/800/dress?lock=20023",
-    "url_produit": "https://www.tbs.fr/produits/e65f775e-9cc5-46d5-acf9-bcd606a7b5a2"
-  },
-  {
-    "id": "9bcf95a1-e15d-4967-9d5d-1cd262b8a330",
-    "marque": "Eram",
-    "categorie": "bas",
-    "nom": "Short intemporel bordeaux",
-    "description": "Short en maille bordeaux, coupe intemporel. Idéal pour vos sorties travail.",
-    "prix_eur": 90.99,
-    "genre": "homme",
-    "styles": [
-      "chic"
-    ],
-    "saisons": [
-      "été"
-    ],
-    "occasions": [
-      "anniversaire",
-      "quotidien",
-      "travail",
-      "baptême"
-    ],
-    "tailles_disponibles": [
-      "48",
-      "40",
-      "36",
-      "46",
-      "38",
-      "44",
-      "42"
-    ],
-    "couleurs": [
-      "bordeaux",
-      "kaki",
-      "écru"
-    ],
-    "image_url": "https://loremflickr.com/600/800/shorts?lock=75351",
-    "url_produit": "https://www.eram.fr/produits/9bcf95a1-e15d-4967-9d5d-1cd262b8a330"
-  },
-  {
-    "id": "9978583c-216a-4748-b5ee-85b075e08b71",
-    "marque": "Bocage",
-    "categorie": "chaussures",
-    "nom": "Boots sobre blanc",
-    "description": "Boots en maille blanc, coupe sobre. Idéal pour vos sorties fête.",
-    "prix_eur": 173.99,
-    "genre": "femme",
-    "styles": [
-      "sportif"
-    ],
-    "saisons": [
-      "été"
-    ],
-    "occasions": [
-      "anniversaire",
-      "travail",
-      "fête",
-      "cérémonie"
-    ],
-    "tailles_disponibles": [
-      "41",
-      "40",
-      "39",
-      "37",
-      "36",
-      "35"
-    ],
-    "couleurs": [
-      "blanc",
-      "beige"
-    ],
-    "image_url": "https://loremflickr.com/600/800/boots?lock=803530",
-    "url_produit": "https://www.bocage.fr/produits/9978583c-216a-4748-b5ee-85b075e08b71"
-  },
-  {
-    "id": "9955151c-ffd9-4b4a-a77c-45e07e9835d8",
-    "marque": "TBS",
-    "categorie": "haut",
-    "nom": "Cardigan élégant bordeaux",
-    "description": "Cardigan en coton bordeaux, coupe élégant. Idéal pour vos sorties anniversaire.",
-    "prix_eur": 59.99,
-    "genre": "homme",
-    "styles": [
-      "classique",
-      "chic"
-    ],
-    "saisons": [
-      "printemps"
-    ],
-    "occasions": [
-      "anniversaire",
-      "baptême",
-      "cérémonie"
-    ],
-    "tailles_disponibles": [
-      "XL",
-      "L",
-      "XXL",
-      "M",
-      "XS"
-    ],
-    "couleurs": [
-      "bordeaux",
-      "gris",
-      "beige"
-    ],
-    "image_url": "https://loremflickr.com/600/800/cardigan?lock=492584",
-    "url_produit": "https://www.tbs.fr/produits/9955151c-ffd9-4b4a-a77c-45e07e9835d8"
-  },
-  {
-    "id": "eca42c73-9057-42f3-823c-69007de18e6d",
-    "marque": "Eram",
-    "categorie": "accessoire",
-    "nom": "Bonnet élégant camel",
-    "description": "Bonnet en cachemire camel, coupe élégant. Idéal pour vos sorties fête.",
-    "prix_eur": 24.99,
-    "genre": "unisexe",
-    "styles": [
-      "streetwear",
-      "bohême"
-    ],
-    "saisons": [
-      "automne"
-    ],
-    "occasions": [
-      "mariage",
-      "travail",
-      "fête"
-    ],
-    "tailles_disponibles": [
-      "unique"
-    ],
-    "couleurs": [
-      "camel",
-      "noir",
-      "rouge"
-    ],
-    "image_url": "https://loremflickr.com/600/800/beanie?lock=186229",
-    "url_produit": "https://www.eram.fr/produits/eca42c73-9057-42f3-823c-69007de18e6d"
-  },
-  {
-    "id": "abf6c6d2-f35c-4697-ab30-4725609e29a6",
-    "marque": "TBS",
-    "categorie": "accessoire",
-    "nom": "Chapeau fluide rose poudré",
-    "description": "Chapeau en laine rose poudré, coupe fluide. Idéal pour vos sorties baptême.",
-    "prix_eur": 69.99,
-    "genre": "femme",
-    "styles": [
-      "casual",
-      "classique"
-    ],
-    "saisons": [
-      "automne"
-    ],
-    "occasions": [
-      "quotidien",
-      "baptême",
-      "mariage",
-      "cérémonie"
-    ],
-    "tailles_disponibles": [
-      "unique"
-    ],
-    "couleurs": [
-      "rose poudré"
-    ],
-    "image_url": "https://loremflickr.com/600/800/hat?lock=79575",
-    "url_produit": "https://www.tbs.fr/produits/abf6c6d2-f35c-4697-ab30-4725609e29a6"
-  },
-  {
-    "id": "e3d80f84-7d43-424c-a732-5f5f72e7bf01",
-    "marque": "Gemo",
-    "categorie": "haut",
-    "nom": "Veste élégant vert sauge",
-    "description": "Veste en soie vert sauge, coupe élégant. Idéal pour vos sorties anniversaire.",
-    "prix_eur": 20.99,
-    "genre": "homme",
-    "styles": [
-      "classique"
-    ],
-    "saisons": [
-      "printemps",
-      "été"
-    ],
-    "occasions": [
-      "fête",
       "anniversaire",
       "cérémonie",
       "mariage"
     ],
     "tailles_disponibles": [
-      "XS",
-      "S",
-      "XL",
-      "XXL",
-      "L"
+      "38",
+      "40"
     ],
     "couleurs": [
-      "vert sauge",
-      "camel",
-      "bordeaux"
+      "bleu ciel",
+      "marine",
+      "camel"
     ],
-    "image_url": "https://loremflickr.com/600/800/jacket?lock=591602",
-    "url_produit": "https://www.gemo.fr/produits/e3d80f84-7d43-424c-a732-5f5f72e7bf01"
+    "image_url": "https://loremflickr.com/600/800/skirt?lock=305321",
+    "url_produit": "https://www.tbs.fr/produits/611d338c-0910-40d1-b07d-46079955151c"
   },
   {
-    "id": "74f29446-f091-4278-a451-4ff59e0cf12f",
-    "marque": "Eram",
-    "categorie": "haut",
-    "nom": "Top moderne blanc",
-    "description": "Top en denim blanc, coupe moderne. Idéal pour vos sorties quotidien.",
-    "prix_eur": 52.99,
-    "genre": "femme",
+    "id": "1ae929c6-eae9-4243-8eca-42c7390572f3",
+    "marque": "Bocage",
+    "categorie": "chaussures",
+    "nom": "Bottines classique beige",
+    "description": "Bottines en denim beige, coupe classique. Idéal pour vos sorties quotidien.",
+    "prix_eur": 164.99,
+    "genre": "homme",
     "styles": [
+      "streetwear",
+      "casual",
+      "sportif"
+    ],
+    "saisons": [
+      "hiver"
+    ],
+    "occasions": [
+      "anniversaire",
+      "quotidien",
+      "mariage",
+      "fête",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "43",
+      "41",
+      "39",
+      "46"
+    ],
+    "couleurs": [
+      "beige",
+      "vert sauge"
+    ],
+    "image_url": "https://loremflickr.com/600/800/boots?lock=488649",
+    "url_produit": "https://www.bocage.fr/produits/1ae929c6-eae9-4243-8eca-42c7390572f3"
+  },
+  {
+    "id": "b1644fab-f6c6-4d2f-a35c-697b30472560",
+    "marque": "TBS",
+    "categorie": "bas",
+    "nom": "Jean élégant bordeaux",
+    "description": "Jean en denim bordeaux, coupe élégant. Idéal pour vos sorties quotidien.",
+    "prix_eur": 96.99,
+    "genre": "homme",
+    "styles": [
+      "casual",
+      "streetwear",
       "bohême"
     ],
     "saisons": [
-      "printemps",
-      "été",
-      "automne"
+      "été"
     ],
     "occasions": [
-      "quotidien",
-      "travail",
+      "cérémonie",
+      "fête",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "46",
+      "38",
+      "48",
+      "42",
+      "36",
+      "44",
+      "40"
+    ],
+    "couleurs": [
+      "bordeaux",
+      "noir",
+      "bleu jean"
+    ],
+    "image_url": "https://loremflickr.com/600/800/jeans?lock=144203",
+    "url_produit": "https://www.tbs.fr/produits/b1644fab-f6c6-4d2f-a35c-697b30472560"
+  },
+  {
+    "id": "7186e3d8-0f84-47d4-a324-c7325f5f72e7",
+    "marque": "Eram",
+    "categorie": "robe",
+    "nom": "Robe pull sobre bleu ciel",
+    "description": "Robe pull en soie bleu ciel, coupe sobre. Idéal pour vos sorties travail.",
+    "prix_eur": 128.99,
+    "genre": "femme",
+    "styles": [
+      "sportif",
+      "bohême",
+      "streetwear"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "cérémonie",
+      "fête",
+      "baptême",
       "anniversaire",
-      "fête"
+      "travail"
     ],
     "tailles_disponibles": [
       "M",
-      "S",
       "XL",
       "L",
+      "S",
       "XS"
     ],
     "couleurs": [
-      "blanc",
-      "bordeaux"
+      "bleu ciel",
+      "blanc"
     ],
-    "image_url": "https://loremflickr.com/600/800/top?lock=56688",
-    "url_produit": "https://www.eram.fr/produits/74f29446-f091-4278-a451-4ff59e0cf12f"
+    "image_url": "https://loremflickr.com/600/800/dress?lock=667464",
+    "url_produit": "https://www.eram.fr/produits/7186e3d8-0f84-47d4-a324-c7325f5f72e7"
   },
   {
-    "id": "656c7c95-c338-440a-887f-9d29d9b5176d",
+    "id": "6ee59ef8-74f2-4944-a6f0-912784514ff5",
     "marque": "Eram",
-    "categorie": "bas",
-    "nom": "Bermuda fluide kaki",
-    "description": "Bermuda en laine kaki, coupe fluide. Idéal pour vos sorties travail.",
+    "categorie": "haut",
+    "nom": "Blouse moderne vert sauge",
+    "description": "Blouse en coton vert sauge, coupe moderne. Idéal pour vos sorties cérémonie.",
     "prix_eur": 51.99,
     "genre": "homme",
     "styles": [
+      "sportif",
+      "chic"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "anniversaire",
+      "fête",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "L",
+      "M"
+    ],
+    "couleurs": [
+      "vert sauge"
+    ],
+    "image_url": "https://loremflickr.com/600/800/blouse?lock=544060",
+    "url_produit": "https://www.eram.fr/produits/6ee59ef8-74f2-4944-a6f0-912784514ff5"
+  },
+  {
+    "id": "f95c2656-c7c9-45c3-9384-0a87f9d29d9b",
+    "marque": "Eram",
+    "categorie": "chaussures",
+    "nom": "Baskets moderne beige",
+    "description": "Baskets en maille beige, coupe moderne. Idéal pour vos sorties baptême.",
+    "prix_eur": 101.99,
+    "genre": "unisexe",
+    "styles": [
+      "chic",
       "bohême",
-      "casual"
+      "sportif"
+    ],
+    "saisons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "baptême",
+      "mariage",
+      "travail",
+      "anniversaire",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "39",
+      "43",
+      "44",
+      "42"
+    ],
+    "couleurs": [
+      "beige",
+      "blanc"
+    ],
+    "image_url": "https://loremflickr.com/600/800/sneakers?lock=570093",
+    "url_produit": "https://www.eram.fr/produits/f95c2656-c7c9-45c3-9384-0a87f9d29d9b"
+  },
+  {
+    "id": "679f3ab9-1a19-4b3d-90d7-32f135982433",
+    "marque": "Gemo",
+    "categorie": "bas",
+    "nom": "Pantalon fluide kaki",
+    "description": "Pantalon en maille kaki, coupe fluide. Idéal pour vos sorties fête.",
+    "prix_eur": 44.99,
+    "genre": "enfant",
+    "styles": [
+      "casual",
+      "chic"
+    ],
+    "saisons": [
+      "automne"
+    ],
+    "occasions": [
+      "mariage",
+      "baptême",
+      "fête",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "14",
+      "12",
+      "2",
+      "10",
+      "6",
+      "4",
+      "8",
+      "16"
+    ],
+    "couleurs": [
+      "kaki"
+    ],
+    "image_url": "https://loremflickr.com/600/800/trousers?lock=490243",
+    "url_produit": "https://www.gemo.fr/produits/679f3ab9-1a19-4b3d-90d7-32f135982433"
+  },
+  {
+    "id": "bc4c47bb-f3a9-4e2c-9947-59e9a8037428",
+    "marque": "Eram",
+    "categorie": "bas",
+    "nom": "Chino fluide noir",
+    "description": "Chino en viscose noir, coupe fluide. Idéal pour vos sorties fête.",
+    "prix_eur": 63.99,
+    "genre": "femme",
+    "styles": [
+      "bohême",
+      "casual",
+      "classique"
+    ],
+    "saisons": [
+      "hiver"
+    ],
+    "occasions": [
+      "fête",
+      "quotidien",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "44",
+      "40",
+      "36"
+    ],
+    "couleurs": [
+      "noir"
+    ],
+    "image_url": "https://loremflickr.com/600/800/chinos?lock=118866",
+    "url_produit": "https://www.eram.fr/produits/bc4c47bb-f3a9-4e2c-9947-59e9a8037428"
+  },
+  {
+    "id": "12e871ad-da11-4042-846f-9db1b4a5f44e",
+    "marque": "Gemo",
+    "categorie": "haut",
+    "nom": "Tunique sobre noir",
+    "description": "Tunique en coton noir, coupe sobre. Idéal pour vos sorties travail.",
+    "prix_eur": 14.99,
+    "genre": "unisexe",
+    "styles": [
+      "chic",
+      "sportif"
     ],
     "saisons": [
       "printemps",
       "automne"
+    ],
+    "occasions": [
+      "fête",
+      "mariage",
+      "travail",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "L",
+      "S",
+      "XL",
+      "M",
+      "XXL"
+    ],
+    "couleurs": [
+      "noir",
+      "rose poudré",
+      "moutarde"
+    ],
+    "image_url": "https://loremflickr.com/600/800/tunic?lock=223658",
+    "url_produit": "https://www.gemo.fr/produits/12e871ad-da11-4042-846f-9db1b4a5f44e"
+  },
+  {
+    "id": "f575aab4-52a0-49de-b771-ad36de3831ed",
+    "marque": "TBS",
+    "categorie": "chaussures",
+    "nom": "Boots élégant noir",
+    "description": "Boots en viscose noir, coupe élégant. Idéal pour vos sorties baptême.",
+    "prix_eur": 67.99,
+    "genre": "unisexe",
+    "styles": [
+      "chic",
+      "bohême",
+      "streetwear"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
     ],
     "occasions": [
       "baptême",
@@ -3293,15 +3507,1729 @@
       "travail"
     ],
     "tailles_disponibles": [
+      "39",
+      "38",
       "40",
+      "43",
+      "44"
+    ],
+    "couleurs": [
+      "noir",
+      "bleu ciel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/boots?lock=133450",
+    "url_produit": "https://www.tbs.fr/produits/f575aab4-52a0-49de-b771-ad36de3831ed"
+  },
+  {
+    "id": "9ba3522a-dfa2-41d9-89cb-d0bd4a5f092b",
+    "marque": "Bocage",
+    "categorie": "bas",
+    "nom": "Jupe élégant écru",
+    "description": "Jupe en cachemire écru, coupe élégant. Idéal pour vos sorties baptême.",
+    "prix_eur": 100.99,
+    "genre": "femme",
+    "styles": [
+      "bohême",
+      "chic"
+    ],
+    "saisons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "mariage",
+      "baptême",
+      "cérémonie",
+      "fête",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "42",
+      "40",
+      "34"
+    ],
+    "couleurs": [
+      "écru",
+      "gris"
+    ],
+    "image_url": "https://loremflickr.com/600/800/skirt?lock=174493",
+    "url_produit": "https://www.bocage.fr/produits/9ba3522a-dfa2-41d9-89cb-d0bd4a5f092b"
+  },
+  {
+    "id": "94e4e1ae-2f7f-4a43-a412-16c22a312ed5",
+    "marque": "Gemo",
+    "categorie": "accessoire",
+    "nom": "Ceinture sobre beige",
+    "description": "Ceinture en denim beige, coupe sobre. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 12.99,
+    "genre": "unisexe",
+    "styles": [
+      "bohême",
+      "streetwear"
+    ],
+    "saisons": [
+      "automne"
+    ],
+    "occasions": [
+      "mariage",
+      "travail",
+      "cérémonie",
+      "fête",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "beige",
+      "bleu ciel",
+      "gris"
+    ],
+    "image_url": "https://loremflickr.com/600/800/belt?lock=30448",
+    "url_produit": "https://www.gemo.fr/produits/94e4e1ae-2f7f-4a43-a412-16c22a312ed5"
+  },
+  {
+    "id": "74cef2db-414e-4ab4-bb06-a2d3a6910e4d",
+    "marque": "TBS",
+    "categorie": "chaussures",
+    "nom": "Bottines élégant moutarde",
+    "description": "Bottines en denim moutarde, coupe élégant. Idéal pour vos sorties baptême.",
+    "prix_eur": 111.99,
+    "genre": "homme",
+    "styles": [
+      "sportif",
+      "casual",
+      "streetwear"
+    ],
+    "saisons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "baptême",
+      "fête",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
       "46",
-      "48"
+      "43",
+      "44"
+    ],
+    "couleurs": [
+      "moutarde",
+      "vert sauge",
+      "rouge"
+    ],
+    "image_url": "https://loremflickr.com/600/800/boots?lock=721602",
+    "url_produit": "https://www.tbs.fr/produits/74cef2db-414e-4ab4-bb06-a2d3a6910e4d"
+  },
+  {
+    "id": "019e7d7b-b25a-4158-8f7d-6c9e69a6210d",
+    "marque": "Eram",
+    "categorie": "chaussures",
+    "nom": "Boots tendance écru",
+    "description": "Boots en viscose écru, coupe tendance. Idéal pour vos sorties travail.",
+    "prix_eur": 57.99,
+    "genre": "unisexe",
+    "styles": [
+      "streetwear",
+      "bohême"
+    ],
+    "saisons": [
+      "automne"
+    ],
+    "occasions": [
+      "travail",
+      "quotidien",
+      "mariage",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "41",
+      "42",
+      "40",
+      "43",
+      "38",
+      "44",
+      "39"
+    ],
+    "couleurs": [
+      "écru"
+    ],
+    "image_url": "https://loremflickr.com/600/800/boots?lock=164054",
+    "url_produit": "https://www.eram.fr/produits/019e7d7b-b25a-4158-8f7d-6c9e69a6210d"
+  },
+  {
+    "id": "33ad64da-773a-45f7-a79e-c7b97373e5f8",
+    "marque": "TBS",
+    "categorie": "bas",
+    "nom": "Jean fluide noir",
+    "description": "Jean en viscose noir, coupe fluide. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 83.99,
+    "genre": "homme",
+    "styles": [
+      "chic",
+      "sportif"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "mariage",
+      "travail",
+      "anniversaire",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "42",
+      "36"
+    ],
+    "couleurs": [
+      "noir",
+      "rose poudré",
+      "bordeaux"
+    ],
+    "image_url": "https://loremflickr.com/600/800/jeans?lock=2429",
+    "url_produit": "https://www.tbs.fr/produits/33ad64da-773a-45f7-a79e-c7b97373e5f8"
+  },
+  {
+    "id": "3bca9e15-3f6b-4a33-8463-0ef550ad22c9",
+    "marque": "Eram",
+    "categorie": "bas",
+    "nom": "Jupe chic gris",
+    "description": "Jupe en viscose gris, coupe chic. Idéal pour vos sorties mariage.",
+    "prix_eur": 85.99,
+    "genre": "femme",
+    "styles": [
+      "sportif",
+      "classique"
+    ],
+    "saisons": [
+      "été"
+    ],
+    "occasions": [
+      "fête",
+      "mariage",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "44",
+      "38",
+      "42",
+      "46"
+    ],
+    "couleurs": [
+      "gris"
+    ],
+    "image_url": "https://loremflickr.com/600/800/skirt?lock=135488",
+    "url_produit": "https://www.eram.fr/produits/3bca9e15-3f6b-4a33-8463-0ef550ad22c9"
+  },
+  {
+    "id": "0209ead0-8771-4a8c-a72a-2d92f81a4cdf",
+    "marque": "Gemo",
+    "categorie": "bas",
+    "nom": "Bermuda chic bordeaux",
+    "description": "Bermuda en maille bordeaux, coupe chic. Idéal pour vos sorties fête.",
+    "prix_eur": 43.99,
+    "genre": "enfant",
+    "styles": [
+      "chic",
+      "streetwear",
+      "casual"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "cérémonie",
+      "fête",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "6",
+      "4",
+      "14",
+      "8",
+      "10",
+      "12",
+      "2",
+      "16"
+    ],
+    "couleurs": [
+      "bordeaux",
+      "vert sauge"
+    ],
+    "image_url": "https://loremflickr.com/600/800/shorts?lock=204402",
+    "url_produit": "https://www.gemo.fr/produits/0209ead0-8771-4a8c-a72a-2d92f81a4cdf"
+  },
+  {
+    "id": "9262bc18-de8f-486d-b777-dd65793c7513",
+    "marque": "TBS",
+    "categorie": "haut",
+    "nom": "Sweat élégant bleu jean",
+    "description": "Sweat en soie bleu jean, coupe élégant. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 82.99,
+    "genre": "homme",
+    "styles": [
+      "casual",
+      "sportif"
+    ],
+    "saisons": [
+      "été"
+    ],
+    "occasions": [
+      "cérémonie",
+      "anniversaire",
+      "fête",
+      "travail",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "M",
+      "XS",
+      "XXL"
+    ],
+    "couleurs": [
+      "bleu jean",
+      "noir",
+      "moutarde"
+    ],
+    "image_url": "https://loremflickr.com/600/800/sweatshirt?lock=946671",
+    "url_produit": "https://www.tbs.fr/produits/9262bc18-de8f-486d-b777-dd65793c7513"
+  },
+  {
+    "id": "d3d5b5e2-2713-4ff6-9e84-baf4a010fcc8",
+    "marque": "Eram",
+    "categorie": "robe",
+    "nom": "Robe décontracté bordeaux",
+    "description": "Robe en denim bordeaux, coupe décontracté. Idéal pour vos sorties mariage.",
+    "prix_eur": 59.99,
+    "genre": "femme",
+    "styles": [
+      "chic",
+      "streetwear"
+    ],
+    "saisons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "mariage",
+      "fête",
+      "anniversaire",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "L",
+      "XXL",
+      "XL",
+      "XS",
+      "S",
+      "M"
+    ],
+    "couleurs": [
+      "bordeaux",
+      "kaki"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=1860",
+    "url_produit": "https://www.eram.fr/produits/d3d5b5e2-2713-4ff6-9e84-baf4a010fcc8"
+  },
+  {
+    "id": "0bb2d243-5476-4f02-b0a0-d888235931f0",
+    "marque": "Eram",
+    "categorie": "bas",
+    "nom": "Jupe élégant bordeaux",
+    "description": "Jupe en coton bordeaux, coupe élégant. Idéal pour vos sorties fête.",
+    "prix_eur": 53.99,
+    "genre": "enfant",
+    "styles": [
+      "bohême",
+      "sportif"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "mariage",
+      "anniversaire",
+      "travail",
+      "fête"
+    ],
+    "tailles_disponibles": [
+      "8",
+      "10",
+      "14",
+      "2",
+      "4",
+      "6",
+      "16",
+      "12"
+    ],
+    "couleurs": [
+      "bordeaux"
+    ],
+    "image_url": "https://loremflickr.com/600/800/skirt?lock=268807",
+    "url_produit": "https://www.eram.fr/produits/0bb2d243-5476-4f02-b0a0-d888235931f0"
+  },
+  {
+    "id": "cc2552cb-351a-41fc-b69e-826daadee18b",
+    "marque": "Eram",
+    "categorie": "haut",
+    "nom": "Veste classique beige",
+    "description": "Veste en viscose beige, coupe classique. Idéal pour vos sorties mariage.",
+    "prix_eur": 44.99,
+    "genre": "femme",
+    "styles": [
+      "casual",
+      "streetwear",
+      "chic"
+    ],
+    "saisons": [
+      "hiver"
+    ],
+    "occasions": [
+      "cérémonie",
+      "fête",
+      "mariage",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "XL",
+      "L",
+      "XXL",
+      "M",
+      "XS",
+      "S"
+    ],
+    "couleurs": [
+      "beige",
+      "gris",
+      "rose poudré"
+    ],
+    "image_url": "https://loremflickr.com/600/800/jacket?lock=1516",
+    "url_produit": "https://www.eram.fr/produits/cc2552cb-351a-41fc-b69e-826daadee18b"
+  },
+  {
+    "id": "189a45d3-d9cb-439d-96f7-26f5de51b4c7",
+    "marque": "Eram",
+    "categorie": "chaussures",
+    "nom": "Baskets chic kaki",
+    "description": "Baskets en lin kaki, coupe chic. Idéal pour vos sorties fête.",
+    "prix_eur": 142.99,
+    "genre": "homme",
+    "styles": [
+      "sportif",
+      "streetwear",
+      "chic"
+    ],
+    "saisons": [
+      "automne"
+    ],
+    "occasions": [
+      "anniversaire",
+      "baptême",
+      "mariage",
+      "fête"
+    ],
+    "tailles_disponibles": [
+      "39",
+      "40",
+      "44",
+      "46",
+      "43"
     ],
     "couleurs": [
       "kaki",
+      "blanc"
+    ],
+    "image_url": "https://loremflickr.com/600/800/sneakers?lock=764015",
+    "url_produit": "https://www.eram.fr/produits/189a45d3-d9cb-439d-96f7-26f5de51b4c7"
+  },
+  {
+    "id": "700b883b-2374-43aa-bd61-4f9b0809ef87",
+    "marque": "Gemo",
+    "categorie": "bas",
+    "nom": "Short tendance bleu ciel",
+    "description": "Short en viscose bleu ciel, coupe tendance. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 27.99,
+    "genre": "femme",
+    "styles": [
+      "bohême",
+      "chic",
+      "sportif"
+    ],
+    "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "mariage",
+      "anniversaire",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "40",
+      "44",
+      "36"
+    ],
+    "couleurs": [
+      "bleu ciel",
       "camel"
     ],
-    "image_url": "https://loremflickr.com/600/800/shorts?lock=610298",
-    "url_produit": "https://www.eram.fr/produits/656c7c95-c338-440a-887f-9d29d9b5176d"
+    "image_url": "https://loremflickr.com/600/800/shorts?lock=805842",
+    "url_produit": "https://www.gemo.fr/produits/700b883b-2374-43aa-bd61-4f9b0809ef87"
+  },
+  {
+    "id": "8b4916cb-f475-47da-9e3d-0e558f05d636",
+    "marque": "Eram",
+    "categorie": "robe",
+    "nom": "Robe pull chic camel",
+    "description": "Robe pull en velours camel, coupe chic. Idéal pour vos sorties fête.",
+    "prix_eur": 108.99,
+    "genre": "femme",
+    "styles": [
+      "classique",
+      "streetwear"
+    ],
+    "saisons": [
+      "hiver"
+    ],
+    "occasions": [
+      "cérémonie",
+      "mariage",
+      "anniversaire",
+      "travail",
+      "fête"
+    ],
+    "tailles_disponibles": [
+      "XL",
+      "XS",
+      "M",
+      "XXL",
+      "S",
+      "L"
+    ],
+    "couleurs": [
+      "camel",
+      "gris"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=825323",
+    "url_produit": "https://www.eram.fr/produits/8b4916cb-f475-47da-9e3d-0e558f05d636"
+  },
+  {
+    "id": "098f718d-f65e-4396-b054-af4c081ecada",
+    "marque": "TBS",
+    "categorie": "robe",
+    "nom": "Robe pull élégant bleu jean",
+    "description": "Robe pull en laine bleu jean, coupe élégant. Idéal pour vos sorties mariage.",
+    "prix_eur": 117.99,
+    "genre": "unisexe",
+    "styles": [
+      "classique",
+      "bohême",
+      "streetwear"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "baptême",
+      "travail",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "XXL",
+      "L",
+      "XL",
+      "M",
+      "S"
+    ],
+    "couleurs": [
+      "bleu jean",
+      "gris"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=395821",
+    "url_produit": "https://www.tbs.fr/produits/098f718d-f65e-4396-b054-af4c081ecada"
+  },
+  {
+    "id": "03c31701-cced-4a0c-bdc8-3dbf233c21f0",
+    "marque": "Bocage",
+    "categorie": "robe",
+    "nom": "Robe chemise moderne blanc",
+    "description": "Robe chemise en velours blanc, coupe moderne. Idéal pour vos sorties baptême.",
+    "prix_eur": 103.99,
+    "genre": "femme",
+    "styles": [
+      "sportif",
+      "bohême"
+    ],
+    "saisons": [
+      "été"
+    ],
+    "occasions": [
+      "travail",
+      "baptême",
+      "fête",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "XL",
+      "M"
+    ],
+    "couleurs": [
+      "blanc",
+      "bleu ciel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=117120",
+    "url_produit": "https://www.bocage.fr/produits/03c31701-cced-4a0c-bdc8-3dbf233c21f0"
+  },
+  {
+    "id": "cb50cf35-2925-4b86-a680-1e1be459efb1",
+    "marque": "Bocage",
+    "categorie": "robe",
+    "nom": "Robe portefeuille élégant rose poudré",
+    "description": "Robe portefeuille en coton rose poudré, coupe élégant. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 70.99,
+    "genre": "enfant",
+    "styles": [
+      "bohême",
+      "sportif"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "cérémonie",
+      "anniversaire",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "12",
+      "6",
+      "2",
+      "16",
+      "14",
+      "4",
+      "10",
+      "8"
+    ],
+    "couleurs": [
+      "rose poudré"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=74184",
+    "url_produit": "https://www.bocage.fr/produits/cb50cf35-2925-4b86-a680-1e1be459efb1"
+  },
+  {
+    "id": "c301b358-b167-48d2-bcb8-b62a8a5e917c",
+    "marque": "Gemo",
+    "categorie": "haut",
+    "nom": "Top chic rose poudré",
+    "description": "Top en laine rose poudré, coupe chic. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 31.99,
+    "genre": "femme",
+    "styles": [
+      "casual",
+      "bohême",
+      "sportif"
+    ],
+    "saisons": [
+      "automne"
+    ],
+    "occasions": [
+      "fête",
+      "anniversaire",
+      "cérémonie",
+      "mariage",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "L",
+      "S",
+      "XS"
+    ],
+    "couleurs": [
+      "rose poudré",
+      "moutarde"
+    ],
+    "image_url": "https://loremflickr.com/600/800/top?lock=671839",
+    "url_produit": "https://www.gemo.fr/produits/c301b358-b167-48d2-bcb8-b62a8a5e917c"
+  },
+  {
+    "id": "b225c312-da48-48a3-9d4b-05581c3ac8ba",
+    "marque": "Bocage",
+    "categorie": "bas",
+    "nom": "Chino raffiné marine",
+    "description": "Chino en cachemire marine, coupe raffiné. Idéal pour vos sorties travail.",
+    "prix_eur": 76.99,
+    "genre": "femme",
+    "styles": [
+      "casual",
+      "chic"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "fête",
+      "anniversaire",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "46",
+      "38",
+      "36"
+    ],
+    "couleurs": [
+      "marine",
+      "moutarde",
+      "noir"
+    ],
+    "image_url": "https://loremflickr.com/600/800/chinos?lock=822206",
+    "url_produit": "https://www.bocage.fr/produits/b225c312-da48-48a3-9d4b-05581c3ac8ba"
+  },
+  {
+    "id": "fc73e529-f03f-4219-bd7f-a1f6484107d9",
+    "marque": "Eram",
+    "categorie": "robe",
+    "nom": "Robe pull décontracté rouge",
+    "description": "Robe pull en denim rouge, coupe décontracté. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 62.99,
+    "genre": "enfant",
+    "styles": [
+      "classique",
+      "casual"
+    ],
+    "saisons": [
+      "automne"
+    ],
+    "occasions": [
+      "fête",
+      "cérémonie",
+      "anniversaire",
+      "quotidien",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "6",
+      "16",
+      "14",
+      "8",
+      "12",
+      "10",
+      "4",
+      "2"
+    ],
+    "couleurs": [
+      "rouge",
+      "camel",
+      "bleu jean"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=457972",
+    "url_produit": "https://www.eram.fr/produits/fc73e529-f03f-4219-bd7f-a1f6484107d9"
+  },
+  {
+    "id": "bdfcd8d4-6574-4f51-9801-376cb655c00c",
+    "marque": "Eram",
+    "categorie": "haut",
+    "nom": "Blouse sobre marine",
+    "description": "Blouse en maille marine, coupe sobre. Idéal pour vos sorties fête.",
+    "prix_eur": 42.99,
+    "genre": "femme",
+    "styles": [
+      "casual",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "fête",
+      "baptême",
+      "mariage",
+      "cérémonie",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "L",
+      "XXL"
+    ],
+    "couleurs": [
+      "marine",
+      "moutarde",
+      "beige"
+    ],
+    "image_url": "https://loremflickr.com/600/800/blouse?lock=467591",
+    "url_produit": "https://www.eram.fr/produits/bdfcd8d4-6574-4f51-9801-376cb655c00c"
+  },
+  {
+    "id": "592fe211-e367-4913-9eec-05a4ea1ef184",
+    "marque": "Eram",
+    "categorie": "accessoire",
+    "nom": "Sac à main chic rose poudré",
+    "description": "Sac à main en denim rose poudré, coupe chic. Idéal pour vos sorties travail.",
+    "prix_eur": 22.99,
+    "genre": "homme",
+    "styles": [
+      "sportif",
+      "casual"
+    ],
+    "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "travail",
+      "anniversaire",
+      "mariage",
+      "fête"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "rose poudré",
+      "beige",
+      "écru"
+    ],
+    "image_url": "https://loremflickr.com/600/800/handbag?lock=311785",
+    "url_produit": "https://www.eram.fr/produits/592fe211-e367-4913-9eec-05a4ea1ef184"
+  },
+  {
+    "id": "287ee67e-c056-4330-aa40-3cd76f33426e",
+    "marque": "TBS",
+    "categorie": "accessoire",
+    "nom": "Sac classique bleu jean",
+    "description": "Sac en soie bleu jean, coupe classique. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 37.99,
+    "genre": "femme",
+    "styles": [
+      "chic",
+      "sportif",
+      "casual"
+    ],
+    "saisons": [
+      "été"
+    ],
+    "occasions": [
+      "quotidien",
+      "cérémonie",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "bleu jean",
+      "gris",
+      "bordeaux"
+    ],
+    "image_url": "https://loremflickr.com/600/800/handbag?lock=405861",
+    "url_produit": "https://www.tbs.fr/produits/287ee67e-c056-4330-aa40-3cd76f33426e"
+  },
+  {
+    "id": "c23e0c77-0d58-4abf-986f-a42d5a739068",
+    "marque": "Bocage",
+    "categorie": "haut",
+    "nom": "Sweat classique écru",
+    "description": "Sweat en coton écru, coupe classique. Idéal pour vos sorties quotidien.",
+    "prix_eur": 73.99,
+    "genre": "femme",
+    "styles": [
+      "sportif",
+      "casual"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "fête",
+      "cérémonie",
+      "quotidien",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "L",
+      "XL",
+      "XXL",
+      "XS",
+      "S"
+    ],
+    "couleurs": [
+      "écru",
+      "bleu ciel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/sweatshirt?lock=849585",
+    "url_produit": "https://www.bocage.fr/produits/c23e0c77-0d58-4abf-986f-a42d5a739068"
+  },
+  {
+    "id": "dc568033-4c43-48d3-a15b-8dfc970f62a4",
+    "marque": "Bocage",
+    "categorie": "chaussures",
+    "nom": "Sandales tendance kaki",
+    "description": "Sandales en maille kaki, coupe tendance. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 106.99,
+    "genre": "femme",
+    "styles": [
+      "streetwear",
+      "chic"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "anniversaire",
+      "baptême",
+      "cérémonie",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "40",
+      "39",
+      "35",
+      "36"
+    ],
+    "couleurs": [
+      "kaki",
+      "marine",
+      "moutarde"
+    ],
+    "image_url": "https://loremflickr.com/600/800/sandals?lock=660131",
+    "url_produit": "https://www.bocage.fr/produits/dc568033-4c43-48d3-a15b-8dfc970f62a4"
+  },
+  {
+    "id": "8ac29072-2569-4182-b9a8-b5c67a0a9411",
+    "marque": "Gemo",
+    "categorie": "chaussures",
+    "nom": "Ballerines tendance noir",
+    "description": "Ballerines en velours noir, coupe tendance. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 53.99,
+    "genre": "femme",
+    "styles": [
+      "casual",
+      "bohême",
+      "classique"
+    ],
+    "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "baptême",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "38",
+      "41",
+      "36",
+      "40",
+      "35",
+      "39",
+      "37"
+    ],
+    "couleurs": [
+      "noir",
+      "bleu ciel",
+      "kaki"
+    ],
+    "image_url": "https://loremflickr.com/600/800/flats?lock=9098",
+    "url_produit": "https://www.gemo.fr/produits/8ac29072-2569-4182-b9a8-b5c67a0a9411"
+  },
+  {
+    "id": "9e18e671-45f4-47a2-a7bd-aa2f2c4ebc37",
+    "marque": "Eram",
+    "categorie": "bas",
+    "nom": "Chino élégant moutarde",
+    "description": "Chino en laine moutarde, coupe élégant. Idéal pour vos sorties baptême.",
+    "prix_eur": 88.99,
+    "genre": "homme",
+    "styles": [
+      "classique",
+      "streetwear"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "cérémonie",
+      "quotidien",
+      "travail",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "40",
+      "44",
+      "46",
+      "36",
+      "38"
+    ],
+    "couleurs": [
+      "moutarde",
+      "gris",
+      "blanc"
+    ],
+    "image_url": "https://loremflickr.com/600/800/chinos?lock=434637",
+    "url_produit": "https://www.eram.fr/produits/9e18e671-45f4-47a2-a7bd-aa2f2c4ebc37"
+  },
+  {
+    "id": "6b17fc38-36cc-43e9-a689-8782d82cef52",
+    "marque": "Eram",
+    "categorie": "accessoire",
+    "nom": "Foulard raffiné rouge",
+    "description": "Foulard en denim rouge, coupe raffiné. Idéal pour vos sorties fête.",
+    "prix_eur": 54.99,
+    "genre": "homme",
+    "styles": [
+      "classique",
+      "sportif",
+      "bohême"
+    ],
+    "saisons": [
+      "hiver"
+    ],
+    "occasions": [
+      "fête",
+      "baptême",
+      "anniversaire",
+      "cérémonie",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "rouge",
+      "marine"
+    ],
+    "image_url": "https://loremflickr.com/600/800/scarf?lock=735804",
+    "url_produit": "https://www.eram.fr/produits/6b17fc38-36cc-43e9-a689-8782d82cef52"
+  },
+  {
+    "id": "f6070857-9da6-4de1-a840-ad2cde4e5800",
+    "marque": "Bocage",
+    "categorie": "haut",
+    "nom": "Cardigan décontracté beige",
+    "description": "Cardigan en viscose beige, coupe décontracté. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 46.99,
+    "genre": "femme",
+    "styles": [
+      "chic",
+      "streetwear",
+      "classique"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "quotidien",
+      "cérémonie",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "XL",
+      "M",
+      "L",
+      "XS"
+    ],
+    "couleurs": [
+      "beige",
+      "gris"
+    ],
+    "image_url": "https://loremflickr.com/600/800/cardigan?lock=660150",
+    "url_produit": "https://www.bocage.fr/produits/f6070857-9da6-4de1-a840-ad2cde4e5800"
+  },
+  {
+    "id": "293884fd-b117-42f2-975a-264e0ed4c0f8",
+    "marque": "Eram",
+    "categorie": "haut",
+    "nom": "T-shirt raffiné kaki",
+    "description": "T-shirt en coton kaki, coupe raffiné. Idéal pour vos sorties quotidien.",
+    "prix_eur": 27.99,
+    "genre": "homme",
+    "styles": [
+      "streetwear",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "travail",
+      "quotidien",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "XL",
+      "L",
+      "S",
+      "M"
+    ],
+    "couleurs": [
+      "kaki"
+    ],
+    "image_url": "https://loremflickr.com/600/800/tshirt?lock=570608",
+    "url_produit": "https://www.eram.fr/produits/293884fd-b117-42f2-975a-264e0ed4c0f8"
+  },
+  {
+    "id": "df85304a-8f6b-4784-977b-f50782cff3eb",
+    "marque": "Eram",
+    "categorie": "accessoire",
+    "nom": "Bonnet chic camel",
+    "description": "Bonnet en maille camel, coupe chic. Idéal pour vos sorties quotidien.",
+    "prix_eur": 24.99,
+    "genre": "unisexe",
+    "styles": [
+      "chic",
+      "streetwear"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "mariage",
+      "quotidien",
+      "baptême"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "camel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/beanie?lock=51568",
+    "url_produit": "https://www.eram.fr/produits/df85304a-8f6b-4784-977b-f50782cff3eb"
+  },
+  {
+    "id": "a0c8402e-a31b-4965-83af-29674d78421b",
+    "marque": "Bocage",
+    "categorie": "robe",
+    "nom": "Robe pull tendance noir",
+    "description": "Robe pull en lin noir, coupe tendance. Idéal pour vos sorties quotidien.",
+    "prix_eur": 108.99,
+    "genre": "femme",
+    "styles": [
+      "chic",
+      "bohême"
+    ],
+    "saisons": [
+      "automne"
+    ],
+    "occasions": [
+      "anniversaire",
+      "mariage",
+      "baptême",
+      "quotidien",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "L",
+      "S",
+      "M",
+      "XXL",
+      "XS"
+    ],
+    "couleurs": [
+      "noir",
+      "rouge",
+      "rose poudré"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=480887",
+    "url_produit": "https://www.bocage.fr/produits/a0c8402e-a31b-4965-83af-29674d78421b"
+  },
+  {
+    "id": "b84a1864-9df9-4634-975e-556da95d0d86",
+    "marque": "Gemo",
+    "categorie": "bas",
+    "nom": "Short moderne marine",
+    "description": "Short en laine marine, coupe moderne. Idéal pour vos sorties quotidien.",
+    "prix_eur": 25.99,
+    "genre": "homme",
+    "styles": [
+      "classique",
+      "casual"
+    ],
+    "saisons": [
+      "automne",
+      "hiver"
+    ],
+    "occasions": [
+      "cérémonie",
+      "mariage",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "42",
+      "36",
+      "48",
+      "38"
+    ],
+    "couleurs": [
+      "marine",
+      "bleu ciel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/shorts?lock=866743",
+    "url_produit": "https://www.gemo.fr/produits/b84a1864-9df9-4634-975e-556da95d0d86"
+  },
+  {
+    "id": "d3a8d228-f659-4edf-a019-d43c0588b599",
+    "marque": "Eram",
+    "categorie": "accessoire",
+    "nom": "Chapeau moderne bleu ciel",
+    "description": "Chapeau en soie bleu ciel, coupe moderne. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 18.99,
+    "genre": "femme",
+    "styles": [
+      "bohême",
+      "classique"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "travail",
+      "cérémonie",
+      "baptême",
+      "anniversaire",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "unique"
+    ],
+    "couleurs": [
+      "bleu ciel",
+      "bordeaux"
+    ],
+    "image_url": "https://loremflickr.com/600/800/hat?lock=59975",
+    "url_produit": "https://www.eram.fr/produits/d3a8d228-f659-4edf-a019-d43c0588b599"
+  },
+  {
+    "id": "7a7388cb-a1b8-4ee0-8d05-82b029beba60",
+    "marque": "Eram",
+    "categorie": "haut",
+    "nom": "Blouse tendance kaki",
+    "description": "Blouse en viscose kaki, coupe tendance. Idéal pour vos sorties quotidien.",
+    "prix_eur": 61.99,
+    "genre": "femme",
+    "styles": [
+      "sportif",
+      "chic",
+      "casual"
+    ],
+    "saisons": [
+      "hiver"
+    ],
+    "occasions": [
+      "fête",
+      "quotidien",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "M",
+      "XS",
+      "S"
+    ],
+    "couleurs": [
+      "kaki",
+      "marine",
+      "vert sauge"
+    ],
+    "image_url": "https://loremflickr.com/600/800/blouse?lock=394065",
+    "url_produit": "https://www.eram.fr/produits/7a7388cb-a1b8-4ee0-8d05-82b029beba60"
+  },
+  {
+    "id": "e6375bf7-d92b-48ae-97ec-795fa0590075",
+    "marque": "TBS",
+    "categorie": "bas",
+    "nom": "Jupe élégant noir",
+    "description": "Jupe en lin noir, coupe élégant. Idéal pour vos sorties baptême.",
+    "prix_eur": 56.99,
+    "genre": "homme",
+    "styles": [
+      "bohême",
+      "casual",
+      "classique"
+    ],
+    "saisons": [
+      "automne"
+    ],
+    "occasions": [
+      "baptême",
+      "anniversaire",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "42",
+      "46",
+      "40",
+      "48",
+      "44",
+      "36",
+      "38"
+    ],
+    "couleurs": [
+      "noir",
+      "moutarde",
+      "rose poudré"
+    ],
+    "image_url": "https://loremflickr.com/600/800/skirt?lock=391565",
+    "url_produit": "https://www.tbs.fr/produits/e6375bf7-d92b-48ae-97ec-795fa0590075"
+  },
+  {
+    "id": "abd5c8e8-89bf-410f-9897-1cb44d1e49ea",
+    "marque": "Eram",
+    "categorie": "chaussures",
+    "nom": "Sandales décontracté gris",
+    "description": "Sandales en velours gris, coupe décontracté. Idéal pour vos sorties travail.",
+    "prix_eur": 77.99,
+    "genre": "homme",
+    "styles": [
+      "casual",
+      "sportif",
+      "streetwear"
+    ],
+    "saisons": [
+      "automne"
+    ],
+    "occasions": [
+      "anniversaire",
+      "cérémonie",
+      "travail",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "44",
+      "45"
+    ],
+    "couleurs": [
+      "gris"
+    ],
+    "image_url": "https://loremflickr.com/600/800/sandals?lock=917418",
+    "url_produit": "https://www.eram.fr/produits/abd5c8e8-89bf-410f-9897-1cb44d1e49ea"
+  },
+  {
+    "id": "8e0be216-e882-40c1-8ae3-a192b4792b4a",
+    "marque": "Gemo",
+    "categorie": "bas",
+    "nom": "Bermuda classique blanc",
+    "description": "Bermuda en soie blanc, coupe classique. Idéal pour vos sorties fête.",
+    "prix_eur": 44.99,
+    "genre": "unisexe",
+    "styles": [
+      "bohême",
+      "casual"
+    ],
+    "saisons": [
+      "hiver"
+    ],
+    "occasions": [
+      "quotidien",
+      "baptême",
+      "fête"
+    ],
+    "tailles_disponibles": [
+      "XS",
+      "L",
+      "M",
+      "XL"
+    ],
+    "couleurs": [
+      "blanc"
+    ],
+    "image_url": "https://loremflickr.com/600/800/shorts?lock=145829",
+    "url_produit": "https://www.gemo.fr/produits/8e0be216-e882-40c1-8ae3-a192b4792b4a"
+  },
+  {
+    "id": "ce870e0f-75e0-4983-b6ab-0e23401f511b",
+    "marque": "Eram",
+    "categorie": "bas",
+    "nom": "Bermuda intemporel noir",
+    "description": "Bermuda en viscose noir, coupe intemporel. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 63.99,
+    "genre": "femme",
+    "styles": [
+      "sportif",
+      "chic"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "fête",
+      "cérémonie",
+      "baptême",
+      "quotidien"
+    ],
+    "tailles_disponibles": [
+      "36",
+      "44",
+      "40",
+      "42"
+    ],
+    "couleurs": [
+      "noir",
+      "rouge",
+      "gris"
+    ],
+    "image_url": "https://loremflickr.com/600/800/shorts?lock=960919",
+    "url_produit": "https://www.eram.fr/produits/ce870e0f-75e0-4983-b6ab-0e23401f511b"
+  },
+  {
+    "id": "279b6d97-17d9-4d71-904b-c4766323030a",
+    "marque": "Eram",
+    "categorie": "haut",
+    "nom": "Chemise chic bleu jean",
+    "description": "Chemise en laine bleu jean, coupe chic. Idéal pour vos sorties travail.",
+    "prix_eur": 73.99,
+    "genre": "femme",
+    "styles": [
+      "streetwear",
+      "classique"
+    ],
+    "saisons": [
+      "été"
+    ],
+    "occasions": [
+      "quotidien",
+      "baptême",
+      "mariage",
+      "travail"
+    ],
+    "tailles_disponibles": [
+      "XS",
+      "M",
+      "XXL",
+      "XL",
+      "S",
+      "L"
+    ],
+    "couleurs": [
+      "bleu jean",
+      "beige"
+    ],
+    "image_url": "https://loremflickr.com/600/800/shirt?lock=498223",
+    "url_produit": "https://www.eram.fr/produits/279b6d97-17d9-4d71-904b-c4766323030a"
+  },
+  {
+    "id": "c77db74e-934c-40f2-8c67-e68003a116ab",
+    "marque": "Eram",
+    "categorie": "bas",
+    "nom": "Jean raffiné écru",
+    "description": "Jean en coton écru, coupe raffiné. Idéal pour vos sorties fête.",
+    "prix_eur": 75.99,
+    "genre": "femme",
+    "styles": [
+      "sportif",
+      "chic",
+      "classique"
+    ],
+    "saisons": [
+      "été"
+    ],
+    "occasions": [
+      "fête",
+      "baptême",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "36",
+      "42",
+      "34",
+      "40",
+      "38"
+    ],
+    "couleurs": [
+      "écru",
+      "camel",
+      "bleu jean"
+    ],
+    "image_url": "https://loremflickr.com/600/800/jeans?lock=908256",
+    "url_produit": "https://www.eram.fr/produits/c77db74e-934c-40f2-8c67-e68003a116ab"
+  },
+  {
+    "id": "e4f190e8-ad20-4e52-a790-406efa2e82ec",
+    "marque": "Bocage",
+    "categorie": "bas",
+    "nom": "Chino sobre marine",
+    "description": "Chino en lin marine, coupe sobre. Idéal pour vos sorties mariage.",
+    "prix_eur": 108.99,
+    "genre": "enfant",
+    "styles": [
+      "casual",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "cérémonie",
+      "baptême",
+      "mariage",
+      "fête"
+    ],
+    "tailles_disponibles": [
+      "14",
+      "8",
+      "2"
+    ],
+    "couleurs": [
+      "marine",
+      "rouge",
+      "vert sauge"
+    ],
+    "image_url": "https://loremflickr.com/600/800/chinos?lock=40361",
+    "url_produit": "https://www.bocage.fr/produits/e4f190e8-ad20-4e52-a790-406efa2e82ec"
+  },
+  {
+    "id": "5c4b0d7a-3ac7-497e-87dc-636d38c5a31c",
+    "marque": "Eram",
+    "categorie": "haut",
+    "nom": "Blouse chic rose poudré",
+    "description": "Blouse en viscose rose poudré, coupe chic. Idéal pour vos sorties mariage.",
+    "prix_eur": 56.99,
+    "genre": "homme",
+    "styles": [
+      "streetwear",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps",
+      "été",
+      "automne"
+    ],
+    "occasions": [
+      "mariage",
+      "quotidien",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "M",
+      "XS",
+      "XL",
+      "XXL",
+      "S"
+    ],
+    "couleurs": [
+      "rose poudré",
+      "vert sauge",
+      "bordeaux"
+    ],
+    "image_url": "https://loremflickr.com/600/800/blouse?lock=424070",
+    "url_produit": "https://www.eram.fr/produits/5c4b0d7a-3ac7-497e-87dc-636d38c5a31c"
+  },
+  {
+    "id": "4f2f0757-966b-4ad3-9995-75231aafb0ed",
+    "marque": "Bocage",
+    "categorie": "bas",
+    "nom": "Chino intemporel bleu ciel",
+    "description": "Chino en coton bleu ciel, coupe intemporel. Idéal pour vos sorties baptême.",
+    "prix_eur": 100.99,
+    "genre": "unisexe",
+    "styles": [
+      "streetwear",
+      "casual"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "quotidien",
+      "mariage",
+      "baptême",
+      "anniversaire",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "XS",
+      "XXL"
+    ],
+    "couleurs": [
+      "bleu ciel",
+      "noir",
+      "bordeaux"
+    ],
+    "image_url": "https://loremflickr.com/600/800/chinos?lock=483463",
+    "url_produit": "https://www.bocage.fr/produits/4f2f0757-966b-4ad3-9995-75231aafb0ed"
+  },
+  {
+    "id": "3284a1a4-02ed-43c9-bf5a-16f841ba5f04",
+    "marque": "Bocage",
+    "categorie": "robe",
+    "nom": "Robe moderne bleu jean",
+    "description": "Robe en soie bleu jean, coupe moderne. Idéal pour vos sorties travail.",
+    "prix_eur": 135.99,
+    "genre": "enfant",
+    "styles": [
+      "sportif",
+      "streetwear"
+    ],
+    "saisons": [
+      "automne"
+    ],
+    "occasions": [
+      "baptême",
+      "travail",
+      "cérémonie",
+      "anniversaire"
+    ],
+    "tailles_disponibles": [
+      "16",
+      "8",
+      "12",
+      "2"
+    ],
+    "couleurs": [
+      "bleu jean",
+      "moutarde"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=553779",
+    "url_produit": "https://www.bocage.fr/produits/3284a1a4-02ed-43c9-bf5a-16f841ba5f04"
+  },
+  {
+    "id": "74a43b01-021f-4423-be85-d65365a49136",
+    "marque": "Eram",
+    "categorie": "robe",
+    "nom": "Robe fluide rose poudré",
+    "description": "Robe en viscose rose poudré, coupe fluide. Idéal pour vos sorties anniversaire.",
+    "prix_eur": 123.99,
+    "genre": "enfant",
+    "styles": [
+      "casual",
+      "bohême"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "fête",
+      "anniversaire",
+      "quotidien",
+      "mariage"
+    ],
+    "tailles_disponibles": [
+      "2",
+      "14",
+      "12",
+      "8"
+    ],
+    "couleurs": [
+      "rose poudré"
+    ],
+    "image_url": "https://loremflickr.com/600/800/dress?lock=922021",
+    "url_produit": "https://www.eram.fr/produits/74a43b01-021f-4423-be85-d65365a49136"
+  },
+  {
+    "id": "29837c91-8bca-42ba-b065-a39ecef096d4",
+    "marque": "TBS",
+    "categorie": "bas",
+    "nom": "Jean décontracté vert sauge",
+    "description": "Jean en lin vert sauge, coupe décontracté. Idéal pour vos sorties baptême.",
+    "prix_eur": 68.99,
+    "genre": "femme",
+    "styles": [
+      "streetwear",
+      "casual",
+      "sportif"
+    ],
+    "saisons": [
+      "printemps",
+      "été"
+    ],
+    "occasions": [
+      "cérémonie",
+      "travail",
+      "mariage",
+      "baptême",
+      "fête"
+    ],
+    "tailles_disponibles": [
+      "38",
+      "40"
+    ],
+    "couleurs": [
+      "vert sauge"
+    ],
+    "image_url": "https://loremflickr.com/600/800/jeans?lock=483657",
+    "url_produit": "https://www.tbs.fr/produits/29837c91-8bca-42ba-b065-a39ecef096d4"
+  },
+  {
+    "id": "fd59d701-8fb1-43cd-99a0-dc4b30325687",
+    "marque": "TBS",
+    "categorie": "haut",
+    "nom": "Top élégant bleu ciel",
+    "description": "Top en viscose bleu ciel, coupe élégant. Idéal pour vos sorties baptême.",
+    "prix_eur": 53.99,
+    "genre": "femme",
+    "styles": [
+      "bohême",
+      "chic"
+    ],
+    "saisons": [
+      "printemps"
+    ],
+    "occasions": [
+      "baptême",
+      "anniversaire",
+      "travail",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "S",
+      "XXL",
+      "L"
+    ],
+    "couleurs": [
+      "bleu ciel"
+    ],
+    "image_url": "https://loremflickr.com/600/800/top?lock=527643",
+    "url_produit": "https://www.tbs.fr/produits/fd59d701-8fb1-43cd-99a0-dc4b30325687"
+  },
+  {
+    "id": "f77cd827-fcc0-47ad-90d8-354802d2378c",
+    "marque": "TBS",
+    "categorie": "bas",
+    "nom": "Chino sobre bleu ciel",
+    "description": "Chino en viscose bleu ciel, coupe sobre. Idéal pour vos sorties cérémonie.",
+    "prix_eur": 75.99,
+    "genre": "femme",
+    "styles": [
+      "streetwear",
+      "classique"
+    ],
+    "saisons": [
+      "printemps",
+      "automne"
+    ],
+    "occasions": [
+      "baptême",
+      "quotidien",
+      "travail",
+      "cérémonie"
+    ],
+    "tailles_disponibles": [
+      "42",
+      "34",
+      "40"
+    ],
+    "couleurs": [
+      "bleu ciel",
+      "noir"
+    ],
+    "image_url": "https://loremflickr.com/600/800/chinos?lock=158303",
+    "url_produit": "https://www.tbs.fr/produits/f77cd827-fcc0-47ad-90d8-354802d2378c"
   }
 ]

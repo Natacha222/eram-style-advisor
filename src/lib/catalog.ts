@@ -63,8 +63,11 @@ export function prefilterCatalog(
 ): Product[] {
   const taillesHautAcc = new Set([brief.taille_haut, 'unique']);
   const taillesBasAcc = new Set([brief.taille_bas, 'unique']);
-  const stylesUtilisateur = new Set<string>(brief.styles);
   const budgetMax = brief.budget_eur * 1.5;
+  // Note : on NE filtre PAS sur le style ici. La préférence stylistique est
+  // transmise à Claude dans le prompt ; il peut choisir un produit hors-style
+  // si la cohérence stylistique globale de la tenue l'exige (ex. accessoire
+  // contrastant). Pré-filtrer durement réduisait trop le catalogue candidat.
 
   return catalog.filter((p) => {
     if (p.genre !== brief.genre && p.genre !== 'unisexe') return false;
@@ -79,10 +82,6 @@ export function prefilterCatalog(
     // chaussures/accessoire : pas de filtre taille (pas demandé dans le formulaire).
 
     if (p.prix_eur > budgetMax) return false;
-
-    if (stylesUtilisateur.size > 0) {
-      if (!p.styles.some((s) => stylesUtilisateur.has(s))) return false;
-    }
 
     return true;
   });

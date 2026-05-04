@@ -237,8 +237,10 @@ function generateProduct(): Product {
     taillesPossibles.length,
   );
 
-  const stylesProduit = pickSome(STYLES, 1, 2);
-  const occasionsProduit = pickSome(OCCASIONS, 2, 4);
+  // 2-3 styles + 3-5 occasions par produit : assure que les filtres ne
+  // raboten pas trop le catalogue, même avec des critères utilisateur précis.
+  const stylesProduit = pickSome(STYLES, 2, 3);
+  const occasionsProduit = pickSome(OCCASIONS, 3, 5);
   const saisonsProduit = pick(SAISONS_COMBOS);
 
   const [prixMin, prixMax] = PRIX_RANGES[marque][categorie];
@@ -276,7 +278,9 @@ function generateProduct(): Product {
 // ============================================================================
 
 async function main() {
-  const TOTAL = 100;
+  // 150 produits : marge confortable pour que le préfiltrage par genre × saison
+  // × occasion × tailles × budget laisse toujours assez de candidats à Claude.
+  const TOTAL = 150;
   const catalog: Product[] = [];
   for (let i = 0; i < TOTAL; i++) {
     catalog.push(generateProduct());
