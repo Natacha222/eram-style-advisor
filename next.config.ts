@@ -32,7 +32,7 @@ const securityHeaders = [
     key: 'Content-Security-Policy',
     value: [
       "default-src 'self'",
-      "img-src 'self' https://picsum.photos https://fastly.picsum.photos data: blob:",
+      "img-src 'self' https://loremflickr.com https://*.staticflickr.com data: blob:",
       scriptSrc,
       "style-src 'self' 'unsafe-inline'",
       "font-src 'self' data:",
@@ -51,9 +51,9 @@ const nextConfig: NextConfig = {
     // RGESN-0049/0050 : formats modernes pour réduire les octets transférés.
     formats: ['image/avif', 'image/webp'],
     remotePatterns: [
-      { protocol: 'https', hostname: 'picsum.photos' },
-      // picsum.photos redirige les requêtes d'image vers fastly.
-      { protocol: 'https', hostname: 'fastly.picsum.photos' },
+      { protocol: 'https', hostname: 'loremflickr.com' },
+      // loremflickr redirige les requêtes d'image vers le CDN Flickr.
+      { protocol: 'https', hostname: '**.staticflickr.com' },
     ],
   },
   async headers() {

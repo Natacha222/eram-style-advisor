@@ -105,6 +105,42 @@ const MATIERES = [
   'velours', 'cachemire', 'viscose', 'maille',
 ];
 
+/**
+ * Mots-clés Lorem Flickr (anglais) par substantif de produit.
+ * Permet d'obtenir des images qui correspondent vraiment au type de pièce
+ * décrit, contrairement à picsum.photos qui renvoyait des paysages aléatoires.
+ */
+const KEYWORDS_FLICKR: Record<string, string> = {
+  // haut
+  'T-shirt': 'tshirt', 'Chemise': 'shirt', 'Blouse': 'blouse',
+  'Pull': 'sweater', 'Cardigan': 'cardigan', 'Sweat': 'sweatshirt',
+  'Veste': 'jacket', 'Top': 'top', 'Tunique': 'tunic', 'Polo': 'polo',
+  // bas
+  'Jean': 'jeans', 'Pantalon': 'trousers', 'Short': 'shorts',
+  'Jupe': 'skirt', 'Bermuda': 'shorts', 'Chino': 'chinos',
+  // robe
+  'Robe': 'dress', 'Robe longue': 'dress', 'Robe pull': 'dress',
+  'Robe chemise': 'dress', 'Combinaison': 'jumpsuit',
+  'Robe portefeuille': 'dress',
+  // chaussures
+  'Baskets': 'sneakers', 'Sandales': 'sandals', 'Bottines': 'boots',
+  'Ballerines': 'flats', 'Mocassins': 'loafers', 'Escarpins': 'heels',
+  'Derbies': 'derby', 'Boots': 'boots',
+  // accessoire
+  'Sac': 'handbag', 'Sac à main': 'handbag', 'Ceinture': 'belt',
+  'Foulard': 'scarf', 'Chapeau': 'hat', 'Écharpe': 'scarf',
+  'Bonnet': 'beanie', 'Pochette': 'clutch', 'Casquette': 'cap',
+};
+
+/** Catégorie en anglais — fallback si `nomBase` n'est pas dans KEYWORDS_FLICKR. */
+const CATEGORIE_EN: Record<Categorie, string> = {
+  haut: 'top',
+  bas: 'pants',
+  robe: 'dress',
+  chaussures: 'shoes',
+  accessoire: 'accessory',
+};
+
 /** Combinaisons saisons cohérentes (jamais hiver+été simultanés). */
 const SAISONS_COMBOS: ReadonlyArray<('printemps' | 'été' | 'automne' | 'hiver')[]> = [
   ['printemps'], ['été'], ['automne'], ['hiver'],
@@ -226,7 +262,11 @@ function generateProduct(): Product {
     occasions: occasionsProduit,
     tailles_disponibles: tailles,
     couleurs: couleursProduit,
-    image_url: `https://picsum.photos/seed/${id}/600/800`,
+    // Lorem Flickr : vraie photo correspondant au type de pièce. `lock` est
+    // dérivé de l'UUID (déterministe) plutôt que de Faker, ce qui évite de
+    // consommer la séquence aléatoire — le contenu du catalogue reste identique
+    // à un run sans image_url.
+    image_url: `https://loremflickr.com/600/800/${KEYWORDS_FLICKR[nomBase] ?? CATEGORIE_EN[categorie]}?lock=${parseInt(id.slice(0, 8), 16) % 999999}`,
     url_produit: `https://${DOMAINES[marque]}/produits/${id}`,
   };
 }
