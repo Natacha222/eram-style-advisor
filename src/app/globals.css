@@ -1,26 +1,126 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* ============================================================================
+   Eram Style Advisor — Design system
+   ----------------------------------------------------------------------------
+   - Mode clair par défaut. Mode sombre via [data-theme="dark"] (toggle utilisateur).
+   - Si aucun toggle, on respecte prefers-color-scheme.
+   - Tokens exposés à Tailwind v4 via @theme (utilisables comme bg-accent, text-foreground...).
+   ============================================================================ */
+
+/* Variant Tailwind v4 : `dark:` s'applique quand un ancêtre a [data-theme="dark"]. */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+@theme {
+  /* Surfaces (mode clair) */
+  --color-background: #FAFAF7;
+  --color-surface: #FFFFFF;
+  --color-border: #E5E0D8;
+
+  /* Texte */
+  --color-foreground: #1A1A1A;
+  --color-foreground-muted: #5A5A5A;
+
+  /* Accent (brun chaud Eram) */
+  --color-accent: #8B6F47;
+  --color-accent-hover: #6B5436;
+  --color-accent-foreground: #FFFFFF;
+
+  /* États */
+  --color-success: #2D7A3E;
+  --color-error: #B3261E;
+  --color-error-foreground: #FFFFFF;
+
+  /* Focus visible (RGAA 10.7) */
+  --color-focus-ring: #8B6F47;
+
+  /* Polices système (RGESN-0032) — pas de téléchargement réseau. */
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Helvetica Neue", Arial, sans-serif;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+/* Override en mode sombre explicite (toggle utilisateur). */
+[data-theme="dark"] {
+  --color-background: #1A1814;
+  --color-surface: #2A2620;
+  --color-border: #3A352D;
+  --color-foreground: #F5F2EC;
+  --color-foreground-muted: #B8B0A4;
+  --color-accent: #C9A876;
+  --color-accent-hover: #DEC094;
+  --color-accent-foreground: #1A1814;
+  --color-success: #6BBA7E;
+  --color-error: #F2B8B5;
+  --color-error-foreground: #1A1814;
+  --color-focus-ring: #C9A876;
 }
 
+/* Si l'utilisateur n'a pas explicitement choisi un thème, respecter les préférences système. */
 @media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  :root:not([data-theme]) {
+    --color-background: #1A1814;
+    --color-surface: #2A2620;
+    --color-border: #3A352D;
+    --color-foreground: #F5F2EC;
+    --color-foreground-muted: #B8B0A4;
+    --color-accent: #C9A876;
+    --color-accent-hover: #DEC094;
+    --color-accent-foreground: #1A1814;
+    --color-success: #6BBA7E;
+    --color-error: #F2B8B5;
+    --color-error-foreground: #1A1814;
+    --color-focus-ring: #C9A876;
   }
 }
 
+/* Réglages globaux ========================================================== */
+
+html {
+  color-scheme: light dark;
+}
+[data-theme="light"] { color-scheme: light; }
+[data-theme="dark"]  { color-scheme: dark; }
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-sans);
+  color: var(--color-foreground);
+  background-color: var(--color-background);
+}
+
+/* Focus visible obligatoire (RGAA 10.7) — JAMAIS outline:none sans remplacement. */
+:focus-visible {
+  outline: 2px solid var(--color-focus-ring);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Lien d'évitement (RGAA 12.7). */
+.skip-to-content {
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding: 0.75rem 1rem;
+  background: var(--color-accent);
+  color: var(--color-accent-foreground);
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 0 0 4px 0;
+  transform: translateY(-100%);
+  z-index: 100;
+}
+.skip-to-content:focus-visible {
+  transform: translateY(0);
+  outline-offset: 0;
+}
+
+/* RGAA 13 + RGESN-0009 : respecter prefers-reduced-motion. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }
